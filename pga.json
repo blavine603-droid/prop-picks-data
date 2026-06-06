@@ -1,6 +1,56 @@
 {
   "picks_meta": {
     "updated": "Sat, Jun 6, 2026",
+    "subtitle": "Gerard Top-5 LIVE - -8 T2 R3 - Memorial Tournament",
+    "subline": "Memorial Tournament presented by Workday - R3 Saturday - Muirfield Village GC - Gerard @ -8, T2, 1 shot back - No money at risk."
+  },
+  "sports_data": {
+    "PGA": {
+      "label": "PGA",
+      "emoji": "⛳",
+      "cls": "pga",
+      "context": "Memorial Tournament R3 LIVE - Gerard @ -8, T2, 1 back - Muirfield Village",
+      "golfNote": "R3 leaderboard entering today: Poston -9 (lead), Gerard -8 T2, Burns -6. Only 11 players under par - tight field after Scheffler MC.",
+      "picks": [
+        {
+          "rank": 1,
+          "conviction": 74,
+          "pickId": "PGA-Gerard-Top5-0606",
+          "pickDate": "2026-06-06",
+          "category": "Outright - Top 5",
+          "playerDisplay": "Ryan Gerard",
+          "prop": "Top-5 Finish",
+          "lean": "Top-5",
+          "game": "Memorial Tournament - Muirfield Village GC - R3/R4 - Sat-Sun Jun 6-7",
+          "openingLine": "Top-5",
+          "lineMove": "flat",
+          "lineMoveAmt": "",
+          "baseRate": "57% - players in T1/T2 within 1 shot of lead after 36 holes at Memorial finishing Top-5",
+          "liveStatus": "LIVE: R3 Saturday - Gerard @ -8, T2, 1 back",
+          "grade": null,
+          "why": "<b>Stats (CBS Sports/PGA Tour, Jun 6):</b> -8 through R2, T2, one shot off Poston's lead (-9). SG:APP +0.392/round over last 5 events - top-tier iron-play for Muirfield Village.<br><b>T1:</b> Gerard's SG:APP directly matches Muirfield Village's iron-heavy course demands. T1 PASS (strong course-fit structural edge).<br><b>T2:</b> Scheffler missed the cut - weaker-than-expected field. Only 11 players under par entering R3 - limited competition in the Top-5 window. T2 STRONG.<br><b>T3:</b> 1-shot deficit heading into R3 = prime contention position. National TV R3 Saturday. Gerard's iron precision profile thrives at Muirfield. T3 FAVORABLE.<br><b>Risk:</b> Poston 1-shot cushion; limited Gerard Muirfield Village history. R3 collapse in ball-striking removes the structural edge."
+        }
+      ],
+      "parlay": {
+        "parlayId": "PGA-parlay-0606",
+        "legs": [
+          {"player": "Ryan Gerard", "lean": "Top-5 Finish", "game": "Memorial Tournament R3/R4"},
+          {"player": "Shane McClanahan", "lean": "Over 5.5 K", "game": "TB at MIA - MLB - 4:10 PM ET"}
+        ],
+        "odds": "~+275",
+        "why": "Zero correlation cross-sport. Gerard prime contention position at Muirfield + McClanahan K profile at loanDepot Park."
+      },
+      "trackRecord": {
+        "ydaySingles": {"result": "-", "rec": "Tournament in progress", "note": ""},
+        "ydayParlay": {"result": "-", "rec": "Graded at tournament end", "note": ""},
+        "l30Singles": {"result": "-", "rec": "R3 Saturday", "note": ""},
+        "l30Parlay": {"result": "-", "rec": "Model started Jun 2", "note": ""}
+      }
+    }
+  }
+}{
+  "picks_meta": {
+    "updated": "Sat, Jun 6, 2026",
     "subtitle": "Memorial Tournament R3 — Gerard @ -8, T2, 1 Back",
     "subline": "Memorial Tournament · Jun 4–7, 2026 · Muirfield Village GC, Dublin OH · Round 3 LIVE Saturday · Outright picks graded Sunday · No money at risk."
   },
