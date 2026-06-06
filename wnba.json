@@ -1,0 +1,74 @@
+{
+  "picks_meta": {
+    "updated": "Sat, Jun 6, 2026",
+    "subtitle": "Commissioner's Cup · GSV@LVA 3 PM ET · ABC",
+    "subline": "WNBA Commissioner's Cup · Jun 6, 2026 · Golden State Valkyries at Las Vegas Aces · 3:00 PM ET · ABC · No money at risk."
+  },
+  "sports_data": {
+    "WNBA": {
+      "label": "WNBA",
+      "emoji": "🏀",
+      "cls": "wnba",
+      "context": "WNBA Commissioner's Cup · Jun 6, 2026 · GSV Valkyries at LVA Aces · Michelob Ultra Arena · 3:00 PM ET · ABC",
+      "picks": [
+        {
+          "rank": 1,
+          "conviction": 61,
+          "pickId": "WNBA-Wilson-Pts-0606",
+          "pickDate": "2026-06-06",
+          "category": "Player Points",
+          "playerDisplay": "A'ja Wilson",
+          "prop": "Over 24.5 Points",
+          "lean": "OVER",
+          "game": "GSV Valkyries at LVA Aces · Michelob Ultra Arena · 3:00 PM ET · ABC",
+          "openingLine": "24.5",
+          "lineMove": "flat",
+          "lineMoveAmt": "",
+          "baseRate": "55% — A'ja Wilson above this line in home outings vs. expansion team interior defenses with elevated game context",
+          "liveStatus": null,
+          "grade": null,
+          "why": "<b>Stats (WNBA 2026):</b> 24.8 PPG (2nd in league), 32.4% USG, 2.6 BPG.<br><b>T1:</b> 24.8 PPG is 0.3 above the 24.5 line — marginal structural edge. T1 MARGINAL.<br><b>T2:</b> Golden State Valkyries are a first-year expansion team without established post defenders. Interior matchup significantly favors A'ja. T2 MODERATE.<br><b>T3:</b> Aces winless at home in 2026 — nationally televised Commissioner's Cup game on ABC is a showcase where Wilson historically elevates effort. T3 FAVORABLE.<br><b>Risk:</b> Line is tight (only 0.3 margin). Large Aces lead could limit A'ja's 4Q minutes."
+        }
+      ],
+      "parlay": {
+        "parlayId": "WNBA-parlay-0606",
+        "legs": [
+          {
+            "player": "A'ja Wilson",
+            "lean": "Over 24.5 Points",
+            "game": "GSV at LVA · 3:00 PM ET"
+          },
+          {
+            "player": "Ryan Gerard",
+            "lean": "Top-5 Finish",
+            "game": "Memorial Tournament R3/R4"
+          }
+        ],
+        "odds": "~+260",
+        "why": "Two independent props with zero correlation — different sports, different time slots."
+      },
+      "trackRecord": {
+        "ydaySingles": {
+          "result": "1W/4L",
+          "rec": "Morrow Reb✅(17 vs 10.5) | Bueckers❌(18pts) Thomas DNP❌ PHX-POR Total❌(150) Diggins❌(24pts)",
+          "note": "Jun 5: Wings 104-96 · PHX 78-72 POR · CHI 85-80 CON"
+        },
+        "ydayParlay": {
+          "result": "L",
+          "rec": "Bueckers 18pts vs 20.5 line → parlay failed",
+          "note": "Jun 5 WNBA parlay: L"
+        },
+        "l30Singles": {
+          "result": "7W/5L",
+          "rec": "7 W, 5 L, 0 P",
+          "note": "Jun 2: 6W/1L · Jun 5 +1W +4L"
+        },
+        "l30Parlay": {
+          "result": "1W/1L",
+          "rec": "1 W, 1 L",
+          "note": "Jun 2: W | Jun 5: L"
+        }
+      }
+    }
+  }
+}
