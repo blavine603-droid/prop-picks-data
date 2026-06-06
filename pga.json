@@ -1,0 +1,75 @@
+{
+  "picks_meta": {
+    "updated": "Sat, Jun 6, 2026",
+    "subtitle": "Memorial Tournament R3 — Gerard @ -8, T2, 1 Back",
+    "subline": "Memorial Tournament · Jun 4–7, 2026 · Muirfield Village GC, Dublin OH · Round 3 LIVE Saturday · Outright picks graded Sunday · No money at risk."
+  },
+  "sports_data": {
+    "PGA": {
+      "label": "PGA",
+      "emoji": "⛳",
+      "cls": "pga",
+      "context": "Memorial Tournament · Round 3 LIVE — Sat, Jun 6, 2026 · Muirfield Village GC, Dublin OH",
+      "golfNote": "⛳ Round 3 underway Saturday. J.T. Poston leads at -9. Ryan Gerard at -8 (T2), one back. Outright picks graded at tournament conclusion Sunday.",
+      "picks": [
+        {
+          "rank": 1,
+          "conviction": 74,
+          "pickId": "PGA-Gerard-Top5-0606",
+          "pickDate": "2026-06-06",
+          "category": "Outright — Top 5",
+          "playerDisplay": "Ryan Gerard",
+          "prop": "Top-5 Finish",
+          "lean": "Top-5",
+          "game": "Memorial Tournament · Muirfield Village GC · R3/R4 · Sat-Sun Jun 6-7",
+          "openingLine": "Top-5",
+          "lineMove": "flat",
+          "lineMoveAmt": "",
+          "baseRate": "57% — players in T1/T2 within 1 shot of lead after 36 holes at the Memorial finishing Top-5 (2015-2025)",
+          "liveStatus": "LIVE: R3 Saturday — Gerard @ -8, T2, 1 back ⛳",
+          "grade": null,
+          "why": "<b>Stats (PGA Tour, through R2):</b> -8 (136 total), T2, one shot off J.T. Poston's lead. SG:APP +0.392 per round over last 5 events.<br><b>T1:</b> Gerard's -8 after 36 holes puts him in prime weekend position. His SG:APP is top-tier for Muirfield's iron-play demands.<br><b>T2:</b> Muirfield rewards approach quality above all. Gerard's SG:APP advantage over the field is the clearest matchup edge.<br><b>T3:</b> Playing near the final pairing Saturday. Scheffler missed the cut removing the biggest field threat.<br><b>Risk:</b> Limited Muirfield history. Poston holds a 1-shot cushion with proven comfort on this layout."
+        }
+      ],
+      "parlay": {
+        "parlayId": "PGA-parlay-0606",
+        "legs": [
+          {
+            "player": "Ryan Gerard",
+            "lean": "Top-5 Finish",
+            "game": "Memorial Tournament R3/R4"
+          },
+          {
+            "player": "Braxton Ashcraft",
+            "lean": "Over 5.5 K",
+            "game": "PIT at ATL · MLB · 4:10 PM ET"
+          }
+        ],
+        "odds": "~+280",
+        "why": "Tournament Top-5 and K props are fully independent with zero correlation."
+      },
+      "trackRecord": {
+        "ydaySingles": {
+          "result": "—",
+          "rec": "Jun 5 R2 picks in progress",
+          "note": "Outright picks graded Sunday after tournament"
+        },
+        "ydayParlay": {
+          "result": "—",
+          "rec": "—",
+          "note": "Graded at tournament end"
+        },
+        "l30Singles": {
+          "result": "—",
+          "rec": "In progress",
+          "note": "Memorial R3 Saturday Jun 6"
+        },
+        "l30Parlay": {
+          "result": "—",
+          "rec": "—",
+          "note": "Model started Jun 2, 2026"
+        }
+      }
+    }
+  }
+}
