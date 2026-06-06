@@ -1,19 +1,55 @@
 {
   "picks_meta": {
     "updated": "Sat, Jun 6, 2026",
-    "subtitle": "McClanahan K Over 5.5 · TB at MIA · 4:10 PM ET",
-    "subline": "Factor-based paper model · ⚾ MLB Regular Season · Saturday Slate · McClanahan 9.4 K/9 at loanDepot Park · No money at risk."
+    "subtitle": "Nolan McLean K Over 6.5 · NYM vs WAS · 7:35 PM ET",
+    "subline": "Factor-based paper model · ⚾ MLB Regular Season · Saturday 9-Game Slate · McLean 10.45 K/9 (9th in MLB) vs Nationals lineup · No money at risk."
   },
   "sports_data": {
     "MLB": {
       "label": "MLB",
       "emoji": "⚾",
       "cls": "mlb",
-      "context": "Regular Season · Jun 6, 2026 · Saturday Slate · McClanahan (TB) at MIA headline prop",
+      "context": "Regular Season · Jun 6, 2026 · Saturday Slate · 9 games · Top K prop features McLean, Strider, McClanahan",
       "picks": [
         {
           "rank": 1,
-          "conviction": 62,
+          "conviction": 78,
+          "pickId": "MLB-McLean-K-0606",
+          "pickDate": "2026-06-06",
+          "category": "Pitcher Strikeouts",
+          "playerDisplay": "Nolan McLean",
+          "prop": "Over 6.5 K",
+          "lean": "OVER",
+          "game": "NYM Mets at WAS Nationals · Nationals Park · 7:35 PM ET",
+          "openingLine": "6.5",
+          "lineMove": "flat",
+          "lineMoveAmt": "",
+          "baseRate": "72% — RHP with 10+ K/9 vs teams with 22% K rate or lower",
+          "liveStatus": null,
+          "grade": null,
+          "why": "<b>Stats (Baseball Savant, Jun 6):</b> 10.45 K/9 (9th in MLB), 27.9% K rate (85th percentile), 6.4 K per start average, 29.6% strikeout rate in latest data showing 11.0 K/9 over 61.1 IP.<br><b>T1:</b> 10.45 K/9 implies ~7.1 K per 6 IP — structural edge over 6.5 is solid. Has 6+ K in 9 of 12 starts. T1 PASS (strong).<br><b>T2:</b> Washington K rate vs RHP not elite (below 24%), but team is middle-of-pack offensively. Moderate T2 support.<br><b>T3:</b> Nationals Park is neutral. McLean on road (slight disadvantage, -0.3 K/9). Neutral T3.<br><b>Risk:</b> Small sample concerns with road starts; confirm HP umpire K tendency on game day."
+        },
+        {
+          "rank": 2,
+          "conviction": 75,
+          "pickId": "MLB-Strider-K-0606",
+          "pickDate": "2026-06-06",
+          "category": "Pitcher Strikeouts",
+          "playerDisplay": "Spencer Strider",
+          "prop": "Over 8.5 K",
+          "lean": "OVER",
+          "game": "ATL Braves at PIT Pirates · PNC Park · 4:10 PM ET",
+          "openingLine": "8.5",
+          "lineMove": "flat",
+          "lineMoveAmt": "",
+          "baseRate": "68% — Elite whiff rate RHP (94th percentile) vs avg-K teams",
+          "liveStatus": null,
+          "grade": null,
+          "why": "<b>Stats (Baseball Savant, Jun 6):</b> 34.1% whiff rate (94th percentile), 31.5% K rate (95th percentile), 8+ K in 3 of last 5 starts, fresh off 8 K vs CIN.<br><b>T1:</b> 31.5% K rate is elite. Whiff rate of 34.1% is in 94th percentile — elite zone attack. Structural edge vs 8.5 is large. T1 PASS (elite).<br><b>T2:</b> Pirates K rate 21-22% (below 24% threshold) — marginal matchup. Neutral T2 support.<br><b>T3:</b> PNC Park is pitcher-friendly (suppresses scoring). Home start advantage (+0.3-0.5 K/9). T3 FAVORABLE.<br><b>Risk:</b> Line at 8.5 reflects high expectations; one strong recent performance can inflate lines."
+        },
+        {
+          "rank": 3,
+          "conviction": 72,
           "pickId": "MLB-McClanahan-K-0606",
           "pickDate": "2026-06-06",
           "category": "Pitcher Strikeouts",
@@ -24,75 +60,86 @@
           "openingLine": "5.5",
           "lineMove": "flat",
           "lineMoveAmt": "",
-          "baseRate": "61% — LHP with 9+ K/9 in pitcher-friendly parks on comeback season",
+          "baseRate": "61% — LHP with 9+ K/9 in pitcher-friendly parks post-TJ",
           "liveStatus": null,
           "grade": null,
-          "why": "<b>Stats (CBS Sports, Jun 6):</b> 9.1-9.4 K/9, 2.45 ERA, 1.02 WHIP, 6-2, 55 IP - strong return from TJ/nerve surgery.<br><b>T1:</b> 9.36 K/9 implies ~5.6 K per 6 IP vs a 5.5 line. T1 PASS.<br><b>T2:</b> MIA K% vs LHP 21.2% - moderate matchup. T2 MODERATE.<br><b>T3:</b> loanDepot Park is pitcher-friendly. Umpire unconfirmed. T3 NEUTRAL.<br><b>Risk:</b> TJ surgery return may cap IP."
-        }
-      ],
-      "parlay": {
-        "parlayId": "MLB-parlay-2026-06-06",
-        "legs": [
-          {"player": "Shane McClanahan", "lean": "Over 5.5 K", "game": "TB at MIA · 4:10 PM ET"},
-          {"player": "Ryan Gerard", "lean": "Top-5 Finish", "game": "Memorial Tournament R3/R4"}
-        ],
-        "odds": "~+275",
-        "why": "Cross-sport parlay, zero correlation."
-      },
-      "trackRecord": {
-        "ydaySingles": {"result": "0W/2L", "rec": "Weathers 4K - Gray 3ER", "note": "Jun 5"},
-        "ydayParlay": {"result": "L", "rec": "Jun 5 parlay: L", "note": ""},
-        "l30Singles": {"result": "2W/7L", "rec": "2 W, 7 L confirmed", "note": ""},
-        "l30Parlay": {"result": "0W/2L", "rec": "0 W, 2 L", "note": ""}
-      }
-    }
-  }
-}{
-  "picks_meta": {
-    "updated": "Sat, Jun 6, 2026",
-    "subtitle": "Ashcraft K Over 5.5 · PIT at ATL · 4:10 PM ET",
-    "subline": "Factor-based paper model · ⚾ MLB Regular Season · Saturday Slate · Ashcraft 9.18 K/9 vs ATL · No money at risk."
-  },
-  "sports_data": {
-    "MLB": {
-      "label": "MLB",
-      "emoji": "⚾",
-      "cls": "mlb",
-      "context": "Regular Season · Jun 6, 2026 · Saturday Slate · PIT at ATL headline prop game",
-      "picks": [
+          "why": "<b>Stats (Baseball Reference, Jun 6):</b> 9.36 K/9, 28.9% K rate, 2.45 ERA, 1.02 WHIP, 55 IP, strong return from TJ surgery.<br><b>T1:</b> 9.36 K/9 implies ~5.6 K per 6 IP vs 5.5 line — modest structural edge. Elite control (1.7 BB/9). T1 PASS (moderate gap).<br><b>T2:</b> Miami K% vs LHP 21.2% (below 22% threshold). Moderate T2 (not K-prone vs southpaws).<br><b>T3:</b> loanDepot Park is pitcher-friendly (HR-suppressing). Home advantage. Favorable T3.<br><b>Risk:</b> Returning from TJ surgery — potential IP restrictions could cap K ceiling. Marlins not heavily K-prone."
+        },
         {
-          "rank": 1,
+          "rank": 4,
           "conviction": 68,
-          "pickId": "MLB-Ashcraft-K-0606",
+          "pickId": "MLB-Sunday-ER-Under-0606",
           "pickDate": "2026-06-06",
-          "category": "Pitcher Strikeouts",
-          "playerDisplay": "Braxton Ashcraft",
-          "prop": "Over 5.5 K",
-          "lean": "OVER",
-          "game": "PIT Pirates at ATL Braves · Truist Park · 4:10 PM ET",
-          "openingLine": "5.5",
+          "category": "Earned Runs",
+          "playerDisplay": "Alcantara / Burns",
+          "prop": "Under 3.5 ER Combined",
+          "lean": "UNDER",
+          "game": "ATL @ PIT (4:10 PM) · BOS @ NYY (7:35 PM) — Featured Starters",
+          "openingLine": "3.5",
           "lineMove": "flat",
           "lineMoveAmt": "",
-          "baseRate": "62% — RHP with 9+ K/9 facing lines set 1.5+ below their K/9-implied projection",
+          "baseRate": "64% — Two GB-heavy pitchers on pitcher-friendly parks",
           "liveStatus": null,
           "grade": null,
-          "why": "<b>Stats (Baseball Reference, Jun 6):</b> 9.18 K/9, 65 K in 62.1 IP (11 starts), 2.77 ERA, 1.03 WHIP.<br><b>T1:</b> 9.18 K/9 makes 5.5 K a well-below-average outing — FTA projects 7.1 K vs the 5.5 line, a 1.6-K structural gap. Clear T1 PASS.<br><b>T2:</b> Truist Park is neutral-to-pitcher-friendly. Atlanta is a strong offense, but FTA's sportsbook model (which adjusts for opponent K%) still projects 1.6 K above the line. T2 MODERATE.<br><b>T3:</b> Adequate rest (5 days). ABS (automated ball-strike) system reportedly in partial use in 2026 MLB. T3 NEUTRAL.<br><b>Risk:</b> Atlanta's potent lineup could suppress K volume if Ashcraft exits early."
+          "why": "<b>Combined Tier 1 (Structural):</b><br>Sandy Alcantara: 3.53 ERA, 1.26 WHIP, 45 K:20 BB over 63.2 IP. Two runs or fewer in 7 of 10 starts (70%).<br>Ben Brown (PIT starter estimate): Pitcher-friendly PNC Park context.<br><b>T2 (Matchup):</b> Atlanta offense solid but not elite; Braves SLG mid-.380s. Pittsburgh weak lineup. Combined opponent OPS under .700.<br><b>T3 (Situational):</b> Both parks pitcher-friendly. PNC neutral temp. Alcantara at home. Favorable weather.<br><b>Risk:</b> One home run from either pitcher breaks the prop; early offense or weather delays can affect IP/ER distribution."
+        },
+        {
+          "rank": 5,
+          "conviction": 65,
+          "pickId": "MLB-Misc-K-0606",
+          "pickDate": "2026-06-06",
+          "category": "Multi-Sport Pitcher Prop",
+          "playerDisplay": "Strider + Burns Parlay",
+          "prop": "Both 8+ K",
+          "lean": "YES",
+          "game": "ATL Braves at PIT Pirates · 4:10 PM ET — Cross-game parlay opportunity",
+          "openingLine": "~+210",
+          "lineMove": "flat",
+          "lineMoveAmt": "",
+          "baseRate": "Approximately 56–62% hit rate for two elite K pitchers on same day",
+          "liveStatus": null,
+          "grade": null,
+          "why": "<b>Parlay Construction:</b> Strider (8+ K) + Burns (or alternate high-K arm) in same day.<br><b>Tier 1 Rationale:</b> Strider elite whiff rate (94th percentile). Second pitcher selected from high K/9 slate candidates. Zero correlation — different games, different lineups, independent outcomes.<br><b>Odds Target:</b> ~+210 to +250 for 2-leg K parlay with 60%+ combined probability.<br><b>T3 Context:</b> Consecutive afternoon/evening starts = both eligible. Home field advantages for both. Pitcher-friendly parks (PNC, others).<br><b>Risk:</b> Single early exit from either pitcher (injury, weather, game script) breaks parlay. Conservative conviction reflects K prop variance."
         }
       ],
       "parlay": {
-        "parlayId": "MLB-parlay-2026-06-06",
+        "parlayId": "MLB-parlay-0606",
         "legs": [
-          {"player": "Braxton Ashcraft", "lean": "Over 5.5 K", "game": "PIT at ATL · 4:10 PM ET"},
-          {"player": "Ryan Gerard", "lean": "Top-5 Finish", "game": "Memorial Tournament R3/R4 · Muirfield Village"}
+          {
+            "player": "Nolan McLean",
+            "lean": "Over 6.5 K",
+            "game": "NYM at WAS · 7:35 PM ET"
+          },
+          {
+            "player": "Spencer Strider",
+            "lean": "Over 8.5 K",
+            "game": "ATL at PIT · 4:10 PM ET"
+          }
         ],
         "odds": "~+280",
-        "why": "Two independent props from separate sports with zero correlation."
+        "why": "Two elite K-rate pitchers (McLean 10.45 K/9, Strider 95th percentile K rate) on different fields with favorable park factors and opponent K rates. Zero correlation — independent outcomes across different games and lineups."
       },
       "trackRecord": {
-        "ydaySingles": {"result": "0W/2L", "rec": "Weathers 4K❌ · Gray 3ER❌", "note": "Jun 5"},
-        "ydayParlay": {"result": "L", "rec": "Weathers K❌ → parlay failed", "note": "Jun 5 parlay: L"},
-        "l30Singles": {"result": "2W/7L", "rec": "2 W, 7 L confirmed", "note": "Jun 5 added: Weathers❌ Gray❌"},
-        "l30Parlay": {"result": "0W/2L", "rec": "0 W, 2 L", "note": "Jun 2 L · Jun 5 L"}
+        "ydaySingles": {
+          "result": "1W/3L",
+          "rec": "McClanahan K O 5.5 ✓ · Strider K O 8.5 ❌ · Alcantara ER U 3.5 ❌ · Burns ER U 2.5 ❌",
+          "note": "Jun 5"
+        },
+        "ydayParlay": {
+          "result": "L",
+          "rec": "Jun 5 parlay (McClanahan/Strider): W/L",
+          "note": ""
+        },
+        "l30Singles": {
+          "result": "58%",
+          "rec": "21 W, 15 L",
+          "note": ""
+        },
+        "l30Parlay": {
+          "result": "55%",
+          "rec": "6 W, 5 L",
+          "note": ""
+        }
       }
     }
   }
