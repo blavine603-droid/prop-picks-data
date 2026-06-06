@@ -1,6 +1,55 @@
 {
   "picks_meta": {
     "updated": "Sat, Jun 6, 2026",
+    "subtitle": "Jarvis SOG Over 2.5 - SCF G3 - CAR at VGK - 8 PM ET",
+    "subline": "SCF 2026 - Series Tied 1-1 - CAR Hurricanes at VGK Golden Knights - T-Mobile Arena - 8 PM ET - Game 3 - No money at risk."
+  },
+  "sports_data": {
+    "NHL": {
+      "label": "NHL",
+      "emoji": "🏒",
+      "cls": "nhl",
+      "context": "SCF G3 TONIGHT - CAR at VGK - T-Mobile Arena - 8 PM ET - Series tied 1-1",
+      "picks": [
+        {
+          "rank": 1,
+          "conviction": 62,
+          "pickId": "NHL-Jarvis-SOG-0606",
+          "pickDate": "2026-06-06",
+          "category": "Shots on Goal",
+          "playerDisplay": "Seth Jarvis",
+          "prop": "Over 2.5 SOG",
+          "lean": "OVER",
+          "game": "CAR Hurricanes at VGK Golden Knights - T-Mobile Arena - 8 PM ET - G3",
+          "openingLine": "2.5",
+          "lineMove": "flat",
+          "lineMoveAmt": "",
+          "baseRate": "70% - Jarvis has 3+ shots in 7 of last 10 playoff games",
+          "liveStatus": null,
+          "grade": null,
+          "why": "<b>Stats (NHL.com, Jun 6):</b> 38 SOG in 15 playoff games (2.53/game avg), 4G 5A, scored OT winner in Game 2.<br><b>T1:</b> 2.53 SOG/game vs 2.5 line - marginal but consistent shot volume across 15 playoff games. T1 MARGINAL.<br><b>T2:</b> Carter Hart (.924 SV%) is quality but not elite - shots will register. Series tied 1-1 means both teams attack aggressively. T2 MODERATE.<br><b>T3:</b> Jarvis coming off OT winner in G2 - elevated line time and shot-seeking expected. Road game urgency forces CAR to attack. T3 FAVORABLE.<br><b>Risk:</b> Vegas home crowd suppresses opposing offensive zone time. T1 MARGINAL means one quiet game sinks this."
+        }
+      ],
+      "parlay": {
+        "parlayId": "NHL-parlay-0606",
+        "legs": [
+          {"player": "Seth Jarvis", "lean": "Over 2.5 SOG", "game": "CAR at VGK - G3 - 8 PM ET"},
+          {"player": "Shane McClanahan", "lean": "Over 5.5 K", "game": "TB at MIA - MLB - 4:10 PM ET"}
+        ],
+        "odds": "~+250",
+        "why": "Cross-sport parlay, zero correlation. Jarvis SOG momentum from G2 OT winner paired with McClanahan K profile at loanDepot Park."
+      },
+      "trackRecord": {
+        "ydaySingles": {"result": "-", "rec": "G2 Jun 4 - Jarvis OT winner (grade pending)", "note": ""},
+        "ydayParlay": {"result": "-", "rec": "Pending", "note": ""},
+        "l30Singles": {"result": "3W/4L", "rec": "3 W, 4 L", "note": ""},
+        "l30Parlay": {"result": "0W/1L", "rec": "0 W, 1 L", "note": ""}
+      }
+    }
+  }
+}{
+  "picks_meta": {
+    "updated": "Sat, Jun 6, 2026",
     "subtitle": "SCF G3 — CAR at VGK Tonight · 8 PM ET",
     "subline": "Stanley Cup Final 2026 · CAR Hurricanes vs. VGK Golden Knights · Game 3 at T-Mobile Arena, Las Vegas · 8 PM ET · No money at risk."
   },
