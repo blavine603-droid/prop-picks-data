@@ -1,6 +1,55 @@
 {
   "picks_meta": {
     "updated": "Sat, Jun 6, 2026",
+    "subtitle": "McClanahan K Over 5.5 · TB at MIA · 4:10 PM ET",
+    "subline": "Factor-based paper model · ⚾ MLB Regular Season · Saturday Slate · McClanahan 9.4 K/9 at loanDepot Park · No money at risk."
+  },
+  "sports_data": {
+    "MLB": {
+      "label": "MLB",
+      "emoji": "⚾",
+      "cls": "mlb",
+      "context": "Regular Season · Jun 6, 2026 · Saturday Slate · McClanahan (TB) at MIA headline prop",
+      "picks": [
+        {
+          "rank": 1,
+          "conviction": 62,
+          "pickId": "MLB-McClanahan-K-0606",
+          "pickDate": "2026-06-06",
+          "category": "Pitcher Strikeouts",
+          "playerDisplay": "Shane McClanahan",
+          "prop": "Over 5.5 K",
+          "lean": "OVER",
+          "game": "TB Rays at MIA Marlins · loanDepot Park · 4:10 PM ET",
+          "openingLine": "5.5",
+          "lineMove": "flat",
+          "lineMoveAmt": "",
+          "baseRate": "61% — LHP with 9+ K/9 in pitcher-friendly parks on comeback season",
+          "liveStatus": null,
+          "grade": null,
+          "why": "<b>Stats (CBS Sports, Jun 6):</b> 9.1-9.4 K/9, 2.45 ERA, 1.02 WHIP, 6-2, 55 IP - strong return from TJ/nerve surgery.<br><b>T1:</b> 9.36 K/9 implies ~5.6 K per 6 IP vs a 5.5 line. T1 PASS.<br><b>T2:</b> MIA K% vs LHP 21.2% - moderate matchup. T2 MODERATE.<br><b>T3:</b> loanDepot Park is pitcher-friendly. Umpire unconfirmed. T3 NEUTRAL.<br><b>Risk:</b> TJ surgery return may cap IP."
+        }
+      ],
+      "parlay": {
+        "parlayId": "MLB-parlay-2026-06-06",
+        "legs": [
+          {"player": "Shane McClanahan", "lean": "Over 5.5 K", "game": "TB at MIA · 4:10 PM ET"},
+          {"player": "Ryan Gerard", "lean": "Top-5 Finish", "game": "Memorial Tournament R3/R4"}
+        ],
+        "odds": "~+275",
+        "why": "Cross-sport parlay, zero correlation."
+      },
+      "trackRecord": {
+        "ydaySingles": {"result": "0W/2L", "rec": "Weathers 4K - Gray 3ER", "note": "Jun 5"},
+        "ydayParlay": {"result": "L", "rec": "Jun 5 parlay: L", "note": ""},
+        "l30Singles": {"result": "2W/7L", "rec": "2 W, 7 L confirmed", "note": ""},
+        "l30Parlay": {"result": "0W/2L", "rec": "0 W, 2 L", "note": ""}
+      }
+    }
+  }
+}{
+  "picks_meta": {
+    "updated": "Sat, Jun 6, 2026",
     "subtitle": "Ashcraft K Over 5.5 · PIT at ATL · 4:10 PM ET",
     "subline": "Factor-based paper model · ⚾ MLB Regular Season · Saturday Slate · Ashcraft 9.18 K/9 vs ATL · No money at risk."
   },
