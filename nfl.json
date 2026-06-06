@@ -1,0 +1,63 @@
+{
+  "picks_meta": {
+    "updated": "Sat, Jun 6, 2026",
+    "subtitle": "Offseason — Season starts September 2026",
+    "subline": "NFL Offseason · 2026 Regular Season begins September 2026 · Full factor model activates Week 1."
+  },
+  "sports_data": {
+    "NFL": {
+      "label": "NFL",
+      "emoji": "🏈",
+      "cls": "nfl",
+      "context": "Offseason · 2026 Regular Season begins September 2026",
+      "picks": [
+        {
+          "rank": 1,
+          "conviction": 0,
+          "pickId": "NFL-off-1-0606",
+          "pickDate": "2026-06-06",
+          "category": "Offseason",
+          "playerDisplay": "NFL Offseason",
+          "prop": "TBD",
+          "lean": "TBD",
+          "game": "Regular season begins September 2026",
+          "openingLine": "",
+          "lineMove": "flat",
+          "lineMoveAmt": "",
+          "baseRate": "",
+          "liveStatus": null,
+          "grade": null,
+          "why": "No NFL games scheduled. The 2026 regular season begins in September. Picks populate with the full factor-based NFL model at season start."
+        }
+      ],
+      "parlay": {
+        "parlayId": "NFL-off-0606",
+        "legs": [],
+        "odds": "TBD",
+        "why": "Populates September 2026."
+      },
+      "trackRecord": {
+        "ydaySingles": {
+          "result": "—",
+          "rec": "Season not started",
+          "note": "NFL begins Sep 2026"
+        },
+        "ydayParlay": {
+          "result": "—",
+          "rec": "—",
+          "note": "NFL begins Sep 2026"
+        },
+        "l30Singles": {
+          "result": "—",
+          "rec": "Season not started",
+          "note": "NFL begins Sep 2026"
+        },
+        "l30Parlay": {
+          "result": "—",
+          "rec": "—",
+          "note": "NFL begins Sep 2026"
+        }
+      }
+    }
+  }
+}
