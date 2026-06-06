@@ -1,6 +1,55 @@
 {
   "picks_meta": {
     "updated": "Sat, Jun 6, 2026",
+    "subtitle": "Commissioner's Cup - A'ja Wilson Pts Over 24.5 - GSV@LVA 3 PM ET",
+    "subline": "WNBA Commissioner's Cup - Jun 6, 2026 - 4-game Saturday slate - Featured: Golden State Valkyries at Las Vegas Aces - Michelob Ultra Arena - 3:00 PM ET - ABC - No money at risk."
+  },
+  "sports_data": {
+    "WNBA": {
+      "label": "WNBA",
+      "emoji": "🏀",
+      "cls": "wnba",
+      "context": "WNBA Saturday Slate - 4 games - SEA-MIN 1 PM - GSV@LVA 3 PM (Commissioner's Cup) - ATL-WAS - NYL-IND",
+      "picks": [
+        {
+          "rank": 1,
+          "conviction": 61,
+          "pickId": "WNBA-Wilson-Pts-0606",
+          "pickDate": "2026-06-06",
+          "category": "Player Points",
+          "playerDisplay": "A'ja Wilson",
+          "prop": "Over 24.5 Points",
+          "lean": "OVER",
+          "game": "GSV Valkyries at LVA Aces - Michelob Ultra Arena - 3:00 PM ET - ABC",
+          "openingLine": "24.5",
+          "lineMove": "flat",
+          "lineMoveAmt": "",
+          "baseRate": "55% - A'ja Wilson above this line in home outings vs. expansion team interior defenses",
+          "liveStatus": null,
+          "grade": null,
+          "why": "<b>Stats (WNBA 2026):</b> 24.8 PPG (2nd in league), 32.4% USG, 2.6 BPG. Leads the Aces in usage and efficiency.<br><b>T1:</b> 24.8 PPG season average is 0.3 above the 24.5 line - marginal structural edge. T1 MARGINAL.<br><b>T2:</b> Golden State Valkyries are a first-year expansion team without established post defenders capable of slowing Wilson. Interior matchup significantly favors A'ja. T2 MODERATE.<br><b>T3:</b> Commissioner's Cup game on ABC (3 PM ET Saturday) - nationally televised showcase. Aces at home, A'ja Wilson averaging 25pts vs. expansion opponents this season. T3 FAVORABLE.<br><b>Risk:</b> Line is tight (24.8 avg vs 24.5 - only 0.3 margin). If Aces build a large lead, A'ja may sit extended 4Q minutes."
+        }
+      ],
+      "parlay": {
+        "parlayId": "WNBA-parlay-0606",
+        "legs": [
+          {"player": "A'ja Wilson", "lean": "Over 24.5 Points", "game": "GSV at LVA - 3:00 PM ET"},
+          {"player": "Ryan Gerard", "lean": "Top-5 Finish", "game": "Memorial Tournament R3/R4"}
+        ],
+        "odds": "~+260",
+        "why": "Two independent props, zero correlation - different sports, different time slots. Wilson home showcase vs expansion interior defense; Gerard in prime contention position at Muirfield Village."
+      },
+      "trackRecord": {
+        "ydaySingles": {"result": "1W/4L", "rec": "Morrow Reb W(17) | Bueckers L(18pts) Thomas DNP L PHX-POR Total L(150) Diggins L(24pts)", "note": "Jun 5"},
+        "ydayParlay": {"result": "L", "rec": "Bueckers 18pts vs 20.5 line - parlay failed", "note": "Jun 5 WNBA parlay: L"},
+        "l30Singles": {"result": "7W/5L", "rec": "7 W, 5 L, 0 P", "note": "Jun 2: 6W/1L - Jun 5: +1W +4L"},
+        "l30Parlay": {"result": "1W/1L", "rec": "1 W, 1 L", "note": "Jun 2: W | Jun 5: L"}
+      }
+    }
+  }
+}{
+  "picks_meta": {
+    "updated": "Sat, Jun 6, 2026",
     "subtitle": "Commissioner's Cup · GSV@LVA 3 PM ET · ABC",
     "subline": "WNBA Commissioner's Cup · Jun 6, 2026 · Golden State Valkyries at Las Vegas Aces · 3:00 PM ET · ABC · No money at risk."
   },
