@@ -1,0 +1,63 @@
+{
+  "picks_meta": {
+    "updated": "Sat, Jun 6, 2026",
+    "subtitle": "NBA Finals Off Day — G3 at MSG Jun 8",
+    "subline": "NBA Finals 2026 · NYK Knicks vs. SAS Spurs · Off Day (Jun 6) · G3 at Madison Square Garden June 8 · Factor-based paper model · No money at risk."
+  },
+  "sports_data": {
+    "NBA": {
+      "label": "NBA",
+      "emoji": "🏀",
+      "cls": "nba",
+      "context": "NBA Finals 2026 · NYK Knicks vs. SAS Spurs · Off Day (Jun 6) · Game 3 at Madison Square Garden — June 8, 8:30 PM ET",
+      "picks": [
+        {
+          "rank": 1,
+          "conviction": 0,
+          "pickId": "NBA-offday-0606",
+          "pickDate": "2026-06-06",
+          "category": "Off Day",
+          "playerDisplay": "No NBA Game Tonight",
+          "prop": "TBD",
+          "lean": "TBD",
+          "game": "Game 3 at MSG · Madison Square Garden, New York · June 8",
+          "openingLine": "",
+          "lineMove": "flat",
+          "lineMoveAmt": "",
+          "baseRate": "",
+          "liveStatus": null,
+          "grade": null,
+          "why": "No NBA Finals game on June 6. Series resumes June 8 at Madison Square Garden in New York. G3 picks will feature MSG home-court Knicks props and SAS road-game adjustments. Refresh the morning of June 8."
+        }
+      ],
+      "parlay": {
+        "parlayId": "NBA-offday-0606",
+        "legs": [],
+        "odds": "TBD",
+        "why": "No game tonight. G3 parlay at MSG populates June 8."
+      },
+      "trackRecord": {
+        "ydaySingles": {
+          "result": "2W/4L",
+          "rec": "Wemby Pts✅(29) Wemby Blk✅(4) | Brunson Ast❌(6) Hart Reb❌(15) Fox Pts❌(20) Total❌(209)",
+          "note": "Jun 5 G2: NYK 105 SAS 104 — series 2-0 NYK"
+        },
+        "ydayParlay": {
+          "result": "L",
+          "rec": "Brunson 6 ast vs 7.5 line → parlay failed",
+          "note": "Jun 5 G2 parlay: L"
+        },
+        "l30Singles": {
+          "result": "2W/4L",
+          "rec": "2 W, 4 L (G2 confirmed)",
+          "note": "G1 Jun 3 pending grade"
+        },
+        "l30Parlay": {
+          "result": "0W/1L",
+          "rec": "0 W, 1 L",
+          "note": "Jun 5 G2 parlay: L"
+        }
+      }
+    }
+  }
+}
