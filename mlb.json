@@ -1,0 +1,50 @@
+{
+  "picks_meta": {
+    "updated": "Sat, Jun 6, 2026",
+    "subtitle": "Ashcraft K Over 5.5 · PIT at ATL · 4:10 PM ET",
+    "subline": "Factor-based paper model · ⚾ MLB Regular Season · Saturday Slate · Ashcraft 9.18 K/9 vs ATL · No money at risk."
+  },
+  "sports_data": {
+    "MLB": {
+      "label": "MLB",
+      "emoji": "⚾",
+      "cls": "mlb",
+      "context": "Regular Season · Jun 6, 2026 · Saturday Slate · PIT at ATL headline prop game",
+      "picks": [
+        {
+          "rank": 1,
+          "conviction": 68,
+          "pickId": "MLB-Ashcraft-K-0606",
+          "pickDate": "2026-06-06",
+          "category": "Pitcher Strikeouts",
+          "playerDisplay": "Braxton Ashcraft",
+          "prop": "Over 5.5 K",
+          "lean": "OVER",
+          "game": "PIT Pirates at ATL Braves · Truist Park · 4:10 PM ET",
+          "openingLine": "5.5",
+          "lineMove": "flat",
+          "lineMoveAmt": "",
+          "baseRate": "62% — RHP with 9+ K/9 facing lines set 1.5+ below their K/9-implied projection",
+          "liveStatus": null,
+          "grade": null,
+          "why": "<b>Stats (Baseball Reference, Jun 6):</b> 9.18 K/9, 65 K in 62.1 IP (11 starts), 2.77 ERA, 1.03 WHIP.<br><b>T1:</b> 9.18 K/9 makes 5.5 K a well-below-average outing — FTA projects 7.1 K vs the 5.5 line, a 1.6-K structural gap. Clear T1 PASS.<br><b>T2:</b> Truist Park is neutral-to-pitcher-friendly. Atlanta is a strong offense, but FTA's sportsbook model (which adjusts for opponent K%) still projects 1.6 K above the line. T2 MODERATE.<br><b>T3:</b> Adequate rest (5 days). ABS (automated ball-strike) system reportedly in partial use in 2026 MLB. T3 NEUTRAL.<br><b>Risk:</b> Atlanta's potent lineup could suppress K volume if Ashcraft exits early."
+        }
+      ],
+      "parlay": {
+        "parlayId": "MLB-parlay-2026-06-06",
+        "legs": [
+          {"player": "Braxton Ashcraft", "lean": "Over 5.5 K", "game": "PIT at ATL · 4:10 PM ET"},
+          {"player": "Ryan Gerard", "lean": "Top-5 Finish", "game": "Memorial Tournament R3/R4 · Muirfield Village"}
+        ],
+        "odds": "~+280",
+        "why": "Two independent props from separate sports with zero correlation."
+      },
+      "trackRecord": {
+        "ydaySingles": {"result": "0W/2L", "rec": "Weathers 4K❌ · Gray 3ER❌", "note": "Jun 5"},
+        "ydayParlay": {"result": "L", "rec": "Weathers K❌ → parlay failed", "note": "Jun 5 parlay: L"},
+        "l30Singles": {"result": "2W/7L", "rec": "2 W, 7 L confirmed", "note": "Jun 5 added: Weathers❌ Gray❌"},
+        "l30Parlay": {"result": "0W/2L", "rec": "0 W, 2 L", "note": "Jun 2 L · Jun 5 L"}
+      }
+    }
+  }
+}
