@@ -1,0 +1,128 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>Bennett's Picks</title>
+<meta name="description" content="Daily NHL player prop picks with a public, graded record.">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Saira+Condensed:wght@600;800&family=IBM+Plex+Sans:wght@400;500;600&family=IBM+Plex+Mono:wght@500&display=swap">
+<style>
+/* Layout: a single rink-board column — scoreboard header, tonight's card, then the graded log. */
+:root{
+  --ice:#f3f6f9; --board:#ffffff; --ink:#0f1c2e; --muted:#5b6b80; --line:#dbe3ec;
+  --navy:#12305a; --goal:#c8102e; --win:#13804a; --winbg:#e3f4ea; --loss:#b4232a; --lossbg:#fbe7e8;
+  --display:"Saira Condensed","Arial Narrow",Arial,sans-serif;
+  --body:"IBM Plex Sans",-apple-system,"Segoe UI",Arial,sans-serif;
+  --mono:"IBM Plex Mono",ui-monospace,Menlo,monospace;
+}
+@media (prefers-color-scheme: dark){:root:not([data-theme="light"]){
+  --ice:#0b1320; --board:#121d2e; --ink:#e7eef7; --muted:#9aabc0; --line:#22324a;
+  --navy:#8fb3e6; --goal:#ff5a6a; --win:#4cd08a; --winbg:#123224; --loss:#ff7a80; --lossbg:#3a1a1e; color-scheme:dark}}
+:root[data-theme="dark"]{
+  --ice:#0b1320; --board:#121d2e; --ink:#e7eef7; --muted:#9aabc0; --line:#22324a;
+  --navy:#8fb3e6; --goal:#ff5a6a; --win:#4cd08a; --winbg:#123224; --loss:#ff7a80; --lossbg:#3a1a1e; color-scheme:dark}
+*{box-sizing:border-box}
+html,body{margin:0}
+body{background:var(--ice);color:var(--ink);font:16px/1.55 var(--body);padding-block:28px 40px;
+  padding-left:max(16px,env(safe-area-inset-left,0px));padding-right:max(16px,env(safe-area-inset-right,0px))}
+.wrap{max-width:720px;margin:0 auto;display:grid;gap:22px}
+header{display:grid;gap:6px}
+.brand{font:800 clamp(38px,8vw,56px)/0.95 var(--display);letter-spacing:.01em;text-transform:uppercase;margin:0;text-wrap:balance}
+.brand span{color:var(--goal)}
+.sub{color:var(--muted);font-size:14px}
+.scoreboard{background:var(--navy);color:#fff;border-radius:14px;padding:16px 20px;display:flex;flex-wrap:wrap;gap:18px 34px;align-items:flex-end}
+:root[data-theme="dark"] .scoreboard{color:#0b1320}
+@media (prefers-color-scheme: dark){:root:not([data-theme="light"]) .scoreboard{color:#0b1320}}
+.sb-item{display:grid;gap:2px}
+.sb-label{font:600 11px/1 var(--body);letter-spacing:.12em;text-transform:uppercase;opacity:.8}
+.sb-val{font:800 42px/1 var(--display);font-variant-numeric:tabular-nums}
+.form{display:flex;gap:5px;padding-bottom:6px}
+.form i{width:12px;height:12px;border-radius:50%;display:block;border:2px solid currentColor}
+.form i.W{background:currentColor}
+.form i.L{background:transparent;opacity:.55}
+h2{font:800 22px/1 var(--display);text-transform:uppercase;letter-spacing:.04em;margin:0 0 10px;display:flex;align-items:center;gap:10px}
+h2::before{content:"";width:18px;height:4px;background:var(--goal);border-radius:2px}
+.card{background:var(--board);border:1px solid var(--line);border-radius:14px;padding:18px 20px}
+.pick{display:grid;gap:4px}
+.pick + .pick{border-top:1px solid var(--line);margin-top:14px;padding-top:14px}
+.player{font:800 26px/1.05 var(--display);text-transform:uppercase;letter-spacing:.01em}
+.bet{display:flex;flex-wrap:wrap;gap:8px;align-items:baseline}
+.prop{font-weight:600;font-size:17px}
+.odds{font:500 14px var(--mono);color:var(--muted)}
+.game{color:var(--muted);font-size:14px}
+.empty .player{color:var(--muted)}
+.log{display:grid;gap:14px}
+.day h3{font:600 13px/1 var(--body);letter-spacing:.1em;text-transform:uppercase;color:var(--muted);margin:0 0 6px}
+.row{display:grid;grid-template-columns:1fr auto;gap:4px 12px;align-items:center;padding:10px 0;border-top:1px solid var(--line)}
+.row:first-of-type{border-top:none}
+.row .who{font-weight:600;min-width:0}
+.row .what{color:var(--muted);font-size:14px;grid-column:1}
+.res{grid-row:1 / span 2;grid-column:2;font:600 13px/1 var(--body);padding:6px 10px;border-radius:999px;white-space:nowrap;font-variant-numeric:tabular-nums}
+.res.W{background:var(--winbg);color:var(--win)}
+.res.L{background:var(--lossbg);color:var(--loss)}
+.res.P,.res.V,.res.pending{background:var(--ice);color:var(--muted)}
+footer{color:var(--muted);font-size:13px;line-height:1.6;border-top:1px solid var(--line);padding-top:16px}
+footer b{color:var(--ink)}
+.err{color:var(--muted)}
+</style>
+</head>
+<body>
+<div class="wrap">
+  <header>
+    <h1 class="brand">Bennett's <span>Picks</span></h1>
+    <div class="sub" id="updated">NHL player props · loading…</div>
+  </header>
+
+  <section class="scoreboard" aria-label="Season record">
+    <div class="sb-item"><span class="sb-label">Record</span><span class="sb-val" id="rec">–</span></div>
+    <div class="sb-item"><span class="sb-label">Hit rate</span><span class="sb-val" id="pct">–</span></div>
+    <div class="sb-item"><span class="sb-label">Last 10</span><div class="form" id="form"></div></div>
+  </section>
+
+  <section>
+    <h2>Tonight</h2>
+    <div class="card" id="tonight"><div class="err">Loading tonight's picks…</div></div>
+  </section>
+
+  <section>
+    <h2>Results</h2>
+    <div class="card log" id="log"></div>
+  </section>
+
+  <footer>
+    <b>For entertainment only.</b> These are free picks with no guarantee of results, not betting or financial advice. Every pick is posted before the game and graded afterward, wins and losses alike. Lines and odds move; check your sportsbook before betting. 21+ where legal. If gambling stops being fun, call or text 1-800-GAMBLER.
+  </footer>
+</div>
+<script>
+const fmtDate=d=>new Date(d+'T12:00:00').toLocaleDateString('en-US',{weekday:'short',month:'short',day:'numeric'});
+const esc=s=>String(s??'').replace(/[&<>"]/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c]));
+function render(d){
+  document.getElementById('updated').textContent='NHL player props · updated '+d.updated;
+  const n=d.record.W+d.record.L;
+  document.getElementById('rec').textContent=d.record.W+'-'+d.record.L;
+  document.getElementById('pct').textContent=n?Math.round(d.record.W/n*100)+'%':'–';
+  const graded=d.picks.filter(p=>p.result==='W'||p.result==='L').slice(0,10).reverse();
+  document.getElementById('form').innerHTML=graded.map(p=>`<i class="${p.result}" title="${esc(p.player)}: ${p.result==='W'?'win':'loss'}"></i>`).join('');
+  const tonight=d.picks.filter(p=>p.date===d.date);
+  const t=document.getElementById('tonight');
+  if(tonight.length){
+    t.innerHTML=tonight.map(p=>`<div class="pick"><div class="player">${esc(p.player)}</div><div class="bet"><span class="prop">${esc(p.prop)}</span>${p.odds?`<span class="odds">${esc(p.odds)}</span>`:''}</div><div class="game">${esc(p.matchup)}${p.time?' · '+esc(p.time):''}</div>${p.result?`<div><span class="res ${p.result}">${p.result==='W'?'Win':p.result==='L'?'Loss':'No action'}${p.detail?' · '+esc(p.detail.split('(')[0].trim()):''}</span></div>`:''}</div>`).join('');
+  }else{
+    t.classList.add('empty');
+    t.innerHTML=`<div class="pick"><div class="player">No pick tonight</div><div class="game">${esc(d.noPick||'Nothing cleared the bar on tonight’s slate.')}</div><div class="game">A pass is a pick too: nothing on this slate met the standard.</div></div>`;
+  }
+  const past=d.picks.filter(p=>p.date!==d.date||p.result);
+  const byDay={};past.forEach(p=>(byDay[p.date]=byDay[p.date]||[]).push(p));
+  document.getElementById('log').innerHTML=Object.keys(byDay).sort().reverse().map(day=>`<div class="day"><h3>${fmtDate(day)}</h3>${byDay[day].map(p=>{
+    const r=p.result||'pending';const lbl=r==='W'?'Win':r==='L'?'Loss':r==='pending'?'Pending':'No action';
+    const det=p.detail?' · '+esc(p.detail.split('(')[0].trim()):'';
+    return `<div class="row"><span class="who">${esc(p.player)}</span><span class="res ${r}">${lbl}${det}</span><span class="what">${esc(p.prop)}${p.odds?' ('+esc(p.odds)+')':''} · ${esc(p.matchup)}</span></div>`;}).join('')}</div>`).join('')||'<div class="err">No graded picks yet.</div>';
+}
+fetch('data/nhl.json',{cache:'no-store'}).then(r=>r.json()).then(render).catch(()=>{
+  document.getElementById('tonight').innerHTML='<div class="err">Picks couldn’t load. Refresh the page in a minute.</div>';
+});
+</script>
+</body>
+</html>
