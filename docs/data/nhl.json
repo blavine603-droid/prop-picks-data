@@ -5,8 +5,30 @@
   "W": 9,
   "L": 3
  },
- "noPick": "2-game slate · PHI@BUF 7:30 PM ET · FLA@OTT 7:30 PM ET",
+ "noPick": null,
  "picks": [
+  {
+   "date": "2026-10-21",
+   "player": "Andre Burakovsky",
+   "prop": "Under 1.5 Shots on Goal",
+   "odds": "-200",
+   "matchup": "FLA Panthers at OTT Senators",
+   "venue": "Canadian Tire Centre",
+   "time": "7:30 PM ET",
+   "result": null,
+   "detail": null
+  },
+  {
+   "date": "2026-10-21",
+   "player": "Matvei Michkov",
+   "prop": "Under 2.5 Shots on Goal",
+   "odds": "-155",
+   "matchup": "PHI Flyers at BUF Sabres",
+   "venue": "KeyBank Center",
+   "time": "7:30 PM ET",
+   "result": null,
+   "detail": null
+  },
   {
    "date": "2026-10-20",
    "player": "Moritz Seider",
