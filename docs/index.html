@@ -4,7 +4,7 @@
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
 <title>Bennett's Picks</title>
-<meta name="description" content="Daily NHL player prop picks with a public, graded record.">
+<meta name="description" content="Daily NHL and NBA player prop picks with a public, graded record.">
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Saira+Condensed:wght@600;800&family=IBM+Plex+Sans:wght@400;500;600&family=IBM+Plex+Mono:wght@500&display=swap">
@@ -66,14 +66,24 @@ h2::before{content:"";width:18px;height:4px;background:var(--goal);border-radius
 footer{color:var(--muted);font-size:13px;line-height:1.6;border-top:1px solid var(--line);padding-top:16px}
 footer b{color:var(--ink)}
 .err{color:var(--muted)}
+.tabs{display:flex;gap:8px}
+.tab{font:800 18px/1 var(--display);text-transform:uppercase;letter-spacing:.06em;padding:10px 18px;border-radius:999px;border:2px solid var(--line);background:var(--board);color:var(--muted);cursor:pointer}
+.tab[aria-selected="true"]{background:var(--goal);border-color:var(--goal);color:#fff}
+.tab:focus-visible{outline:3px solid var(--navy);outline-offset:2px}
+.count{font:500 13px var(--body);color:var(--muted);margin:-4px 0 10px}
 </style>
 </head>
 <body>
 <div class="wrap">
   <header>
     <h1 class="brand">Bennett's <span>Picks</span></h1>
-    <div class="sub" id="updated">NHL player props · loading…</div>
+    <div class="sub" id="updated">NHL & NBA player props · loading…</div>
   </header>
+
+  <nav class="tabs" role="tablist" aria-label="Sport">
+    <button class="tab" role="tab" id="tab-nhl" aria-selected="true" onclick="show('nhl')">NHL</button>
+    <button class="tab" role="tab" id="tab-nba" aria-selected="false" onclick="show('nba')">NBA</button>
+  </nav>
 
   <section class="scoreboard" aria-label="Season record">
     <div class="sb-item"><span class="sb-label">Record</span><span class="sb-val" id="rec">–</span></div>
@@ -83,6 +93,7 @@ footer b{color:var(--ink)}
 
   <section>
     <h2>Tonight</h2>
+    <div class="count" id="count"></div>
     <div class="card" id="tonight"><div class="err">Loading tonight's picks…</div></div>
   </section>
 
@@ -98,20 +109,23 @@ footer b{color:var(--ink)}
 <script>
 const fmtDate=d=>new Date(d+'T12:00:00').toLocaleDateString('en-US',{weekday:'short',month:'short',day:'numeric'});
 const esc=s=>String(s??'').replace(/[&<>"]/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c]));
-function render(d){
-  document.getElementById('updated').textContent='NHL player props · updated '+d.updated;
+const DATA={};const LABEL={nhl:'NHL',nba:'NBA'};let current='nhl';
+function render(sport){
+  const d=DATA[sport];
+  if(!d){document.getElementById('tonight').innerHTML='<div class="err">Picks couldn\u2019t load. Refresh the page in a minute.</div>';document.getElementById('log').innerHTML='';return;}
+  document.getElementById('updated').textContent=LABEL[sport]+' player props · updated '+d.updated;
   const n=d.record.W+d.record.L;
   document.getElementById('rec').textContent=d.record.W+'-'+d.record.L;
   document.getElementById('pct').textContent=n?Math.round(d.record.W/n*100)+'%':'–';
   const graded=d.picks.filter(p=>p.result==='W'||p.result==='L').slice(0,10).reverse();
-  document.getElementById('form').innerHTML=graded.map(p=>`<i class="${p.result}" title="${esc(p.player)}: ${p.result==='W'?'win':'loss'}"></i>`).join('');
+  document.getElementById('form').innerHTML=graded.length?graded.map(p=>`<i class="${p.result}" title="${esc(p.player)}: ${p.result==='W'?'win':'loss'}"></i>`).join(''):'<span class="sb-label">—</span>';
   const tonight=d.picks.filter(p=>p.date===d.date);
-  const t=document.getElementById('tonight');
+  const t=document.getElementById('tonight');t.classList.toggle('empty',!tonight.length);
+  document.getElementById('count').textContent=tonight.length>1?tonight.length+' picks':'';
   if(tonight.length){
     t.innerHTML=tonight.map(p=>`<div class="pick"><div class="player">${esc(p.player)}</div><div class="bet"><span class="prop">${esc(p.prop)}</span>${p.odds?`<span class="odds">${esc(p.odds)}</span>`:''}</div><div class="game">${esc(p.matchup)}${p.time?' · '+esc(p.time):''}</div>${p.result?`<div><span class="res ${p.result}">${p.result==='W'?'Win':p.result==='L'?'Loss':'No action'}${p.detail?' · '+esc(p.detail.split('(')[0].trim()):''}</span></div>`:''}</div>`).join('');
   }else{
-    t.classList.add('empty');
-    t.innerHTML=`<div class="pick"><div class="player">No pick tonight</div><div class="game">${esc(d.noPick||'Nothing cleared the bar on tonight’s slate.')}</div><div class="game">A pass is a pick too: nothing on this slate met the standard.</div></div>`;
+    t.innerHTML=`<div class="pick"><div class="player">No pick tonight</div><div class="game">${esc(d.noPick||'Nothing cleared the bar on tonight\u2019s slate.')}</div></div>`;
   }
   const past=d.picks.filter(p=>p.date!==d.date||p.result);
   const byDay={};past.forEach(p=>(byDay[p.date]=byDay[p.date]||[]).push(p));
@@ -120,8 +134,14 @@ function render(d){
     const det=p.detail?' · '+esc(p.detail.split('(')[0].trim()):'';
     return `<div class="row"><span class="who">${esc(p.player)}</span><span class="res ${r}">${lbl}${det}</span><span class="what">${esc(p.prop)}${p.odds?' ('+esc(p.odds)+')':''} · ${esc(p.matchup)}</span></div>`;}).join('')}</div>`).join('')||'<div class="err">No graded picks yet.</div>';
 }
-fetch('data/nhl.json',{cache:'no-store'}).then(r=>r.json()).then(render).catch(()=>{
-  document.getElementById('tonight').innerHTML='<div class="err">Picks couldn’t load. Refresh the page in a minute.</div>';
+function show(sport){
+  current=sport;
+  ['nhl','nba'].forEach(s=>document.getElementById('tab-'+s).setAttribute('aria-selected',s===sport));
+  if(location.hash!=='#'+sport) history.replaceState(null,'','#'+sport);
+  render(sport);
+}
+Promise.all(['nhl','nba'].map(s=>fetch('data/'+s+'.json',{cache:'no-store'}).then(r=>r.json()).then(d=>{DATA[s]=d;}).catch(()=>{}))).then(()=>{
+  show(location.hash==='#nba'?'nba':'nhl');
 });
 </script>
 </body>
