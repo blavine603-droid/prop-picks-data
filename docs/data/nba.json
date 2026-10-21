@@ -31,6 +31,17 @@
   },
   {
    "date": "2026-10-21",
+   "player": "Naz Reid",
+   "prop": "Under 9.5 Reb+Ast",
+   "odds": "+103",
+   "matchup": "CHA Hornets at BKN Nets",
+   "venue": "Barclays Center",
+   "time": "7:30 PM ET",
+   "result": null,
+   "detail": null
+  },
+  {
+   "date": "2026-10-21",
    "player": "Nikola Vucevic",
    "prop": "Over 6.5 Reb+Ast",
    "odds": "-120",
@@ -42,20 +53,9 @@
   },
   {
    "date": "2026-10-21",
-   "player": "Saddiq Bey",
-   "prop": "Over 11.5 Points",
-   "odds": "+114",
-   "matchup": "IND Pacers at NO Pelicans",
-   "venue": "Smoothie King Center",
-   "time": "8:00 PM ET",
-   "result": null,
-   "detail": null
-  },
-  {
-   "date": "2026-10-21",
-   "player": "Jerami Grant",
-   "prop": "Over 19.5 Pts+Reb+Ast",
-   "odds": "+162",
+   "player": "Cam Spencer",
+   "prop": "Over 3.5 Assists",
+   "odds": "-132",
    "matchup": "UTAH Jazz at MEM Grizzlies",
    "venue": "FedExForum",
    "time": "8:00 PM ET",
