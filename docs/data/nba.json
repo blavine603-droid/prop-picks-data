@@ -1,12 +1,100 @@
 {
- "updated": "Wed, Oct 21, 2026",
- "date": "2026-10-21",
+ "updated": "Fri, Oct 23, 2026",
+ "date": "2026-10-23",
  "record": {
-  "W": 1,
-  "L": 0
+  "W": 3,
+  "L": 6
  },
  "noPick": null,
  "picks": [
+  {
+   "date": "2026-10-23",
+   "player": "Kyle Kuzma",
+   "prop": "Over 5.5 Reb+Ast",
+   "odds": "+125",
+   "matchup": "CHI Bulls at MIL Bucks",
+   "venue": "Fiserv Forum",
+   "time": "4:00 PM ET",
+   "result": null,
+   "detail": null
+  },
+  {
+   "date": "2026-10-23",
+   "player": "Rui Hachimura",
+   "prop": "Under 25.5 Pts+Reb+Ast",
+   "odds": "-125",
+   "matchup": "LAC Clippers at LAL Lakers",
+   "venue": "crypto.com Arena",
+   "time": "10:00 PM ET",
+   "result": null,
+   "detail": null
+  },
+  {
+   "date": "2026-10-23",
+   "player": "Dylan Harper",
+   "prop": "Under 26.5 Pts+Reb+Ast",
+   "odds": "-110",
+   "matchup": "HOU Rockets at SA Spurs",
+   "venue": "Moody Center",
+   "time": "9:30 PM ET",
+   "result": null,
+   "detail": null
+  },
+  {
+   "date": "2026-10-23",
+   "player": "Karl-Anthony Towns",
+   "prop": "Under 3.5 Assists",
+   "odds": "+122",
+   "matchup": "NY Knicks at BOS Celtics",
+   "venue": "TD Garden",
+   "time": "7:00 PM ET",
+   "result": null,
+   "detail": null
+  },
+  {
+   "date": "2026-10-23",
+   "player": "Reed Sheppard",
+   "prop": "Over 6.5 Points",
+   "odds": "-118",
+   "matchup": "HOU Rockets at SA Spurs",
+   "venue": "Moody Center",
+   "time": "9:30 PM ET",
+   "result": null,
+   "detail": null
+  },
+  {
+   "date": "2026-10-22",
+   "player": "VJ Edgecombe",
+   "prop": "Over 2.5 Assists",
+   "odds": "+101",
+   "matchup": "CLE Cavaliers at PHI 76ers",
+   "venue": "Xfinity Mobile Arena",
+   "time": "7:00 PM ET",
+   "result": "W",
+   "detail": "6 assists (33 min; PHI 114 CLE 106)"
+  },
+  {
+   "date": "2026-10-22",
+   "player": "Sam Merrill",
+   "prop": "Over 8.5 Points",
+   "odds": "-102",
+   "matchup": "CLE Cavaliers at PHI 76ers",
+   "venue": "Xfinity Mobile Arena",
+   "time": "7:00 PM ET",
+   "result": "L",
+   "detail": "5 points (24 min; PHI 114 CLE 106)"
+  },
+  {
+   "date": "2026-10-22",
+   "player": "Jalen Williams",
+   "prop": "Under 1.5 Threes",
+   "odds": "-226",
+   "matchup": "DEN Nuggets at OKC Thunder",
+   "venue": "Paycom Center",
+   "time": "9:30 PM ET",
+   "result": "L",
+   "detail": "2 threes (33 min; OKC 96 DEN 84)"
+  },
   {
    "date": "2026-10-21",
    "player": "Isaiah Collier",
@@ -15,8 +103,8 @@
    "matchup": "UTAH Jazz at MEM Grizzlies",
    "venue": "FedExForum",
    "time": "8:00 PM ET",
-   "result": null,
-   "detail": null
+   "result": "L",
+   "detail": "3 assists (16 min; MEM 123 UTAH 103)"
   },
   {
    "date": "2026-10-21",
@@ -26,8 +114,8 @@
    "matchup": "SAC Kings at LAC Clippers",
    "venue": "Intuit Dome",
    "time": "10:30 PM ET",
-   "result": null,
-   "detail": null
+   "result": "W",
+   "detail": "20 pts+reb+ast (32 min; LAC 121 SAC 96)"
   },
   {
    "date": "2026-10-21",
@@ -37,8 +125,8 @@
    "matchup": "CHA Hornets at BKN Nets",
    "venue": "Barclays Center",
    "time": "7:30 PM ET",
-   "result": null,
-   "detail": null
+   "result": "L",
+   "detail": "18 reb+ast (33 min; BKN 103 CHA 110)"
   },
   {
    "date": "2026-10-21",
@@ -48,8 +136,8 @@
    "matchup": "ATL Hawks at ORL Magic",
    "venue": "Kia Center",
    "time": "7:00 PM ET",
-   "result": null,
-   "detail": null
+   "result": "L",
+   "detail": "2 reb+ast (5 min; ORL 125 ATL 132)"
   },
   {
    "date": "2026-10-21",
@@ -59,8 +147,8 @@
    "matchup": "UTAH Jazz at MEM Grizzlies",
    "venue": "FedExForum",
    "time": "8:00 PM ET",
-   "result": null,
-   "detail": null
+   "result": "L",
+   "detail": "2 assists (16 min; MEM 123 UTAH 103)"
   },
   {
    "date": "2026-10-20",

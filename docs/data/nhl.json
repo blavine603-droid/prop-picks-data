@@ -1,12 +1,23 @@
 {
- "updated": "Thu, Oct 22, 2026",
- "date": "2026-10-22",
+ "updated": "Fri, Oct 23, 2026",
+ "date": "2026-10-23",
  "record": {
-  "W": 10,
-  "L": 3
+  "W": 16,
+  "L": 4
  },
  "noPick": null,
  "picks": [
+  {
+   "date": "2026-10-23",
+   "player": "Nathan MacKinnon",
+   "prop": "Over 3.5 Shots on Goal",
+   "odds": "-110",
+   "matchup": "TBL Lightning at COL Avalanche",
+   "venue": "Ball Arena",
+   "time": "9:00 PM ET",
+   "result": null,
+   "detail": null
+  },
   {
    "date": "2026-10-22",
    "player": "Blake Coleman",
@@ -15,8 +26,8 @@
    "matchup": "MIN Wild at CGY Flames",
    "venue": "Scotiabank Saddledome",
    "time": "9:00 PM ET",
-   "result": null,
-   "detail": null
+   "result": "W",
+   "detail": "2 SOG (14:23 TOI; MIN 1-2 CGY)"
   },
   {
    "date": "2026-10-22",
@@ -26,8 +37,8 @@
    "matchup": "FLA Panthers at PIT Penguins",
    "venue": "PPG Paints Arena",
    "time": "7:00 PM ET",
-   "result": null,
-   "detail": null
+   "result": "W",
+   "detail": "2 pts (12:54 TOI; FLA 0-4 PIT)"
   },
   {
    "date": "2026-10-22",
@@ -37,8 +48,8 @@
    "matchup": "NSH Predators at BOS Bruins",
    "venue": "TD Garden",
    "time": "7:00 PM ET",
-   "result": null,
-   "detail": null
+   "result": "W",
+   "detail": "1 SOG (16:11 TOI; NSH 0-6 BOS)"
   },
   {
    "date": "2026-10-22",
@@ -48,8 +59,8 @@
    "matchup": "LAK Kings at NYI Islanders",
    "venue": "UBS Arena",
    "time": "7:30 PM ET",
-   "result": null,
-   "detail": null
+   "result": "L",
+   "detail": "1 ast (17:05 TOI; LAK 3-2 NYI)"
   },
   {
    "date": "2026-10-22",
@@ -59,8 +70,8 @@
    "matchup": "CAR Hurricanes at EDM Oilers",
    "venue": "Rogers Place",
    "time": "9:00 PM ET",
-   "result": null,
-   "detail": null
+   "result": "W",
+   "detail": "5 SOG (23:46 TOI; CAR 5-6 EDM)"
   },
   {
    "date": "2026-10-22",
@@ -70,8 +81,8 @@
    "matchup": "NYR Rangers at TOR Maple Leafs",
    "venue": "Scotiabank Arena",
    "time": "7:00 PM ET",
-   "result": null,
-   "detail": null
+   "result": "W",
+   "detail": "4 pts (23:59 TOI; NYR 4-5 TOR)"
   },
   {
    "date": "2026-10-22",
@@ -81,8 +92,8 @@
    "matchup": "SJS Sharks at OTT Senators",
    "venue": "Canadian Tire Centre",
    "time": "7:00 PM ET",
-   "result": null,
-   "detail": null
+   "result": "W",
+   "detail": "1 pts (18:14 TOI; SJS 6-2 OTT)"
   },
   {
    "date": "2026-10-21",
