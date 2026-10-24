@@ -1,12 +1,67 @@
 {
- "updated": "Fri, Oct 23, 2026",
- "date": "2026-10-23",
+ "updated": "Sat, Oct 24, 2026",
+ "date": "2026-10-24",
  "record": {
-  "W": 3,
+  "W": 7,
   "L": 6
  },
  "noPick": null,
  "picks": [
+  {
+   "date": "2026-10-24",
+   "player": "Dennis Schroder",
+   "prop": "Under 24.5 Pts+Reb+Ast",
+   "odds": "-122",
+   "matchup": "MIA Heat at CHA Hornets",
+   "venue": "Spectrum Center",
+   "time": "6:00 PM ET",
+   "result": null,
+   "detail": null
+  },
+  {
+   "date": "2026-10-24",
+   "player": "Naji Marshall",
+   "prop": "Under 25.5 Pts+Reb+Ast",
+   "odds": "-111",
+   "matchup": "SA Spurs at DAL Mavericks",
+   "venue": "American Airlines Center",
+   "time": "8:00 PM ET",
+   "result": null,
+   "detail": null
+  },
+  {
+   "date": "2026-10-24",
+   "player": "Day'Ron Sharpe",
+   "prop": "Under 22.5 Pts+Reb+Ast",
+   "odds": "-111",
+   "matchup": "BKN Nets at CLE Cavaliers",
+   "venue": "Rocket Arena",
+   "time": "7:30 PM ET",
+   "result": null,
+   "detail": null
+  },
+  {
+   "date": "2026-10-24",
+   "player": "Dylan Harper",
+   "prop": "Under 17.5 Points",
+   "odds": "-111",
+   "matchup": "SA Spurs at DAL Mavericks",
+   "venue": "American Airlines Center",
+   "time": "8:00 PM ET",
+   "result": null,
+   "detail": null
+  },
+  {
+   "date": "2026-10-24",
+   "player": "Kyshawn George",
+   "prop": "Over 6.5 Reb+Ast",
+   "odds": "-132",
+   "matchup": "WSH Wizards at CHI Bulls",
+   "venue": "United Center",
+   "time": "8:00 PM ET",
+   "result": null,
+   "detail": null
+  },
   {
    "date": "2026-10-23",
    "player": "Kyle Kuzma",
@@ -15,8 +70,8 @@
    "matchup": "CHI Bulls at MIL Bucks",
    "venue": "Fiserv Forum",
    "time": "4:00 PM ET",
-   "result": null,
-   "detail": null
+   "result": "W",
+   "detail": "13 reb+ast (30 min; MIL 125 CHI 132)"
   },
   {
    "date": "2026-10-23",
@@ -26,8 +81,8 @@
    "matchup": "LAC Clippers at LAL Lakers",
    "venue": "crypto.com Arena",
    "time": "10:00 PM ET",
-   "result": null,
-   "detail": null
+   "result": "W",
+   "detail": "23 pts+reb+ast (33 min; LAL 125 LAC 117)"
   },
   {
    "date": "2026-10-23",
@@ -37,8 +92,8 @@
    "matchup": "HOU Rockets at SA Spurs",
    "venue": "Moody Center",
    "time": "9:30 PM ET",
-   "result": null,
-   "detail": null
+   "result": "W",
+   "detail": "25 pts+reb+ast (36 min; SA 110 HOU 114)"
   },
   {
    "date": "2026-10-23",
@@ -48,8 +103,8 @@
    "matchup": "NY Knicks at BOS Celtics",
    "venue": "TD Garden",
    "time": "7:00 PM ET",
-   "result": null,
-   "detail": null
+   "result": "W",
+   "detail": "3 assists (37 min; BOS 107 NY 103)"
   },
   {
    "date": "2026-10-23",
@@ -59,8 +114,8 @@
    "matchup": "HOU Rockets at SA Spurs",
    "venue": "Moody Center",
    "time": "9:30 PM ET",
-   "result": null,
-   "detail": null
+   "result": "V",
+   "detail": "did not play"
   },
   {
    "date": "2026-10-22",

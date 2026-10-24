@@ -1,12 +1,56 @@
 {
- "updated": "Fri, Oct 23, 2026",
- "date": "2026-10-23",
+ "updated": "Sat, Oct 24, 2026",
+ "date": "2026-10-24",
  "record": {
-  "W": 16,
+  "W": 17,
   "L": 4
  },
  "noPick": null,
  "picks": [
+  {
+   "date": "2026-10-24",
+   "player": "Jake Sanderson",
+   "prop": "Under 2.5 Shots on Goal",
+   "odds": "-170",
+   "matchup": "NYR Rangers at OTT Senators",
+   "venue": "Canadian Tire Centre",
+   "time": "7:00 PM ET",
+   "result": null,
+   "detail": null
+  },
+  {
+   "date": "2026-10-24",
+   "player": "Logan Cooley",
+   "prop": "Under 2.5 Shots on Goal",
+   "odds": "-185",
+   "matchup": "TBL Lightning at UTA Mammoth",
+   "venue": "Delta Center",
+   "time": "9:00 PM ET",
+   "result": null,
+   "detail": null
+  },
+  {
+   "date": "2026-10-24",
+   "player": "Pavel Zacha",
+   "prop": "Under 2.5 Shots on Goal",
+   "odds": "-150",
+   "matchup": "SJS Sharks at BOS Bruins",
+   "venue": "TD Garden",
+   "time": "7:00 PM ET",
+   "result": null,
+   "detail": null
+  },
+  {
+   "date": "2026-10-24",
+   "player": "Evgeni Malkin",
+   "prop": "Over 0.5 Points",
+   "odds": "-120",
+   "matchup": "NSH Predators at PIT Penguins",
+   "venue": "PPG Paints Arena",
+   "time": "7:00 PM ET",
+   "result": null,
+   "detail": null
+  },
   {
    "date": "2026-10-23",
    "player": "Nathan MacKinnon",
@@ -15,8 +59,8 @@
    "matchup": "TBL Lightning at COL Avalanche",
    "venue": "Ball Arena",
    "time": "9:00 PM ET",
-   "result": null,
-   "detail": null
+   "result": "W",
+   "detail": "4 SOG (18:10 TOI; TBL 3-6 COL)"
   },
   {
    "date": "2026-10-22",
