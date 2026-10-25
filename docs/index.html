@@ -4,7 +4,7 @@
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
 <title>Bennett's Picks</title>
-<meta name="description" content="Daily NHL and NBA player prop picks with a public, graded record.">
+<meta name="description" content="NHL, NBA and NFL player prop picks with a public, graded record.">
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Saira+Condensed:wght@600;800&family=IBM+Plex+Sans:wght@400;500;600&family=IBM+Plex+Mono:wght@500&display=swap">
@@ -77,12 +77,13 @@ footer b{color:var(--ink)}
 <div class="wrap">
   <header>
     <h1 class="brand">Bennett's <span>Picks</span></h1>
-    <div class="sub" id="updated">NHL & NBA player props · loading…</div>
+    <div class="sub" id="updated">NHL, NBA & NFL player props · loading…</div>
   </header>
 
   <nav class="tabs" role="tablist" aria-label="Sport">
     <button class="tab" role="tab" id="tab-nhl" aria-selected="true" onclick="show('nhl')">NHL</button>
     <button class="tab" role="tab" id="tab-nba" aria-selected="false" onclick="show('nba')">NBA</button>
+    <button class="tab" role="tab" id="tab-nfl" aria-selected="false" onclick="show('nfl')">NFL</button>
   </nav>
 
   <section class="scoreboard" aria-label="Season record">
@@ -92,7 +93,7 @@ footer b{color:var(--ink)}
   </section>
 
   <section>
-    <h2>Tonight</h2>
+    <h2 id="now-h">Tonight</h2>
     <div class="count" id="count"></div>
     <div class="card" id="tonight"><div class="err">Loading tonight's picks…</div></div>
   </section>
@@ -109,7 +110,7 @@ footer b{color:var(--ink)}
 <script>
 const fmtDate=d=>new Date(d+'T12:00:00').toLocaleDateString('en-US',{weekday:'short',month:'short',day:'numeric'});
 const esc=s=>String(s??'').replace(/[&<>"]/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c]));
-const DATA={};const LABEL={nhl:'NHL',nba:'NBA'};let current='nhl';
+const DATA={};const SPORTS=['nhl','nba','nfl'];const LABEL={nhl:'NHL',nba:'NBA',nfl:'NFL'};let current='nhl';
 function render(sport){
   const d=DATA[sport];
   if(!d){document.getElementById('tonight').innerHTML='<div class="err">Picks couldn\u2019t load. Refresh the page in a minute.</div>';document.getElementById('log').innerHTML='';return;}
@@ -119,15 +120,17 @@ function render(sport){
   document.getElementById('pct').textContent=n?Math.round(d.record.W/n*100)+'%':'–';
   const graded=d.picks.filter(p=>p.result==='W'||p.result==='L').slice(0,10).reverse();
   document.getElementById('form').innerHTML=graded.length?graded.map(p=>`<i class="${p.result}" title="${esc(p.player)}: ${p.result==='W'?'win':'loss'}"></i>`).join(''):'<span class="sb-label">—</span>';
-  const tonight=d.picks.filter(p=>p.date===d.date);
+  const weekly=d.week!=null;   // NFL: one card per week (Thu-Mon)
+  document.getElementById('now-h').textContent=weekly?'This week':'Tonight';
+  const tonight=weekly?d.picks.filter(p=>p.week===d.week&&p.season===d.season):d.picks.filter(p=>p.date===d.date);
   const t=document.getElementById('tonight');t.classList.toggle('empty',!tonight.length);
   document.getElementById('count').textContent=tonight.length>1?tonight.length+' picks':'';
   if(tonight.length){
     t.innerHTML=tonight.map(p=>`<div class="pick"><div class="player">${esc(p.player)}</div><div class="bet"><span class="prop">${esc(p.prop)}</span>${p.odds?`<span class="odds">${esc(p.odds)}</span>`:''}</div><div class="game">${esc(p.matchup)}${p.time?' · '+esc(p.time):''}</div>${p.result?`<div><span class="res ${p.result}">${p.result==='W'?'Win':p.result==='L'?'Loss':'No action'}${p.detail?' · '+esc(p.detail.split('(')[0].trim()):''}</span></div>`:''}</div>`).join('');
   }else{
-    t.innerHTML=`<div class="pick"><div class="player">No pick tonight</div><div class="game">${esc(d.noPick||'Nothing cleared the bar on tonight\u2019s slate.')}</div></div>`;
+    t.innerHTML=`<div class="pick"><div class="player">No pick ${weekly?'this week':'tonight'}</div><div class="game">${esc(d.noPick||'Nothing cleared the bar on '+(weekly?'this week\u2019s':'tonight\u2019s')+' slate.')}</div></div>`;
   }
-  const past=d.picks.filter(p=>p.date!==d.date||p.result);
+  const past=d.picks.filter(p=>!tonight.includes(p)||p.result);
   const byDay={};past.forEach(p=>(byDay[p.date]=byDay[p.date]||[]).push(p));
   document.getElementById('log').innerHTML=Object.keys(byDay).sort().reverse().map(day=>`<div class="day"><h3>${fmtDate(day)}</h3>${byDay[day].map(p=>{
     const r=p.result||'pending';const lbl=r==='W'?'Win':r==='L'?'Loss':r==='pending'?'Pending':'No action';
@@ -136,12 +139,12 @@ function render(sport){
 }
 function show(sport){
   current=sport;
-  ['nhl','nba'].forEach(s=>document.getElementById('tab-'+s).setAttribute('aria-selected',s===sport));
+  SPORTS.forEach(s=>document.getElementById('tab-'+s).setAttribute('aria-selected',s===sport));
   if(location.hash!=='#'+sport) history.replaceState(null,'','#'+sport);
   render(sport);
 }
-Promise.all(['nhl','nba'].map(s=>fetch('data/'+s+'.json',{cache:'no-store'}).then(r=>r.json()).then(d=>{DATA[s]=d;}).catch(()=>{}))).then(()=>{
-  show(location.hash==='#nba'?'nba':'nhl');
+Promise.all(SPORTS.map(s=>fetch('data/'+s+'.json',{cache:'no-store'}).then(r=>r.json()).then(d=>{DATA[s]=d;}).catch(()=>{}))).then(()=>{
+  const h=location.hash.slice(1);show(SPORTS.includes(h)?h:'nhl');
 });
 </script>
 </body>

@@ -1,0 +1,39 @@
+{
+ "updated": "Sun, Oct 25, 2026",
+ "date": "2026-10-25",
+ "record": {
+  "W": 0,
+  "L": 0
+ },
+ "noPick": null,
+ "picks": [
+  {
+   "date": "2026-10-25",
+   "player": "Kyler Murray",
+   "prop": "Under 207.5 Pass Yds",
+   "odds": "-111",
+   "matchup": "IND at MIN",
+   "venue": "U.S. Bank Stadium",
+   "time": "Sun Oct 25 · 1:00 PM ET",
+   "result": null,
+   "detail": null,
+   "week": 7,
+   "season": 2026
+  },
+  {
+   "date": "2026-10-25",
+   "player": "Tony Pollard",
+   "prop": "Under 78.5 Rush+Rec Yds",
+   "odds": "-114",
+   "matchup": "CLE at TEN",
+   "venue": "Nissan Stadium",
+   "time": "Sun Oct 25 · 1:00 PM ET",
+   "result": null,
+   "detail": null,
+   "week": 7,
+   "season": 2026
+  }
+ ],
+ "week": 7,
+ "season": 2026
+}
