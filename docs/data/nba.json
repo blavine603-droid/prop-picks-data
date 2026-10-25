@@ -1,12 +1,67 @@
 {
- "updated": "Sat, Oct 24, 2026",
- "date": "2026-10-24",
+ "updated": "Sun, Oct 25, 2026",
+ "date": "2026-10-25",
  "record": {
-  "W": 7,
-  "L": 6
+  "W": 10,
+  "L": 8
  },
  "noPick": null,
  "picks": [
+  {
+   "date": "2026-10-25",
+   "player": "Rui Hachimura",
+   "prop": "Under 23.5 Pts+Reb+Ast",
+   "odds": "-117",
+   "matchup": "LAC Clippers at OKC Thunder",
+   "venue": "Paycom Center",
+   "time": "7:00 PM ET",
+   "result": null,
+   "detail": null
+  },
+  {
+   "date": "2026-10-25",
+   "player": "LeBron James",
+   "prop": "Under 34.5 Pts+Reb+Ast",
+   "odds": "-117",
+   "matchup": "DET Pistons at PHI 76ers",
+   "venue": "Xfinity Mobile Arena",
+   "time": "7:30 PM ET",
+   "result": null,
+   "detail": null
+  },
+  {
+   "date": "2026-10-25",
+   "player": "Matisse Thybulle",
+   "prop": "Over 2.5 Stl+Blk",
+   "odds": "+145",
+   "matchup": "LAL Lakers at UTAH Jazz",
+   "venue": "Delta Center",
+   "time": "5:00 PM ET",
+   "result": null,
+   "detail": null
+  },
+  {
+   "date": "2026-10-25",
+   "player": "Isaiah Collier",
+   "prop": "Over 11.5 Pts+Ast",
+   "odds": "-128",
+   "matchup": "LAL Lakers at UTAH Jazz",
+   "venue": "Delta Center",
+   "time": "5:00 PM ET",
+   "result": null,
+   "detail": null
+  },
+  {
+   "date": "2026-10-25",
+   "player": "Tristan da Silva",
+   "prop": "Under 11.5 Points",
+   "odds": "-105",
+   "matchup": "ORL Magic at NY Knicks",
+   "venue": "Madison Square Garden",
+   "time": "7:00 PM ET",
+   "result": null,
+   "detail": null
+  },
   {
    "date": "2026-10-24",
    "player": "Dennis Schroder",
@@ -15,8 +70,8 @@
    "matchup": "MIA Heat at CHA Hornets",
    "venue": "Spectrum Center",
    "time": "6:00 PM ET",
-   "result": null,
-   "detail": null
+   "result": "L",
+   "detail": "35 pts+reb+ast (38 min; CHA 115 MIA 110)"
   },
   {
    "date": "2026-10-24",
@@ -26,8 +81,8 @@
    "matchup": "SA Spurs at DAL Mavericks",
    "venue": "American Airlines Center",
    "time": "8:00 PM ET",
-   "result": null,
-   "detail": null
+   "result": "W",
+   "detail": "19 pts+reb+ast (21 min; DAL 106 SA 122)"
   },
   {
    "date": "2026-10-24",
@@ -37,8 +92,8 @@
    "matchup": "BKN Nets at CLE Cavaliers",
    "venue": "Rocket Arena",
    "time": "7:30 PM ET",
-   "result": null,
-   "detail": null
+   "result": "W",
+   "detail": "16 pts+reb+ast (23 min; CLE 125 BKN 121)"
   },
   {
    "date": "2026-10-24",
@@ -48,8 +103,8 @@
    "matchup": "SA Spurs at DAL Mavericks",
    "venue": "American Airlines Center",
    "time": "8:00 PM ET",
-   "result": null,
-   "detail": null
+   "result": "L",
+   "detail": "22 points (28 min; DAL 106 SA 122)"
   },
   {
    "date": "2026-10-24",
@@ -59,8 +114,8 @@
    "matchup": "WSH Wizards at CHI Bulls",
    "venue": "United Center",
    "time": "8:00 PM ET",
-   "result": null,
-   "detail": null
+   "result": "W",
+   "detail": "14 reb+ast (36 min; CHI 120 WSH 124)"
   },
   {
    "date": "2026-10-23",

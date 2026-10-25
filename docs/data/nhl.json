@@ -1,12 +1,56 @@
 {
- "updated": "Sat, Oct 24, 2026",
- "date": "2026-10-24",
+ "updated": "Sun, Oct 25, 2026",
+ "date": "2026-10-25",
  "record": {
-  "W": 17,
+  "W": 20,
   "L": 4
  },
  "noPick": null,
  "picks": [
+  {
+   "date": "2026-10-25",
+   "player": "Joel Kiviranta",
+   "prop": "Under 0.5 Assists",
+   "odds": "-375",
+   "matchup": "NYI Islanders at DAL Stars",
+   "venue": "American Airlines Center",
+   "time": "6:00 PM ET",
+   "result": null,
+   "detail": null
+  },
+  {
+   "date": "2026-10-25",
+   "player": "Paul Cotter",
+   "prop": "Under 0.5 Assists",
+   "odds": "-315",
+   "matchup": "MIN Wild at VAN Canucks",
+   "venue": "Rogers Arena",
+   "time": "10:00 PM ET",
+   "result": null,
+   "detail": null
+  },
+  {
+   "date": "2026-10-25",
+   "player": "Oliver Kapanen",
+   "prop": "Under 0.5 Assists",
+   "odds": "-320",
+   "matchup": "MTL Canadiens at WPG Jets",
+   "venue": "Princess Auto Stadium",
+   "time": "7:00 PM ET",
+   "result": null,
+   "detail": null
+  },
+  {
+   "date": "2026-10-25",
+   "player": "Filip Forsberg",
+   "prop": "Over 2.5 Shots on Goal",
+   "odds": "+100",
+   "matchup": "COL Avalanche at NSH Predators",
+   "venue": "Bridgestone Arena",
+   "time": "8:00 PM ET",
+   "result": null,
+   "detail": null
+  },
   {
    "date": "2026-10-24",
    "player": "Jake Sanderson",
@@ -15,8 +59,8 @@
    "matchup": "NYR Rangers at OTT Senators",
    "venue": "Canadian Tire Centre",
    "time": "7:00 PM ET",
-   "result": null,
-   "detail": null
+   "result": "W",
+   "detail": "2 SOG (23:11 TOI; NYR 4-7 OTT)"
   },
   {
    "date": "2026-10-24",
@@ -26,8 +70,8 @@
    "matchup": "TBL Lightning at UTA Mammoth",
    "venue": "Delta Center",
    "time": "9:00 PM ET",
-   "result": null,
-   "detail": null
+   "result": "W",
+   "detail": "0 SOG (19:27 TOI; TBL 4-5 UTA)"
   },
   {
    "date": "2026-10-24",
@@ -37,8 +81,8 @@
    "matchup": "SJS Sharks at BOS Bruins",
    "venue": "TD Garden",
    "time": "7:00 PM ET",
-   "result": null,
-   "detail": null
+   "result": "W",
+   "detail": "1 SOG (19:46 TOI; SJS 4-6 BOS)"
   },
   {
    "date": "2026-10-24",
@@ -48,8 +92,8 @@
    "matchup": "NSH Predators at PIT Penguins",
    "venue": "PPG Paints Arena",
    "time": "7:00 PM ET",
-   "result": null,
-   "detail": null
+   "result": "V",
+   "detail": "did not play"
   },
   {
    "date": "2026-10-23",
