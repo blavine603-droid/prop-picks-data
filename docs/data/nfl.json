@@ -1,12 +1,25 @@
 {
  "updated": "Mon, Oct 26, 2026",
- "date": "2026-10-25",
+ "date": "2026-10-26",
  "record": {
   "W": 1,
   "L": 1
  },
  "noPick": null,
  "picks": [
+  {
+   "date": "2026-10-26",
+   "player": "CeeDee Lamb",
+   "prop": "Under 7.5 Receptions",
+   "odds": "-180",
+   "matchup": "DAL at PHI",
+   "venue": "Lincoln Financial Field",
+   "time": "Mon Oct 26 · 8:15 PM ET",
+   "result": null,
+   "detail": null,
+   "week": 7,
+   "season": 2026
+  },
   {
    "date": "2026-10-25",
    "player": "Kyler Murray",
