@@ -1,9 +1,9 @@
 {
- "updated": "Sun, Oct 25, 2026",
+ "updated": "Mon, Oct 26, 2026",
  "date": "2026-10-25",
  "record": {
-  "W": 0,
-  "L": 0
+  "W": 1,
+  "L": 1
  },
  "noPick": null,
  "picks": [
@@ -15,8 +15,8 @@
    "matchup": "IND at MIN",
    "venue": "U.S. Bank Stadium",
    "time": "Sun Oct 25 · 1:00 PM ET",
-   "result": null,
-   "detail": null,
+   "result": "W",
+   "detail": "150 pass yds (MIN 16 IND 10)",
    "week": 7,
    "season": 2026
   },
@@ -28,8 +28,8 @@
    "matchup": "CLE at TEN",
    "venue": "Nissan Stadium",
    "time": "Sun Oct 25 · 1:00 PM ET",
-   "result": null,
-   "detail": null,
+   "result": "L",
+   "detail": "155 rush+rec yds (TEN 24 CLE 27)",
    "week": 7,
    "season": 2026
   }

@@ -1,11 +1,11 @@
 {
- "updated": "Sun, Oct 25, 2026",
- "date": "2026-10-25",
+ "updated": "Mon, Oct 26, 2026",
+ "date": "2026-10-26",
  "record": {
-  "W": 20,
-  "L": 4
+  "W": 22,
+  "L": 5
  },
- "noPick": null,
+ "noPick": "Oct 26 · 3-game slate",
  "picks": [
   {
    "date": "2026-10-25",
@@ -15,8 +15,8 @@
    "matchup": "NYI Islanders at DAL Stars",
    "venue": "American Airlines Center",
    "time": "6:00 PM ET",
-   "result": null,
-   "detail": null
+   "result": "L",
+   "detail": "1 ast (13:08 TOI; NYI 3-6 DAL)"
   },
   {
    "date": "2026-10-25",
@@ -26,8 +26,8 @@
    "matchup": "MIN Wild at VAN Canucks",
    "venue": "Rogers Arena",
    "time": "10:00 PM ET",
-   "result": null,
-   "detail": null
+   "result": "V",
+   "detail": "did not play"
   },
   {
    "date": "2026-10-25",
@@ -37,8 +37,8 @@
    "matchup": "MTL Canadiens at WPG Jets",
    "venue": "Princess Auto Stadium",
    "time": "7:00 PM ET",
-   "result": null,
-   "detail": null
+   "result": "W",
+   "detail": "0 ast (14:18 TOI; MTL 2-1 WPG)"
   },
   {
    "date": "2026-10-25",
@@ -48,8 +48,8 @@
    "matchup": "COL Avalanche at NSH Predators",
    "venue": "Bridgestone Arena",
    "time": "8:00 PM ET",
-   "result": null,
-   "detail": null
+   "result": "W",
+   "detail": "3 SOG (18:50 TOI; COL 2-6 NSH)"
   },
   {
    "date": "2026-10-24",

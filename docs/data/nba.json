@@ -1,12 +1,67 @@
 {
- "updated": "Sun, Oct 25, 2026",
- "date": "2026-10-25",
+ "updated": "Mon, Oct 26, 2026",
+ "date": "2026-10-26",
  "record": {
-  "W": 10,
-  "L": 8
+  "W": 14,
+  "L": 9
  },
  "noPick": null,
  "picks": [
+  {
+   "date": "2026-10-26",
+   "player": "Ajay Mitchell",
+   "prop": "Under 22.5 Pts+Reb+Ast",
+   "odds": "-108",
+   "matchup": "PHX Suns at OKC Thunder",
+   "venue": "Paycom Center",
+   "time": "8:00 PM ET",
+   "result": null,
+   "detail": null
+  },
+  {
+   "date": "2026-10-26",
+   "player": "Isaiah Collier",
+   "prop": "Over 6.5 Points",
+   "odds": "+100",
+   "matchup": "MEM Grizzlies at UTAH Jazz",
+   "venue": "Delta Center",
+   "time": "9:00 PM ET",
+   "result": null,
+   "detail": null
+  },
+  {
+   "date": "2026-10-26",
+   "player": "DeMar DeRozan",
+   "prop": "Under 5.5 Reb+Ast",
+   "odds": "+114",
+   "matchup": "GS Warriors at DEN Nuggets",
+   "venue": "Ball Arena",
+   "time": "10:00 PM ET",
+   "result": null,
+   "detail": null
+  },
+  {
+   "date": "2026-10-26",
+   "player": "Jalen Johnson",
+   "prop": "Under 38.5 Pts+Reb+Ast",
+   "odds": "-108",
+   "matchup": "ATL Hawks at HOU Rockets",
+   "venue": "Toyota Center (Houston)",
+   "time": "8:30 PM ET",
+   "result": null,
+   "detail": null
+  },
+  {
+   "date": "2026-10-26",
+   "player": "Donovan Mitchell",
+   "prop": "Over 4.5 Assists",
+   "odds": "+101",
+   "matchup": "MIN Timberwolves at CLE Cavaliers",
+   "venue": "Rocket Arena",
+   "time": "7:00 PM ET",
+   "result": null,
+   "detail": null
+  },
   {
    "date": "2026-10-25",
    "player": "Rui Hachimura",
@@ -15,8 +70,8 @@
    "matchup": "LAC Clippers at OKC Thunder",
    "venue": "Paycom Center",
    "time": "7:00 PM ET",
-   "result": null,
-   "detail": null
+   "result": "W",
+   "detail": "9 pts+reb+ast (29 min; OKC 108 LAC 101)"
   },
   {
    "date": "2026-10-25",
@@ -26,8 +81,8 @@
    "matchup": "DET Pistons at PHI 76ers",
    "venue": "Xfinity Mobile Arena",
    "time": "7:30 PM ET",
-   "result": null,
-   "detail": null
+   "result": "W",
+   "detail": "25 pts+reb+ast (33 min; PHI 93 DET 106)"
   },
   {
    "date": "2026-10-25",
@@ -37,8 +92,8 @@
    "matchup": "LAL Lakers at UTAH Jazz",
    "venue": "Delta Center",
    "time": "5:00 PM ET",
-   "result": null,
-   "detail": null
+   "result": "W",
+   "detail": "4 stl+blk (26 min; UTAH 123 LAL 132)"
   },
   {
    "date": "2026-10-25",
@@ -48,8 +103,8 @@
    "matchup": "LAL Lakers at UTAH Jazz",
    "venue": "Delta Center",
    "time": "5:00 PM ET",
-   "result": null,
-   "detail": null
+   "result": "W",
+   "detail": "12 pts+ast (13 min; UTAH 123 LAL 132)"
   },
   {
    "date": "2026-10-25",
@@ -59,8 +114,8 @@
    "matchup": "ORL Magic at NY Knicks",
    "venue": "Madison Square Garden",
    "time": "7:00 PM ET",
-   "result": null,
-   "detail": null
+   "result": "L",
+   "detail": "19 points (27 min; NY 102 ORL 111)"
   },
   {
    "date": "2026-10-24",
