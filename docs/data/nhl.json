@@ -1,12 +1,67 @@
 {
- "updated": "Mon, Oct 26, 2026",
- "date": "2026-10-26",
+ "updated": "Tue, Oct 27, 2026",
+ "date": "2026-10-27",
  "record": {
   "W": 22,
   "L": 5
  },
- "noPick": "Oct 26 · 3-game slate",
+ "noPick": null,
  "picks": [
+  {
+   "date": "2026-10-27",
+   "player": "Logan Cooley",
+   "prop": "Under 2.5 Shots on Goal",
+   "odds": "-160",
+   "matchup": "MIN Wild at UTA Mammoth",
+   "venue": "Delta Center",
+   "time": "9:00 PM ET",
+   "result": null,
+   "detail": null
+  },
+  {
+   "date": "2026-10-27",
+   "player": "Oliver Kapanen",
+   "prop": "Under 0.5 Assists",
+   "odds": "-310",
+   "matchup": "MTL Canadiens at STL Blues",
+   "venue": "Enterprise Center",
+   "time": "8:00 PM ET",
+   "result": null,
+   "detail": null
+  },
+  {
+   "date": "2026-10-27",
+   "player": "Nils Hoglander",
+   "prop": "Under 0.5 Assists",
+   "odds": "-455",
+   "matchup": "NYI Islanders at NSH Predators",
+   "venue": "Bridgestone Arena",
+   "time": "8:00 PM ET",
+   "result": null,
+   "detail": null
+  },
+  {
+   "date": "2026-10-27",
+   "player": "Mark Stone",
+   "prop": "Under 2.5 Shots on Goal",
+   "odds": "-180",
+   "matchup": "OTT Senators at VGK Golden Knights",
+   "venue": "T-Mobile Arena",
+   "time": "10:00 PM ET",
+   "result": null,
+   "detail": null
+  },
+  {
+   "date": "2026-10-27",
+   "player": "Timo Meier",
+   "prop": "Over 2.5 Shots on Goal",
+   "odds": "+110",
+   "matchup": "NJD Devils at DAL Stars",
+   "venue": "American Airlines Center",
+   "time": "8:00 PM ET",
+   "result": null,
+   "detail": null
+  },
   {
    "date": "2026-10-25",
    "player": "Joel Kiviranta",

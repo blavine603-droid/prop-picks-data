@@ -1,12 +1,67 @@
 {
- "updated": "Mon, Oct 26, 2026",
- "date": "2026-10-26",
+ "updated": "Tue, Oct 27, 2026",
+ "date": "2026-10-27",
  "record": {
-  "W": 14,
-  "L": 9
+  "W": 17,
+  "L": 11
  },
  "noPick": null,
  "picks": [
+  {
+   "date": "2026-10-27",
+   "player": "Karl-Anthony Towns",
+   "prop": "Under 34.5 Pts+Reb+Ast",
+   "odds": "-106",
+   "matchup": "DET Pistons at NY Knicks",
+   "venue": "Madison Square Garden",
+   "time": "8:00 PM ET",
+   "result": null,
+   "detail": null
+  },
+  {
+   "date": "2026-10-27",
+   "player": "Ausar Thompson",
+   "prop": "Under 19.5 Pts+Reb+Ast",
+   "odds": "-130",
+   "matchup": "DET Pistons at NY Knicks",
+   "venue": "Madison Square Garden",
+   "time": "8:00 PM ET",
+   "result": null,
+   "detail": null
+  },
+  {
+   "date": "2026-10-27",
+   "player": "Jayson Tatum",
+   "prop": "Under 34.5 Pts+Ast",
+   "odds": "-113",
+   "matchup": "BKN Nets at BOS Celtics",
+   "venue": "TD Garden",
+   "time": "7:30 PM ET",
+   "result": null,
+   "detail": null
+  },
+  {
+   "date": "2026-10-27",
+   "player": "Dylan Harper",
+   "prop": "Under 22.5 Pts+Reb",
+   "odds": "-112",
+   "matchup": "SAC Kings at SA Spurs",
+   "venue": "Frost Bank Center",
+   "time": "8:00 PM ET",
+   "result": null,
+   "detail": null
+  },
+  {
+   "date": "2026-10-27",
+   "player": "Precious Achiuwa",
+   "prop": "Under 7.5 Rebounds",
+   "odds": "-103",
+   "matchup": "SAC Kings at SA Spurs",
+   "venue": "Frost Bank Center",
+   "time": "8:00 PM ET",
+   "result": null,
+   "detail": null
+  },
   {
    "date": "2026-10-26",
    "player": "Ajay Mitchell",
@@ -15,8 +70,8 @@
    "matchup": "PHX Suns at OKC Thunder",
    "venue": "Paycom Center",
    "time": "8:00 PM ET",
-   "result": null,
-   "detail": null
+   "result": "L",
+   "detail": "37 pts+reb+ast (25 min; OKC 125 PHX 114)"
   },
   {
    "date": "2026-10-26",
@@ -26,8 +81,8 @@
    "matchup": "MEM Grizzlies at UTAH Jazz",
    "venue": "Delta Center",
    "time": "9:00 PM ET",
-   "result": null,
-   "detail": null
+   "result": "W",
+   "detail": "7 points (21 min; UTAH 105 MEM 110)"
   },
   {
    "date": "2026-10-26",
@@ -37,8 +92,8 @@
    "matchup": "GS Warriors at DEN Nuggets",
    "venue": "Ball Arena",
    "time": "10:00 PM ET",
-   "result": null,
-   "detail": null
+   "result": "L",
+   "detail": "6 reb+ast (29 min; DEN 114 GS 134)"
   },
   {
    "date": "2026-10-26",
@@ -48,8 +103,8 @@
    "matchup": "ATL Hawks at HOU Rockets",
    "venue": "Toyota Center (Houston)",
    "time": "8:30 PM ET",
-   "result": null,
-   "detail": null
+   "result": "W",
+   "detail": "33 pts+reb+ast (36 min; HOU 120 ATL 110)"
   },
   {
    "date": "2026-10-26",
@@ -59,8 +114,8 @@
    "matchup": "MIN Timberwolves at CLE Cavaliers",
    "venue": "Rocket Arena",
    "time": "7:00 PM ET",
-   "result": null,
-   "detail": null
+   "result": "W",
+   "detail": "7 assists (38 min; CLE 127 MIN 125)"
   },
   {
    "date": "2026-10-25",

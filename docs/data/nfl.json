@@ -2,7 +2,7 @@
  "updated": "Mon, Oct 26, 2026",
  "date": "2026-10-26",
  "record": {
-  "W": 1,
+  "W": 2,
   "L": 1
  },
  "noPick": null,
@@ -15,8 +15,8 @@
    "matchup": "DAL at PHI",
    "venue": "Lincoln Financial Field",
    "time": "Mon Oct 26 · 8:15 PM ET",
-   "result": null,
-   "detail": null,
+   "result": "W",
+   "detail": "5 rec (PHI 21 DAL 38)",
    "week": 7,
    "season": 2026
   },
