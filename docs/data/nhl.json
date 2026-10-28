@@ -16,7 +16,17 @@
    "venue": "Climate Pledge Arena",
    "time": "10:00 PM ET",
    "result": null,
-   "detail": null
+   "detail": null,
+   "fliff": {
+    "line": 2.5,
+    "price": -105
+   },
+   "best": {
+    "book": "Hard Rock",
+    "line": 3.5,
+    "price": -185
+   },
+   "oddsAt": "2:29 PM ET"
   },
   {
    "date": "2026-10-27",

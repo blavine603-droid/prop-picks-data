@@ -16,7 +16,17 @@
    "venue": "American Airlines Center",
    "time": "9:30 PM ET",
    "result": null,
-   "detail": null
+   "detail": null,
+   "fliff": {
+    "line": 37.5,
+    "price": -120
+   },
+   "best": {
+    "book": "Hard Rock",
+    "line": 37.5,
+    "price": -110
+   },
+   "oddsAt": "2:29 PM ET"
   },
   {
    "date": "2026-10-28",
@@ -27,7 +37,17 @@
    "venue": "Little Caesars Arena",
    "time": "7:00 PM ET",
    "result": null,
-   "detail": null
+   "detail": null,
+   "fliff": {
+    "line": 28.5,
+    "price": -115
+   },
+   "best": {
+    "book": "DraftKings",
+    "line": 28.5,
+    "price": -106
+   },
+   "oddsAt": "2:29 PM ET"
   },
   {
    "date": "2026-10-28",
@@ -38,7 +58,17 @@
    "venue": "Little Caesars Arena",
    "time": "7:00 PM ET",
    "result": null,
-   "detail": null
+   "detail": null,
+   "fliff": {
+    "line": 21.5,
+    "price": -115
+   },
+   "best": {
+    "book": "Hard Rock",
+    "line": 21.5,
+    "price": -110
+   },
+   "oddsAt": "2:29 PM ET"
   },
   {
    "date": "2026-10-28",
@@ -49,7 +79,17 @@
    "venue": "American Airlines Center",
    "time": "9:30 PM ET",
    "result": null,
-   "detail": null
+   "detail": null,
+   "fliff": {
+    "line": 17.5,
+    "price": -135
+   },
+   "best": {
+    "book": "DraftKings",
+    "line": 17.5,
+    "price": -121
+   },
+   "oddsAt": "2:29 PM ET"
   },
   {
    "date": "2026-10-28",
@@ -60,7 +100,17 @@
    "venue": "Gainbridge Fieldhouse",
    "time": "7:00 PM ET",
    "result": null,
-   "detail": null
+   "detail": null,
+   "fliff": {
+    "line": 1.5,
+    "price": 150
+   },
+   "best": {
+    "book": "Bally Bet",
+    "line": 1.5,
+    "price": 160
+   },
+   "oddsAt": "2:29 PM ET"
   },
   {
    "date": "2026-10-27",

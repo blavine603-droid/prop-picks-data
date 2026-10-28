@@ -71,6 +71,15 @@ footer b{color:var(--ink)}
 .tab[aria-selected="true"]{background:var(--goal);border-color:var(--goal);color:#fff}
 .tab:focus-visible{outline:3px solid var(--navy);outline-offset:2px}
 .count{font:500 13px var(--body);color:var(--muted);margin:-4px 0 10px}
+.books{display:flex;flex-wrap:wrap;gap:4px 16px;font-size:13px;color:var(--muted)}
+.books b{font:500 13px var(--mono);color:var(--ink)}
+.split label{font-weight:600;font-size:14px;display:inline-flex;align-items:center;gap:8px}
+.split input{font:500 16px var(--mono);width:120px;padding:7px 10px;border:1px solid var(--line);border-radius:8px;background:var(--ice);color:var(--ink)}
+.split table{border-collapse:collapse;width:100%;margin-top:12px;font-size:14px;font-variant-numeric:tabular-nums}
+.split th,.split td{padding:7px 4px;border-bottom:1px solid var(--line);text-align:right;vertical-align:top}
+.split th:first-child,.split td:first-child{text-align:left}
+.split .sm{display:block;font-weight:400;color:var(--muted);font-size:12px}
+.split .note{color:var(--muted);font-size:12px;line-height:1.5;margin-top:10px}
 </style>
 </head>
 <body>
@@ -98,6 +107,15 @@ footer b{color:var(--ink)}
     <div class="card" id="tonight"><div class="err">Loading tonight's picks…</div></div>
   </section>
 
+  <section id="split-sec" hidden>
+    <h2>Stake splitter</h2>
+    <div class="card split">
+      <label for="split-amt">Amount $ <input id="split-amt" type="number" min="1" step="1" value="10" inputmode="decimal" oninput="runSplit()"></label>
+      <div id="split-out"></div>
+      <div class="note">Splits an amount across the open picks above. Each game gets one equal share; a second pick in the same game adds half a share, split between them, since same-game picks tend to win or lose together. To-win amounts use the posted odds. This is arithmetic, not advice. 21+ where legal; only bet what you can afford to lose.</div>
+    </div>
+  </section>
+
   <section>
     <h2>Results</h2>
     <div class="card log" id="log"></div>
@@ -111,9 +129,17 @@ footer b{color:var(--ink)}
 const fmtDate=d=>new Date(d+'T12:00:00').toLocaleDateString('en-US',{weekday:'short',month:'short',day:'numeric'});
 const esc=s=>String(s??'').replace(/[&<>"]/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c]));
 const DATA={};const SPORTS=['nhl','nba','nfl'];const LABEL={nhl:'NHL',nba:'NBA',nfl:'NFL'};let current='nhl';
+const fo=o=>(o>0?'+':'')+o;
+function booksLine(p){if(p.result||(!p.fliff&&!p.best))return'';const f=p.fliff,b=p.best;return `<div class="books"><span>Fliff now <b>${f?esc(f.line+' '+fo(f.price)):'not offered'}</b></span><span>Best now <b>${b?esc(b.line+' '+fo(b.price)):'—'}</b>${b?' '+esc(b.book):''}</span>${p.oddsAt?`<span>as of ${esc(p.oddsAt)}</span>`:''}</div>`;}
+let OPEN=[];
+function splitStakes(items,amt){const by={};items.forEach(it=>(by[it.matchup]=by[it.matchup]||[]).push(it));let tot=0;const w=[];Object.values(by).forEach(g=>{const gw=1+0.5*(g.length-1);tot+=gw;g.forEach(it=>w.push([it,gw/g.length]));});const cents=Math.round(amt*100);const out=w.map(([it,x])=>{const c=cents*x/tot;return[it,Math.floor(c),c-Math.floor(c)];});let left=cents-out.reduce((s,r)=>s+r[1],0);out.slice().sort((a,b)=>b[2]-a[2]).forEach(r=>{if(left>0){r[1]++;left--;}});return out.map(([it,c])=>({p:it,stake:c/100}));}
+function toWin(s,odds){const o=parseInt(odds);return isNaN(o)?null:(o>0?s*o/100:s*100/-o);}
+function runSplit(){const el=document.getElementById('split-out');const amt=parseFloat(document.getElementById('split-amt').value);if(!(amt>0)){el.innerHTML='<div class="note">Enter an amount above $0.</div>';return;}
+  const rows=splitStakes(OPEN,amt);const tw=rows.reduce((s,r)=>s+(toWin(r.stake,r.p.odds)||0),0);
+  el.innerHTML=`<table><tr><th>Pick</th><th>Odds</th><th>Stake</th><th>To win</th></tr>${rows.map(r=>{const w=toWin(r.stake,r.p.odds);return `<tr><td>${esc(r.p.player)}<span class="sm">${esc(r.p.prop)}</span></td><td>${esc(r.p.odds)}</td><td>$${r.stake.toFixed(2)}</td><td>${w==null?'':'$'+w.toFixed(2)}</td></tr>`;}).join('')}<tr><th>Total</th><th></th><th>$${amt.toFixed(2)}</th><th>$${tw.toFixed(2)}<span class="sm">if all win</span></th></tr></table>`;}
 function render(sport){
   const d=DATA[sport];
-  if(!d){document.getElementById('tonight').innerHTML='<div class="err">Picks couldn\u2019t load. Refresh the page in a minute.</div>';document.getElementById('log').innerHTML='';return;}
+  if(!d){document.getElementById('tonight').innerHTML='<div class="err">Picks couldn\u2019t load. Refresh the page in a minute.</div>';document.getElementById('log').innerHTML='';document.getElementById('split-sec').hidden=true;return;}
   document.getElementById('updated').textContent=LABEL[sport]+' player props · updated '+d.updated;
   const n=d.record.W+d.record.L;
   document.getElementById('rec').textContent=d.record.W+'-'+d.record.L;
@@ -126,10 +152,11 @@ function render(sport){
   const t=document.getElementById('tonight');t.classList.toggle('empty',!tonight.length);
   document.getElementById('count').textContent=tonight.length>1?tonight.length+' picks':'';
   if(tonight.length){
-    t.innerHTML=tonight.map(p=>`<div class="pick"><div class="player">${esc(p.player)}</div><div class="bet"><span class="prop">${esc(p.prop)}</span>${p.odds?`<span class="odds">${esc(p.odds)}</span>`:''}</div><div class="game">${esc(p.matchup)}${p.time?' · '+esc(p.time):''}</div>${p.result?`<div><span class="res ${p.result}">${p.result==='W'?'Win':p.result==='L'?'Loss':'No action'}${p.detail?' · '+esc(p.detail.split('(')[0].trim()):''}</span></div>`:''}</div>`).join('');
+    t.innerHTML=tonight.map(p=>`<div class="pick"><div class="player">${esc(p.player)}</div><div class="bet"><span class="prop">${esc(p.prop)}</span>${p.odds?`<span class="odds">${esc(p.odds)}</span>`:''}</div>${booksLine(p)}<div class="game">${esc(p.matchup)}${p.time?' · '+esc(p.time):''}</div>${p.result?`<div><span class="res ${p.result}">${p.result==='W'?'Win':p.result==='L'?'Loss':'No action'}${p.detail?' · '+esc(p.detail.split('(')[0].trim()):''}</span></div>`:''}</div>`).join('');
   }else{
     t.innerHTML=`<div class="pick"><div class="player">No pick ${weekly?'this week':'tonight'}</div><div class="game">${esc(d.noPick||'Nothing cleared the bar on '+(weekly?'this week\u2019s':'tonight\u2019s')+' slate.')}</div></div>`;
   }
+  OPEN=tonight.filter(p=>!p.result);document.getElementById('split-sec').hidden=!OPEN.length;if(OPEN.length)runSplit();
   const past=d.picks.filter(p=>!tonight.includes(p)||p.result);
   const byDay={};past.forEach(p=>(byDay[p.date]=byDay[p.date]||[]).push(p));
   document.getElementById('log').innerHTML=Object.keys(byDay).sort().reverse().map(day=>`<div class="day"><h3>${fmtDate(day)}</h3>${byDay[day].map(p=>{
