@@ -1,12 +1,23 @@
 {
- "updated": "Tue, Oct 27, 2026",
- "date": "2026-10-27",
+ "updated": "Wed, Oct 28, 2026",
+ "date": "2026-10-28",
  "record": {
-  "W": 22,
-  "L": 5
+  "W": 23,
+  "L": 9
  },
  "noPick": null,
  "picks": [
+  {
+   "date": "2026-10-28",
+   "player": "Bobby McMann",
+   "prop": "Under 3.5 Shots on Goal",
+   "odds": "-160",
+   "matchup": "TOR Maple Leafs at SEA Kraken",
+   "venue": "Climate Pledge Arena",
+   "time": "10:00 PM ET",
+   "result": null,
+   "detail": null
+  },
   {
    "date": "2026-10-27",
    "player": "Logan Cooley",
@@ -15,8 +26,8 @@
    "matchup": "MIN Wild at UTA Mammoth",
    "venue": "Delta Center",
    "time": "9:00 PM ET",
-   "result": null,
-   "detail": null
+   "result": "L",
+   "detail": "3 SOG (20:39 TOI; MIN 3-1 UTA)"
   },
   {
    "date": "2026-10-27",
@@ -26,8 +37,8 @@
    "matchup": "MTL Canadiens at STL Blues",
    "venue": "Enterprise Center",
    "time": "8:00 PM ET",
-   "result": null,
-   "detail": null
+   "result": "W",
+   "detail": "0 ast (15:56 TOI; MTL 2-0 STL)"
   },
   {
    "date": "2026-10-27",
@@ -37,8 +48,8 @@
    "matchup": "NYI Islanders at NSH Predators",
    "venue": "Bridgestone Arena",
    "time": "8:00 PM ET",
-   "result": null,
-   "detail": null
+   "result": "L",
+   "detail": "1 ast (06:14 TOI; NYI 4-3 NSH)"
   },
   {
    "date": "2026-10-27",
@@ -48,8 +59,8 @@
    "matchup": "OTT Senators at VGK Golden Knights",
    "venue": "T-Mobile Arena",
    "time": "10:00 PM ET",
-   "result": null,
-   "detail": null
+   "result": "L",
+   "detail": "3 SOG (20:08 TOI; OTT 1-4 VGK)"
   },
   {
    "date": "2026-10-27",
@@ -59,8 +70,8 @@
    "matchup": "NJD Devils at DAL Stars",
    "venue": "American Airlines Center",
    "time": "8:00 PM ET",
-   "result": null,
-   "detail": null
+   "result": "L",
+   "detail": "0 SOG (16:18 TOI; NJD 5-1 DAL)"
   },
   {
    "date": "2026-10-25",

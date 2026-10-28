@@ -1,12 +1,67 @@
 {
- "updated": "Tue, Oct 27, 2026",
- "date": "2026-10-27",
+ "updated": "Wed, Oct 28, 2026",
+ "date": "2026-10-28",
  "record": {
-  "W": 17,
-  "L": 11
+  "W": 20,
+  "L": 13
  },
  "noPick": null,
  "picks": [
+  {
+   "date": "2026-10-28",
+   "player": "Cooper Flagg",
+   "prop": "Under 37.5 Pts+Reb+Ast",
+   "odds": "-108",
+   "matchup": "OKC Thunder at DAL Mavericks",
+   "venue": "American Airlines Center",
+   "time": "9:30 PM ET",
+   "result": null,
+   "detail": null
+  },
+  {
+   "date": "2026-10-28",
+   "player": "Naz Reid",
+   "prop": "Under 28.5 Pts+Reb+Ast",
+   "odds": "-109",
+   "matchup": "CHA Hornets at DET Pistons",
+   "venue": "Little Caesars Arena",
+   "time": "7:00 PM ET",
+   "result": null,
+   "detail": null
+  },
+  {
+   "date": "2026-10-28",
+   "player": "John Collins",
+   "prop": "Under 23.5 Pts+Reb",
+   "odds": "-120",
+   "matchup": "CHA Hornets at DET Pistons",
+   "venue": "Little Caesars Arena",
+   "time": "7:00 PM ET",
+   "result": null,
+   "detail": null
+  },
+  {
+   "date": "2026-10-28",
+   "player": "Jared McCain",
+   "prop": "Under 17.5 Points",
+   "odds": "-117",
+   "matchup": "OKC Thunder at DAL Mavericks",
+   "venue": "American Airlines Center",
+   "time": "9:30 PM ET",
+   "result": null,
+   "detail": null
+  },
+  {
+   "date": "2026-10-28",
+   "player": "Tyrese Maxey",
+   "prop": "Over 1.5 Steals",
+   "odds": "+137",
+   "matchup": "PHI 76ers at IND Pacers",
+   "venue": "Gainbridge Fieldhouse",
+   "time": "7:00 PM ET",
+   "result": null,
+   "detail": null
+  },
   {
    "date": "2026-10-27",
    "player": "Karl-Anthony Towns",
@@ -15,8 +70,8 @@
    "matchup": "DET Pistons at NY Knicks",
    "venue": "Madison Square Garden",
    "time": "8:00 PM ET",
-   "result": null,
-   "detail": null
+   "result": "L",
+   "detail": "50 pts+reb+ast (33 min; NY 111 DET 97)"
   },
   {
    "date": "2026-10-27",
@@ -26,8 +81,8 @@
    "matchup": "DET Pistons at NY Knicks",
    "venue": "Madison Square Garden",
    "time": "8:00 PM ET",
-   "result": null,
-   "detail": null
+   "result": "W",
+   "detail": "19 pts+reb+ast (25 min; NY 111 DET 97)"
   },
   {
    "date": "2026-10-27",
@@ -37,8 +92,8 @@
    "matchup": "BKN Nets at BOS Celtics",
    "venue": "TD Garden",
    "time": "7:30 PM ET",
-   "result": null,
-   "detail": null
+   "result": "L",
+   "detail": "48 pts+ast (42 min; BOS 125 BKN 124)"
   },
   {
    "date": "2026-10-27",
@@ -48,8 +103,8 @@
    "matchup": "SAC Kings at SA Spurs",
    "venue": "Frost Bank Center",
    "time": "8:00 PM ET",
-   "result": null,
-   "detail": null
+   "result": "W",
+   "detail": "19 pts+reb (30 min; SA 130 SAC 103)"
   },
   {
    "date": "2026-10-27",
@@ -59,8 +114,8 @@
    "matchup": "SAC Kings at SA Spurs",
    "venue": "Frost Bank Center",
    "time": "8:00 PM ET",
-   "result": null,
-   "detail": null
+   "result": "W",
+   "detail": "1 rebounds (14 min; SA 130 SAC 103)"
   },
   {
    "date": "2026-10-26",
