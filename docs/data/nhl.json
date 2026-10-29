@@ -1,12 +1,78 @@
 {
- "updated": "Wed, Oct 28, 2026",
- "date": "2026-10-28",
+ "updated": "Thu, Oct 29, 2026",
+ "date": "2026-10-29",
  "record": {
   "W": 23,
-  "L": 9
+  "L": 10
  },
  "noPick": null,
  "picks": [
+  {
+   "date": "2026-10-29",
+   "player": "Macklin Celebrini",
+   "prop": "Over 1.5 Points",
+   "odds": "+105",
+   "matchup": "VAN Canucks at SJS Sharks",
+   "venue": "SAP Center at San Jose",
+   "time": "10:00 PM ET",
+   "result": null,
+   "detail": null
+  },
+  {
+   "date": "2026-10-29",
+   "player": "Ross Colton",
+   "prop": "Over 1.5 Shots on Goal",
+   "odds": "+110",
+   "matchup": "WSH Capitals at NSH Predators",
+   "venue": "Bridgestone Arena",
+   "time": "8:00 PM ET",
+   "result": null,
+   "detail": null
+  },
+  {
+   "date": "2026-10-29",
+   "player": "Evgeni Malkin",
+   "prop": "Over 0.5 Points",
+   "odds": "+100",
+   "matchup": "UTA Mammoth at PIT Penguins",
+   "venue": "PPG Paints Arena",
+   "time": "7:00 PM ET",
+   "result": null,
+   "detail": null
+  },
+  {
+   "date": "2026-10-29",
+   "player": "Jake Sanderson",
+   "prop": "Under 2.5 Shots on Goal",
+   "odds": "-150",
+   "matchup": "OTT Senators at LAK Kings",
+   "venue": "Crypto.com Arena",
+   "time": "10:00 PM ET",
+   "result": null,
+   "detail": null
+  },
+  {
+   "date": "2026-10-29",
+   "player": "Matthew Schaefer",
+   "prop": "Over 2.5 Shots on Goal",
+   "odds": "-115",
+   "matchup": "NYI Islanders at MIN Wild",
+   "venue": "Grand Casino Arena",
+   "time": "8:00 PM ET",
+   "result": null,
+   "detail": null
+  },
+  {
+   "date": "2026-10-29",
+   "player": "Anders Lee",
+   "prop": "Over 1.5 Shots on Goal",
+   "odds": "-125",
+   "matchup": "UTA Mammoth at PIT Penguins",
+   "venue": "PPG Paints Arena",
+   "time": "7:00 PM ET",
+   "result": null,
+   "detail": null
+  },
   {
    "date": "2026-10-28",
    "player": "Bobby McMann",
@@ -15,18 +81,8 @@
    "matchup": "TOR Maple Leafs at SEA Kraken",
    "venue": "Climate Pledge Arena",
    "time": "10:00 PM ET",
-   "result": null,
-   "detail": null,
-   "fliff": {
-    "line": 2.5,
-    "price": -105
-   },
-   "best": {
-    "book": "Hard Rock",
-    "line": 3.5,
-    "price": -185
-   },
-   "oddsAt": "2:29 PM ET"
+   "result": "L",
+   "detail": "4 SOG (19:05 TOI; TOR 4-5 SEA)"
   },
   {
    "date": "2026-10-27",

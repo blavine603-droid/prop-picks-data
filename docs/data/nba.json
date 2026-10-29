@@ -1,12 +1,67 @@
 {
- "updated": "Wed, Oct 28, 2026",
- "date": "2026-10-28",
+ "updated": "Thu, Oct 29, 2026",
+ "date": "2026-10-29",
  "record": {
-  "W": 20,
-  "L": 13
+  "W": 23,
+  "L": 15
  },
  "noPick": null,
  "picks": [
+  {
+   "date": "2026-10-29",
+   "player": "Jaylen Wells",
+   "prop": "Over 11.5 Points",
+   "odds": "-106",
+   "matchup": "MEM Grizzlies at POR Trail Blazers",
+   "venue": "Moda Center",
+   "time": "10:00 PM ET",
+   "result": null,
+   "detail": null
+  },
+  {
+   "date": "2026-10-29",
+   "player": "Scoot Henderson",
+   "prop": "Over 11.5 Pts+Ast",
+   "odds": "+105",
+   "matchup": "MEM Grizzlies at POR Trail Blazers",
+   "venue": "Moda Center",
+   "time": "10:00 PM ET",
+   "result": null,
+   "detail": null
+  },
+  {
+   "date": "2026-10-29",
+   "player": "Precious Achiuwa",
+   "prop": "Over 10.5 Points",
+   "odds": "-112",
+   "matchup": "SAC Kings at NO Pelicans",
+   "venue": "Smoothie King Center",
+   "time": "8:00 PM ET",
+   "result": null,
+   "detail": null
+  },
+  {
+   "date": "2026-10-29",
+   "player": "Donovan Mitchell",
+   "prop": "Over 2.5 3-Pointers",
+   "odds": "+105",
+   "matchup": "CLE Cavaliers at ATL Hawks",
+   "venue": "State Farm Arena",
+   "time": "8:00 PM ET",
+   "result": null,
+   "detail": null
+  },
+  {
+   "date": "2026-10-29",
+   "player": "Jeremiah Fears",
+   "prop": "Over 5.5 Reb+Ast",
+   "odds": "-123",
+   "matchup": "SAC Kings at NO Pelicans",
+   "venue": "Smoothie King Center",
+   "time": "8:00 PM ET",
+   "result": null,
+   "detail": null
+  },
   {
    "date": "2026-10-28",
    "player": "Cooper Flagg",
@@ -15,18 +70,8 @@
    "matchup": "OKC Thunder at DAL Mavericks",
    "venue": "American Airlines Center",
    "time": "9:30 PM ET",
-   "result": null,
-   "detail": null,
-   "fliff": {
-    "line": 37.5,
-    "price": -120
-   },
-   "best": {
-    "book": "Hard Rock",
-    "line": 37.5,
-    "price": -110
-   },
-   "oddsAt": "2:29 PM ET"
+   "result": "L",
+   "detail": "39 pts+reb+ast (33 min; DAL 120 OKC 96)"
   },
   {
    "date": "2026-10-28",
@@ -36,18 +81,8 @@
    "matchup": "CHA Hornets at DET Pistons",
    "venue": "Little Caesars Arena",
    "time": "7:00 PM ET",
-   "result": null,
-   "detail": null,
-   "fliff": {
-    "line": 28.5,
-    "price": -115
-   },
-   "best": {
-    "book": "DraftKings",
-    "line": 28.5,
-    "price": -106
-   },
-   "oddsAt": "2:29 PM ET"
+   "result": "W",
+   "detail": "13 pts+reb+ast (13 min; DET 97 CHA 89)"
   },
   {
    "date": "2026-10-28",
@@ -57,18 +92,8 @@
    "matchup": "CHA Hornets at DET Pistons",
    "venue": "Little Caesars Arena",
    "time": "7:00 PM ET",
-   "result": null,
-   "detail": null,
-   "fliff": {
-    "line": 21.5,
-    "price": -115
-   },
-   "best": {
-    "book": "Hard Rock",
-    "line": 21.5,
-    "price": -110
-   },
-   "oddsAt": "2:29 PM ET"
+   "result": "W",
+   "detail": "6 pts+reb (18 min; DET 97 CHA 89)"
   },
   {
    "date": "2026-10-28",
@@ -78,18 +103,8 @@
    "matchup": "OKC Thunder at DAL Mavericks",
    "venue": "American Airlines Center",
    "time": "9:30 PM ET",
-   "result": null,
-   "detail": null,
-   "fliff": {
-    "line": 17.5,
-    "price": -135
-   },
-   "best": {
-    "book": "DraftKings",
-    "line": 17.5,
-    "price": -121
-   },
-   "oddsAt": "2:29 PM ET"
+   "result": "W",
+   "detail": "10 points (29 min; DAL 120 OKC 96)"
   },
   {
    "date": "2026-10-28",
@@ -99,18 +114,8 @@
    "matchup": "PHI 76ers at IND Pacers",
    "venue": "Gainbridge Fieldhouse",
    "time": "7:00 PM ET",
-   "result": null,
-   "detail": null,
-   "fliff": {
-    "line": 1.5,
-    "price": 150
-   },
-   "best": {
-    "book": "Bally Bet",
-    "line": 1.5,
-    "price": 160
-   },
-   "oddsAt": "2:29 PM ET"
+   "result": "L",
+   "detail": "1 steals (36 min; IND 109 PHI 114)"
   },
   {
    "date": "2026-10-27",
