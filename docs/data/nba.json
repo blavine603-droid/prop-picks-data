@@ -16,7 +16,17 @@
    "venue": "Moda Center",
    "time": "10:00 PM ET",
    "result": null,
-   "detail": null
+   "detail": null,
+   "fliff": {
+    "line": 11.5,
+    "price": -110
+   },
+   "best": {
+    "book": "DraftKings",
+    "line": 11.5,
+    "price": -108
+   },
+   "oddsAt": "12:04 PM ET"
   },
   {
    "date": "2026-10-29",
@@ -38,7 +48,17 @@
    "venue": "Smoothie King Center",
    "time": "8:00 PM ET",
    "result": null,
-   "detail": null
+   "detail": null,
+   "fliff": {
+    "line": 10.5,
+    "price": -120
+   },
+   "best": {
+    "book": "FanDuel",
+    "line": 10.5,
+    "price": -112
+   },
+   "oddsAt": "12:04 PM ET"
   },
   {
    "date": "2026-10-29",
@@ -49,7 +69,17 @@
    "venue": "State Farm Arena",
    "time": "8:00 PM ET",
    "result": null,
-   "detail": null
+   "detail": null,
+   "fliff": {
+    "line": 2.5,
+    "price": -105
+   },
+   "best": {
+    "book": "ESPN BET",
+    "line": 2.5,
+    "price": 105
+   },
+   "oddsAt": "12:04 PM ET"
   },
   {
    "date": "2026-10-29",
@@ -60,7 +90,17 @@
    "venue": "Smoothie King Center",
    "time": "8:00 PM ET",
    "result": null,
-   "detail": null
+   "detail": null,
+   "fliff": {
+    "line": 5.5,
+    "price": -125
+   },
+   "best": {
+    "book": "BetMGM",
+    "line": 5.5,
+    "price": -115
+   },
+   "oddsAt": "12:04 PM ET"
   },
   {
    "date": "2026-10-28",
