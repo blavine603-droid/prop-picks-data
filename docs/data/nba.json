@@ -38,7 +38,17 @@
    "venue": "Target Center",
    "time": "8:00 PM ET",
    "result": null,
-   "detail": null
+   "detail": null,
+   "fliff": {
+    "line": 34.5,
+    "price": -130
+   },
+   "best": {
+    "book": "Hard Rock",
+    "line": 34.5,
+    "price": -115
+   },
+   "oddsAt": "11:59 AM ET"
   },
   {
    "date": "2026-10-30",
@@ -60,7 +70,17 @@
    "venue": "American Airlines Center",
    "time": "8:00 PM ET",
    "result": null,
-   "detail": null
+   "detail": null,
+   "fliff": {
+    "line": 35.5,
+    "price": -115
+   },
+   "best": {
+    "book": "DraftKings",
+    "line": 35.5,
+    "price": -109
+   },
+   "oddsAt": "11:59 AM ET"
   },
   {
    "date": "2026-10-29",
