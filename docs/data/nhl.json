@@ -1,11 +1,11 @@
 {
- "updated": "Thu, Oct 29, 2026",
- "date": "2026-10-29",
+ "updated": "Fri, Oct 30, 2026",
+ "date": "2026-10-30",
  "record": {
-  "W": 23,
-  "L": 10
+  "W": 27,
+  "L": 12
  },
- "noPick": null,
+ "noPick": "3-game slate: NJD, VGK, WPG, FLA, SEA, CGY",
  "picks": [
   {
    "date": "2026-10-29",
@@ -15,18 +15,8 @@
    "matchup": "VAN Canucks at SJS Sharks",
    "venue": "SAP Center at San Jose",
    "time": "10:00 PM ET",
-   "result": null,
-   "detail": null,
-   "fliff": {
-    "line": 1.5,
-    "price": 105
-   },
-   "best": {
-    "book": "ESPN BET",
-    "line": 1.5,
-    "price": 130
-   },
-   "oddsAt": "12:04 PM ET"
+   "result": "L",
+   "detail": "1 pts (22:56 TOI; VAN 2-3 SJS)"
   },
   {
    "date": "2026-10-29",
@@ -36,15 +26,8 @@
    "matchup": "WSH Capitals at NSH Predators",
    "venue": "Bridgestone Arena",
    "time": "8:00 PM ET",
-   "result": null,
-   "detail": null,
-   "fliff": null,
-   "best": {
-    "book": "ESPN BET",
-    "line": 1.5,
-    "price": 120
-   },
-   "oddsAt": "12:04 PM ET"
+   "result": "W",
+   "detail": "3 SOG (15:04 TOI; WSH 4-3 NSH)"
   },
   {
    "date": "2026-10-29",
@@ -54,15 +37,8 @@
    "matchup": "UTA Mammoth at PIT Penguins",
    "venue": "PPG Paints Arena",
    "time": "7:00 PM ET",
-   "result": null,
-   "detail": null,
-   "fliff": null,
-   "best": {
-    "book": "ESPN BET",
-    "line": 0.5,
-    "price": 115
-   },
-   "oddsAt": "12:04 PM ET"
+   "result": "W",
+   "detail": "2 pts (16:23 TOI; UTA 4-3 PIT)"
   },
   {
    "date": "2026-10-29",
@@ -72,18 +48,8 @@
    "matchup": "OTT Senators at LAK Kings",
    "venue": "Crypto.com Arena",
    "time": "10:00 PM ET",
-   "result": null,
-   "detail": null,
-   "fliff": {
-    "line": 2.5,
-    "price": -180
-   },
-   "best": {
-    "book": "DraftKings",
-    "line": 2.5,
-    "price": -165
-   },
-   "oddsAt": "12:04 PM ET"
+   "result": "W",
+   "detail": "1 SOG (29:17 TOI; OTT 5-6 LAK)"
   },
   {
    "date": "2026-10-29",
@@ -93,15 +59,8 @@
    "matchup": "NYI Islanders at MIN Wild",
    "venue": "Grand Casino Arena",
    "time": "8:00 PM ET",
-   "result": null,
-   "detail": null,
-   "fliff": null,
-   "best": {
-    "book": "BetMGM",
-    "line": 2.5,
-    "price": -115
-   },
-   "oddsAt": "12:04 PM ET"
+   "result": "W",
+   "detail": "6 SOG (30:01 TOI; NYI 4-3 MIN)"
   },
   {
    "date": "2026-10-29",
@@ -111,15 +70,8 @@
    "matchup": "UTA Mammoth at PIT Penguins",
    "venue": "PPG Paints Arena",
    "time": "7:00 PM ET",
-   "result": null,
-   "detail": null,
-   "fliff": null,
-   "best": {
-    "book": "DraftKings",
-    "line": 1.5,
-    "price": -130
-   },
-   "oddsAt": "12:04 PM ET"
+   "result": "L",
+   "detail": "0 SOG (09:50 TOI; OTT 5-6 LAK)"
   },
   {
    "date": "2026-10-28",

@@ -1,12 +1,67 @@
 {
- "updated": "Thu, Oct 29, 2026",
- "date": "2026-10-29",
+ "updated": "Fri, Oct 30, 2026",
+ "date": "2026-10-30",
  "record": {
-  "W": 23,
-  "L": 15
+  "W": 25,
+  "L": 18
  },
  "noPick": null,
  "picks": [
+  {
+   "date": "2026-10-30",
+   "player": "Paul Reed",
+   "prop": "Under 24.5 Pts+Reb",
+   "odds": "-113",
+   "matchup": "DET Pistons at BKN Nets",
+   "venue": "Barclays Center",
+   "time": "7:30 PM ET",
+   "result": null,
+   "detail": null
+  },
+  {
+   "date": "2026-10-30",
+   "player": "Nolan Traore",
+   "prop": "Under 6.5 Reb+Ast",
+   "odds": "-130",
+   "matchup": "DET Pistons at BKN Nets",
+   "venue": "Barclays Center",
+   "time": "7:30 PM ET",
+   "result": null,
+   "detail": null
+  },
+  {
+   "date": "2026-10-30",
+   "player": "Darius Garland",
+   "prop": "Under 34.5 Pts+Reb+Ast",
+   "odds": "-110",
+   "matchup": "LAC Clippers at MIN Timberwolves",
+   "venue": "Target Center",
+   "time": "8:00 PM ET",
+   "result": null,
+   "detail": null
+  },
+  {
+   "date": "2026-10-30",
+   "player": "Terrence Shannon",
+   "prop": "Under 19.5 Pts+Reb+Ast",
+   "odds": "-104",
+   "matchup": "LAC Clippers at MIN Timberwolves",
+   "venue": "Target Center",
+   "time": "8:00 PM ET",
+   "result": null,
+   "detail": null
+  },
+  {
+   "date": "2026-10-30",
+   "player": "Cooper Flagg",
+   "prop": "Under 34.5 Pts+Reb+Ast",
+   "odds": "-110",
+   "matchup": "HOU Rockets at DAL Mavericks",
+   "venue": "American Airlines Center",
+   "time": "8:00 PM ET",
+   "result": null,
+   "detail": null
+  },
   {
    "date": "2026-10-29",
    "player": "Jaylen Wells",
@@ -15,18 +70,8 @@
    "matchup": "MEM Grizzlies at POR Trail Blazers",
    "venue": "Moda Center",
    "time": "10:00 PM ET",
-   "result": null,
-   "detail": null,
-   "fliff": {
-    "line": 11.5,
-    "price": -110
-   },
-   "best": {
-    "book": "DraftKings",
-    "line": 11.5,
-    "price": -108
-   },
-   "oddsAt": "12:04 PM ET"
+   "result": "L",
+   "detail": "10 points (25 min; POR 103 MEM 124)"
   },
   {
    "date": "2026-10-29",
@@ -36,8 +81,8 @@
    "matchup": "MEM Grizzlies at POR Trail Blazers",
    "venue": "Moda Center",
    "time": "10:00 PM ET",
-   "result": null,
-   "detail": null
+   "result": "L",
+   "detail": "9 pts+ast (19 min; POR 103 MEM 124)"
   },
   {
    "date": "2026-10-29",
@@ -47,18 +92,8 @@
    "matchup": "SAC Kings at NO Pelicans",
    "venue": "Smoothie King Center",
    "time": "8:00 PM ET",
-   "result": null,
-   "detail": null,
-   "fliff": {
-    "line": 10.5,
-    "price": -120
-   },
-   "best": {
-    "book": "FanDuel",
-    "line": 10.5,
-    "price": -112
-   },
-   "oddsAt": "12:04 PM ET"
+   "result": "W",
+   "detail": "24 points (41 min; NO 132 SAC 120)"
   },
   {
    "date": "2026-10-29",
@@ -68,18 +103,8 @@
    "matchup": "CLE Cavaliers at ATL Hawks",
    "venue": "State Farm Arena",
    "time": "8:00 PM ET",
-   "result": null,
-   "detail": null,
-   "fliff": {
-    "line": 2.5,
-    "price": -105
-   },
-   "best": {
-    "book": "ESPN BET",
-    "line": 2.5,
-    "price": 105
-   },
-   "oddsAt": "12:04 PM ET"
+   "result": "L",
+   "detail": "1 3-pointers (33 min; ATL 114 CLE 111)"
   },
   {
    "date": "2026-10-29",
@@ -89,18 +114,8 @@
    "matchup": "SAC Kings at NO Pelicans",
    "venue": "Smoothie King Center",
    "time": "8:00 PM ET",
-   "result": null,
-   "detail": null,
-   "fliff": {
-    "line": 5.5,
-    "price": -125
-   },
-   "best": {
-    "book": "BetMGM",
-    "line": 5.5,
-    "price": -115
-   },
-   "oddsAt": "12:04 PM ET"
+   "result": "W",
+   "detail": "21 reb+ast (29 min; NO 132 SAC 120)"
   },
   {
    "date": "2026-10-28",
