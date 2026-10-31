@@ -1,12 +1,117 @@
 {
- "updated": "Fri, Oct 30, 2026",
- "date": "2026-10-30",
+ "updated": "Sat, Oct 31, 2026",
+ "date": "2026-10-31",
  "record": {
-  "W": 25,
-  "L": 18
+  "W": 28,
+  "L": 19
  },
  "noPick": null,
  "picks": [
+  {
+   "date": "2026-10-31",
+   "player": "Tyrese Maxey",
+   "prop": "Under 28.5 Points",
+   "odds": "-111",
+   "matchup": "PHI 76ers at CHA Hornets",
+   "venue": "Spectrum Center",
+   "time": "6:00 PM ET",
+   "result": null,
+   "detail": null,
+   "fliff": {
+    "line": 28.5,
+    "price": -120
+   },
+   "best": {
+    "book": "DraftKings",
+    "line": 28.5,
+    "price": -106
+   },
+   "oddsAt": "11:23 AM ET"
+  },
+  {
+   "date": "2026-10-31",
+   "player": "Jared McCain",
+   "prop": "Under 20.5 Pts+Reb+Ast",
+   "odds": "-112",
+   "matchup": "OKC Thunder at HOU Rockets",
+   "venue": "Toyota Center (Houston)",
+   "time": "8:30 PM ET",
+   "result": null,
+   "detail": null,
+   "fliff": {
+    "line": 20.5,
+    "price": -125
+   },
+   "best": {
+    "book": "DraftKings",
+    "line": 20.5,
+    "price": -112
+   },
+   "oddsAt": "11:23 AM ET"
+  },
+  {
+   "date": "2026-10-31",
+   "player": "Naz Reid",
+   "prop": "Under 28.5 Pts+Reb+Ast",
+   "odds": "-109",
+   "matchup": "PHI 76ers at CHA Hornets",
+   "venue": "Spectrum Center",
+   "time": "6:00 PM ET",
+   "result": null,
+   "detail": null,
+   "fliff": {
+    "line": 28.5,
+    "price": -120
+   },
+   "best": {
+    "book": "DraftKings",
+    "line": 28.5,
+    "price": -109
+   },
+   "oddsAt": "11:23 AM ET"
+  },
+  {
+   "date": "2026-10-31",
+   "player": "Dylan Harper",
+   "prop": "Under 25.5 Pts+Reb+Ast",
+   "odds": "-112",
+   "matchup": "MIN Timberwolves at SA Spurs",
+   "venue": "Frost Bank Center",
+   "time": "8:00 PM ET",
+   "result": null,
+   "detail": null,
+   "fliff": {
+    "line": 25.5,
+    "price": -125
+   },
+   "best": {
+    "book": "DraftKings",
+    "line": 25.5,
+    "price": -112
+   },
+   "oddsAt": "11:23 AM ET"
+  },
+  {
+   "date": "2026-10-31",
+   "player": "Sam Merrill",
+   "prop": "Over 2.5 3-Pointers",
+   "odds": "+144",
+   "matchup": "CLE Cavaliers at MIL Bucks",
+   "venue": "Fiserv Forum",
+   "time": "8:00 PM ET",
+   "result": null,
+   "detail": null,
+   "fliff": {
+    "line": 1.5,
+    "price": -195
+   },
+   "best": {
+    "book": "Hard Rock",
+    "line": 2.5,
+    "price": 145
+   },
+   "oddsAt": "11:23 AM ET"
+  },
   {
    "date": "2026-10-30",
    "player": "Paul Reed",
@@ -15,8 +120,8 @@
    "matchup": "DET Pistons at BKN Nets",
    "venue": "Barclays Center",
    "time": "7:30 PM ET",
-   "result": null,
-   "detail": null
+   "result": "W",
+   "detail": "16 pts+reb (31 min; BKN 94 DET 110)"
   },
   {
    "date": "2026-10-30",
@@ -26,8 +131,8 @@
    "matchup": "DET Pistons at BKN Nets",
    "venue": "Barclays Center",
    "time": "7:30 PM ET",
-   "result": null,
-   "detail": null
+   "result": "W",
+   "detail": "4 reb+ast (26 min; BKN 94 DET 110)"
   },
   {
    "date": "2026-10-30",
@@ -37,18 +142,8 @@
    "matchup": "LAC Clippers at MIN Timberwolves",
    "venue": "Target Center",
    "time": "8:00 PM ET",
-   "result": null,
-   "detail": null,
-   "fliff": {
-    "line": 34.5,
-    "price": -130
-   },
-   "best": {
-    "book": "Hard Rock",
-    "line": 34.5,
-    "price": -115
-   },
-   "oddsAt": "11:59 AM ET"
+   "result": "W",
+   "detail": "31 pts+reb+ast (31 min; MIN 127 LAC 101)"
   },
   {
    "date": "2026-10-30",
@@ -58,8 +153,8 @@
    "matchup": "LAC Clippers at MIN Timberwolves",
    "venue": "Target Center",
    "time": "8:00 PM ET",
-   "result": null,
-   "detail": null
+   "result": "V",
+   "detail": "did not play"
   },
   {
    "date": "2026-10-30",
@@ -69,18 +164,8 @@
    "matchup": "HOU Rockets at DAL Mavericks",
    "venue": "American Airlines Center",
    "time": "8:00 PM ET",
-   "result": null,
-   "detail": null,
-   "fliff": {
-    "line": 35.5,
-    "price": -115
-   },
-   "best": {
-    "book": "DraftKings",
-    "line": 35.5,
-    "price": -109
-   },
-   "oddsAt": "11:59 AM ET"
+   "result": "L",
+   "detail": "48 pts+reb+ast (39 min; DAL 116 HOU 111)"
   },
   {
    "date": "2026-10-29",

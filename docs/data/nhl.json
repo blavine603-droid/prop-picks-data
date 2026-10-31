@@ -1,12 +1,84 @@
 {
- "updated": "Fri, Oct 30, 2026",
- "date": "2026-10-30",
+ "updated": "Sat, Oct 31, 2026",
+ "date": "2026-10-31",
  "record": {
   "W": 27,
   "L": 12
  },
- "noPick": "3-game slate: NJD, VGK, WPG, FLA, SEA, CGY",
+ "noPick": null,
  "picks": [
+  {
+   "date": "2026-10-31",
+   "player": "Elias Lindholm",
+   "prop": "Under 2.5 Shots on Goal",
+   "odds": "-185",
+   "matchup": "CHI Blackhawks at BOS Bruins",
+   "venue": "TD Garden",
+   "time": "1:00 PM ET",
+   "result": null,
+   "detail": null,
+   "fliff": null,
+   "best": {
+    "book": "Hard Rock",
+    "line": 2.5,
+    "price": -190
+   },
+   "oddsAt": "11:23 AM ET"
+  },
+  {
+   "date": "2026-10-31",
+   "player": "Ross Colton",
+   "prop": "Over 1.5 Shots on Goal",
+   "odds": "+120",
+   "matchup": "TBL Lightning at NSH Predators",
+   "venue": "Bridgestone Arena",
+   "time": "2:00 PM ET",
+   "result": null,
+   "detail": null,
+   "fliff": null,
+   "best": {
+    "book": "Bally Bet",
+    "line": 1.5,
+    "price": 115
+   },
+   "oddsAt": "11:23 AM ET"
+  },
+  {
+   "date": "2026-10-31",
+   "player": "Colton Sissons",
+   "prop": "Under 0.5 Assists",
+   "odds": "-325",
+   "matchup": "TOR Maple Leafs at VAN Canucks",
+   "venue": "Rogers Arena",
+   "time": "7:00 PM ET",
+   "result": null,
+   "detail": null,
+   "fliff": null,
+   "best": {
+    "book": "BetMGM",
+    "line": 0.5,
+    "price": -325
+   },
+   "oddsAt": "11:23 AM ET"
+  },
+  {
+   "date": "2026-10-31",
+   "player": "Zayne Parekh",
+   "prop": "Under 0.5 Assists",
+   "odds": "-360",
+   "matchup": "CGY Flames at COL Avalanche",
+   "venue": "Ball Arena",
+   "time": "10:00 PM ET",
+   "result": null,
+   "detail": null,
+   "fliff": null,
+   "best": {
+    "book": "BetMGM",
+    "line": 0.5,
+    "price": -300
+   },
+   "oddsAt": "11:23 AM ET"
+  },
   {
    "date": "2026-10-29",
    "player": "Macklin Celebrini",
