@@ -11,7 +11,7 @@
    "date": "2026-10-31",
    "player": "Tyrese Maxey",
    "prop": "Under 28.5 Points",
-   "odds": "-111",
+   "odds": "-106",
    "matchup": "PHI 76ers at CHA Hornets",
    "venue": "Spectrum Center",
    "time": "6:00 PM ET",
@@ -26,7 +26,7 @@
     "line": 28.5,
     "price": -106
    },
-   "oddsAt": "11:23 AM ET"
+   "oddsAt": "12:06 PM ET"
   },
   {
    "date": "2026-10-31",
@@ -47,49 +47,7 @@
     "line": 20.5,
     "price": -112
    },
-   "oddsAt": "11:23 AM ET"
-  },
-  {
-   "date": "2026-10-31",
-   "player": "Naz Reid",
-   "prop": "Under 28.5 Pts+Reb+Ast",
-   "odds": "-109",
-   "matchup": "PHI 76ers at CHA Hornets",
-   "venue": "Spectrum Center",
-   "time": "6:00 PM ET",
-   "result": null,
-   "detail": null,
-   "fliff": {
-    "line": 28.5,
-    "price": -120
-   },
-   "best": {
-    "book": "DraftKings",
-    "line": 28.5,
-    "price": -109
-   },
-   "oddsAt": "11:23 AM ET"
-  },
-  {
-   "date": "2026-10-31",
-   "player": "Dylan Harper",
-   "prop": "Under 25.5 Pts+Reb+Ast",
-   "odds": "-112",
-   "matchup": "MIN Timberwolves at SA Spurs",
-   "venue": "Frost Bank Center",
-   "time": "8:00 PM ET",
-   "result": null,
-   "detail": null,
-   "fliff": {
-    "line": 25.5,
-    "price": -125
-   },
-   "best": {
-    "book": "DraftKings",
-    "line": 25.5,
-    "price": -112
-   },
-   "oddsAt": "11:23 AM ET"
+   "oddsAt": "12:06 PM ET"
   },
   {
    "date": "2026-10-31",
@@ -110,7 +68,49 @@
     "line": 2.5,
     "price": 145
    },
-   "oddsAt": "11:23 AM ET"
+   "oddsAt": "12:06 PM ET"
+  },
+  {
+   "date": "2026-10-31",
+   "player": "Naz Reid",
+   "prop": "Under 28.5 Pts+Reb+Ast",
+   "odds": "-109",
+   "matchup": "PHI 76ers at CHA Hornets",
+   "venue": "Spectrum Center",
+   "time": "6:00 PM ET",
+   "result": null,
+   "detail": null,
+   "fliff": {
+    "line": 28.5,
+    "price": -120
+   },
+   "best": {
+    "book": "DraftKings",
+    "line": 28.5,
+    "price": -109
+   },
+   "oddsAt": "12:06 PM ET"
+  },
+  {
+   "date": "2026-10-31",
+   "player": "Dylan Harper",
+   "prop": "Under 25.5 Pts+Reb+Ast",
+   "odds": "-122",
+   "matchup": "MIN Timberwolves at SA Spurs",
+   "venue": "Frost Bank Center",
+   "time": "8:00 PM ET",
+   "result": null,
+   "detail": null,
+   "fliff": {
+    "line": 25.5,
+    "price": -130
+   },
+   "best": {
+    "book": "DraftKings",
+    "line": 25.5,
+    "price": -122
+   },
+   "oddsAt": "12:06 PM ET"
   },
   {
    "date": "2026-10-30",
