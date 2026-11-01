@@ -1,12 +1,67 @@
 {
- "updated": "Sat, Oct 31, 2026",
- "date": "2026-10-31",
+ "updated": "Sun, Nov 1, 2026",
+ "date": "2026-11-01",
  "record": {
-  "W": 28,
-  "L": 19
+  "W": 30,
+  "L": 22
  },
  "noPick": null,
  "picks": [
+  {
+   "date": "2026-11-01",
+   "player": "Brandon Williams",
+   "prop": "Under 17.5 Pts+Reb",
+   "odds": "-110",
+   "matchup": "LAC Clippers at GS Warriors",
+   "venue": "Chase Center",
+   "time": "9:30 PM ET",
+   "result": null,
+   "detail": null
+  },
+  {
+   "date": "2026-11-01",
+   "player": "Rui Hachimura",
+   "prop": "Under 15.5 Points",
+   "odds": "-107",
+   "matchup": "LAC Clippers at GS Warriors",
+   "venue": "Chase Center",
+   "time": "9:30 PM ET",
+   "result": null,
+   "detail": null
+  },
+  {
+   "date": "2026-11-01",
+   "player": "Desmond Bane",
+   "prop": "Under 2.5 3-Pointers",
+   "odds": "+125",
+   "matchup": "BOS Celtics at ORL Magic",
+   "venue": "Kia Center",
+   "time": "4:30 PM ET",
+   "result": null,
+   "detail": null
+  },
+  {
+   "date": "2026-11-01",
+   "player": "Andrew Nembhard",
+   "prop": "Under 31.5 Pts+Reb+Ast",
+   "odds": "-105",
+   "matchup": "BKN Nets at IND Pacers",
+   "venue": "Gainbridge Fieldhouse",
+   "time": "6:00 PM ET",
+   "result": null,
+   "detail": null
+  },
+  {
+   "date": "2026-11-01",
+   "player": "Nolan Traore",
+   "prop": "Under 7.5 Reb+Ast",
+   "odds": "-140",
+   "matchup": "BKN Nets at IND Pacers",
+   "venue": "Gainbridge Fieldhouse",
+   "time": "6:00 PM ET",
+   "result": null,
+   "detail": null
+  },
   {
    "date": "2026-10-31",
    "player": "Tyrese Maxey",
@@ -15,18 +70,8 @@
    "matchup": "PHI 76ers at CHA Hornets",
    "venue": "Spectrum Center",
    "time": "6:00 PM ET",
-   "result": null,
-   "detail": null,
-   "fliff": {
-    "line": 28.5,
-    "price": -120
-   },
-   "best": {
-    "book": "DraftKings",
-    "line": 28.5,
-    "price": -106
-   },
-   "oddsAt": "12:06 PM ET"
+   "result": "L",
+   "detail": "38 points (38 min; CHA 104 PHI 109)"
   },
   {
    "date": "2026-10-31",
@@ -36,18 +81,8 @@
    "matchup": "OKC Thunder at HOU Rockets",
    "venue": "Toyota Center (Houston)",
    "time": "8:30 PM ET",
-   "result": null,
-   "detail": null,
-   "fliff": {
-    "line": 20.5,
-    "price": -125
-   },
-   "best": {
-    "book": "DraftKings",
-    "line": 20.5,
-    "price": -112
-   },
-   "oddsAt": "12:06 PM ET"
+   "result": "W",
+   "detail": "16 pts+reb+ast (28 min; HOU 119 OKC 98)"
   },
   {
    "date": "2026-10-31",
@@ -57,18 +92,8 @@
    "matchup": "CLE Cavaliers at MIL Bucks",
    "venue": "Fiserv Forum",
    "time": "8:00 PM ET",
-   "result": null,
-   "detail": null,
-   "fliff": {
-    "line": 1.5,
-    "price": -195
-   },
-   "best": {
-    "book": "Hard Rock",
-    "line": 2.5,
-    "price": 145
-   },
-   "oddsAt": "12:06 PM ET"
+   "result": "L",
+   "detail": "1 3-pointers (19 min; MIL 111 CLE 136)"
   },
   {
    "date": "2026-10-31",
@@ -78,18 +103,8 @@
    "matchup": "PHI 76ers at CHA Hornets",
    "venue": "Spectrum Center",
    "time": "6:00 PM ET",
-   "result": null,
-   "detail": null,
-   "fliff": {
-    "line": 28.5,
-    "price": -120
-   },
-   "best": {
-    "book": "DraftKings",
-    "line": 28.5,
-    "price": -109
-   },
-   "oddsAt": "12:06 PM ET"
+   "result": "W",
+   "detail": "21 pts+reb+ast (36 min; CHA 104 PHI 109)"
   },
   {
    "date": "2026-10-31",
@@ -99,18 +114,8 @@
    "matchup": "MIN Timberwolves at SA Spurs",
    "venue": "Frost Bank Center",
    "time": "8:00 PM ET",
-   "result": null,
-   "detail": null,
-   "fliff": {
-    "line": 25.5,
-    "price": -130
-   },
-   "best": {
-    "book": "DraftKings",
-    "line": 25.5,
-    "price": -122
-   },
-   "oddsAt": "12:06 PM ET"
+   "result": "L",
+   "detail": "38 pts+reb+ast (39 min; SA 121 MIN 111)"
   },
   {
    "date": "2026-10-30",

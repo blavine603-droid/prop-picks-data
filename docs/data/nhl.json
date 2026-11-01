@@ -1,11 +1,11 @@
 {
- "updated": "Sat, Oct 31, 2026",
- "date": "2026-10-31",
+ "updated": "Sun, Nov 1, 2026",
+ "date": "2026-11-01",
  "record": {
-  "W": 27,
-  "L": 12
+  "W": 30,
+  "L": 13
  },
- "noPick": null,
+ "noPick": "5-game slate (WPG@CAR, MIN@WSH, UTA@PHI, EDM@NYR, OTT@ANA)",
  "picks": [
   {
    "date": "2026-10-31",
@@ -15,15 +15,8 @@
    "matchup": "CHI Blackhawks at BOS Bruins",
    "venue": "TD Garden",
    "time": "1:00 PM ET",
-   "result": null,
-   "detail": null,
-   "fliff": null,
-   "best": {
-    "book": "Hard Rock",
-    "line": 2.5,
-    "price": -185
-   },
-   "oddsAt": "12:05 PM ET"
+   "result": "W",
+   "detail": "2 SOG (19:44 TOI; CHI 4-5 BOS)"
   },
   {
    "date": "2026-10-31",
@@ -33,15 +26,8 @@
    "matchup": "TBL Lightning at NSH Predators",
    "venue": "Bridgestone Arena",
    "time": "2:00 PM ET",
-   "result": null,
-   "detail": null,
-   "fliff": null,
-   "best": {
-    "book": "Bally Bet",
-    "line": 1.5,
-    "price": 115
-   },
-   "oddsAt": "12:05 PM ET"
+   "result": "W",
+   "detail": "2 SOG (13:38 TOI; TBL 4-5 NSH)"
   },
   {
    "date": "2026-10-31",
@@ -51,15 +37,8 @@
    "matchup": "TOR Maple Leafs at VAN Canucks",
    "venue": "Rogers Arena",
    "time": "7:00 PM ET",
-   "result": null,
-   "detail": null,
-   "fliff": null,
-   "best": {
-    "book": "BetMGM",
-    "line": 0.5,
-    "price": -325
-   },
-   "oddsAt": "12:05 PM ET"
+   "result": "W",
+   "detail": "0 ast (15:51 TOI; TOR 4-2 VAN)"
   },
   {
    "date": "2026-10-31",
@@ -69,15 +48,8 @@
    "matchup": "CGY Flames at COL Avalanche",
    "venue": "Ball Arena",
    "time": "10:00 PM ET",
-   "result": null,
-   "detail": null,
-   "fliff": null,
-   "best": {
-    "book": "BetMGM",
-    "line": 0.5,
-    "price": -300
-   },
-   "oddsAt": "12:05 PM ET"
+   "result": "L",
+   "detail": "1 ast (18:04 TOI; CGY 2-5 COL)"
   },
   {
    "date": "2026-10-29",

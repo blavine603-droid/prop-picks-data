@@ -1,6 +1,6 @@
 {
- "updated": "Thu, Oct 29, 2026",
- "date": "2026-10-29",
+ "updated": "Sun, Nov 1, 2026",
+ "date": "2026-11-01",
  "record": {
   "W": 2,
   "L": 1
@@ -8,10 +8,10 @@
  "noPick": null,
  "picks": [
   {
-   "date": "2026-10-29",
+   "date": "2026-11-01",
    "player": "Caleb Douglas",
    "prop": "Under 3.5 Receptions",
-   "odds": "-170",
+   "odds": "-205",
    "matchup": "NE at MIA",
    "venue": "Hard Rock Stadium",
    "time": "Sun Nov 1 · 4:25 PM ET",
@@ -21,26 +21,26 @@
    "season": 2026
   },
   {
-   "date": "2026-10-29",
-   "player": "Bo Nix",
-   "prop": "Under 1.5 Pass TDs",
-   "odds": "-250",
-   "matchup": "KC at DEN",
-   "venue": "Empower Field at Mile High",
-   "time": "Sun Nov 1 · 4:25 PM ET",
+   "date": "2026-11-01",
+   "player": "Adonai Mitchell",
+   "prop": "Under 2.5 Receptions",
+   "odds": "-240",
+   "matchup": "LV at NYJ",
+   "venue": "MetLife Stadium",
+   "time": "Sun Nov 1 · 1:00 PM ET",
    "result": null,
    "detail": null,
    "week": 8,
    "season": 2026
   },
   {
-   "date": "2026-10-29",
-   "player": "Tyler Warren",
-   "prop": "Under 4.5 Receptions",
-   "odds": "-141",
-   "matchup": "IND at JAX",
-   "venue": "EverBank Stadium",
-   "time": "Sun Nov 1 · 1:00 PM ET",
+   "date": "2026-11-01",
+   "player": "Bo Nix",
+   "prop": "Under 1.5 Pass TDs",
+   "odds": "-250",
+   "matchup": "KC at DEN",
+   "venue": "Empower Field at Mile High",
+   "time": "Sun Nov 1 · 4:25 PM ET",
    "result": null,
    "detail": null,
    "week": 8,
