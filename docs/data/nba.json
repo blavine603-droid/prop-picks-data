@@ -9,6 +9,27 @@
  "picks": [
   {
    "date": "2026-11-01",
+   "player": "Rui Hachimura",
+   "prop": "Under 20.5 Pts+Reb",
+   "odds": "-108",
+   "matchup": "LAC Clippers at GS Warriors",
+   "venue": "Chase Center",
+   "time": "8:30 PM ET",
+   "result": null,
+   "detail": null,
+   "fliff": {
+    "line": 20.5,
+    "price": -125
+   },
+   "best": {
+    "book": "DraftKings",
+    "line": 20.5,
+    "price": -108
+   },
+   "oddsAt": "12:05 PM ET"
+  },
+  {
+   "date": "2026-11-01",
    "player": "Brandon Williams",
    "prop": "Under 17.5 Pts+Reb",
    "odds": "-110",
@@ -16,51 +37,80 @@
    "venue": "Chase Center",
    "time": "8:30 PM ET",
    "result": null,
-   "detail": null
-  },
-  {
-   "date": "2026-11-01",
-   "player": "Rui Hachimura",
-   "prop": "Under 15.5 Points",
-   "odds": "-107",
-   "matchup": "LAC Clippers at GS Warriors",
-   "venue": "Chase Center",
-   "time": "8:30 PM ET",
-   "result": null,
-   "detail": null
+   "detail": null,
+   "fliff": {
+    "line": 17.5,
+    "price": -120
+   },
+   "best": {
+    "book": "DraftKings",
+    "line": 17.5,
+    "price": -110
+   },
+   "oddsAt": "12:05 PM ET"
   },
   {
    "date": "2026-11-01",
    "player": "Desmond Bane",
    "prop": "Under 2.5 3-Pointers",
-   "odds": "+125",
+   "odds": "+119",
    "matchup": "BOS Celtics at ORL Magic",
    "venue": "Kia Center",
    "time": "3:30 PM ET",
    "result": null,
-   "detail": null
+   "detail": null,
+   "fliff": {
+    "line": 2.5,
+    "price": 120
+   },
+   "best": {
+    "book": "Hard Rock",
+    "line": 2.5,
+    "price": 125
+   },
+   "oddsAt": "12:05 PM ET"
   },
   {
    "date": "2026-11-01",
    "player": "Andrew Nembhard",
    "prop": "Under 31.5 Pts+Reb+Ast",
-   "odds": "-105",
+   "odds": "-117",
    "matchup": "BKN Nets at IND Pacers",
    "venue": "Gainbridge Fieldhouse",
    "time": "5:00 PM ET",
    "result": null,
-   "detail": null
+   "detail": null,
+   "fliff": {
+    "line": 31.5,
+    "price": -115
+   },
+   "best": {
+    "book": "FanDuel",
+    "line": 31.5,
+    "price": -106
+   },
+   "oddsAt": "12:05 PM ET"
   },
   {
    "date": "2026-11-01",
    "player": "Nolan Traore",
    "prop": "Under 7.5 Reb+Ast",
-   "odds": "-140",
+   "odds": "-146",
    "matchup": "BKN Nets at IND Pacers",
    "venue": "Gainbridge Fieldhouse",
    "time": "5:00 PM ET",
    "result": null,
-   "detail": null
+   "detail": null,
+   "fliff": {
+    "line": 6.5,
+    "price": 105
+   },
+   "best": {
+    "book": "BetMGM",
+    "line": 7.5,
+    "price": -140
+   },
+   "oddsAt": "12:05 PM ET"
   },
   {
    "date": "2026-10-31",
