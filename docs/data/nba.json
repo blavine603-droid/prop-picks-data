@@ -35,9 +35,9 @@
    "best": {
     "book": "DraftKings",
     "line": 23.5,
-    "price": -110
+    "price": -114
    },
-   "oddsAt": "12:22 PM ET"
+   "oddsAt": "1:22 PM ET"
   },
   {
    "date": "2026-11-02",
@@ -48,7 +48,17 @@
    "venue": "Spectrum Center",
    "time": "7:30 PM ET",
    "result": null,
-   "detail": null
+   "detail": null,
+   "fliff": {
+    "line": 24.5,
+    "price": -125
+   },
+   "best": {
+    "book": "DraftKings",
+    "line": 24.5,
+    "price": -115
+   },
+   "oddsAt": "1:22 PM ET"
   },
   {
    "date": "2026-11-02",
@@ -73,14 +83,14 @@
    "detail": null,
    "fliff": {
     "line": 25.5,
-    "price": -115
+    "price": -110
    },
    "best": {
-    "book": "FanDuel",
+    "book": "Fliff",
     "line": 25.5,
-    "price": -104
+    "price": -110
    },
-   "oddsAt": "12:22 PM ET"
+   "oddsAt": "1:22 PM ET"
   },
   {
    "date": "2026-11-01",
