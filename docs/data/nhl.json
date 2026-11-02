@@ -19,11 +19,29 @@
    "detail": null,
    "fliff": null,
    "best": {
-    "book": "Hard Rock",
+    "book": "DraftKings",
     "line": 1.5,
     "price": -135
    },
-   "oddsAt": "12:22 PM ET"
+   "oddsAt": "6:19 PM ET"
+  },
+  {
+   "date": "2026-11-02",
+   "player": "Michael Kesselring",
+   "prop": "Under 0.5 Points",
+   "odds": "-320",
+   "matchup": "CGY Flames at SJS Sharks",
+   "venue": "SAP Center at San Jose",
+   "time": "",
+   "result": null,
+   "detail": null,
+   "fliff": null,
+   "best": {
+    "book": "DraftKings",
+    "line": 0.5,
+    "price": -370
+   },
+   "oddsAt": "6:19 PM ET"
   },
   {
    "date": "2026-10-31",

@@ -9,41 +9,62 @@
  "picks": [
   {
    "date": "2026-11-02",
-   "player": "Rui Hachimura",
-   "prop": "Under 24.5 Pts+Reb+Ast",
-   "odds": "-127",
-   "matchup": "TOR Raptors at LAC Clippers",
-   "venue": "Intuit Dome",
-   "time": "10:00 PM ET",
-   "result": null,
-   "detail": null
-  },
-  {
-   "date": "2026-11-02",
-   "player": "Scottie Barnes",
-   "prop": "Under 23.5 Points",
-   "odds": "-110",
+   "player": "Kobe Sanders",
+   "prop": "Under 6.5 Reb+Ast",
+   "odds": "-112",
    "matchup": "TOR Raptors at LAC Clippers",
    "venue": "Intuit Dome",
    "time": "10:00 PM ET",
    "result": null,
    "detail": null,
    "fliff": {
-    "line": 23.5,
-    "price": -125
+    "line": 6.5,
+    "price": -145
    },
    "best": {
     "book": "DraftKings",
-    "line": 23.5,
-    "price": -114
+    "line": 6.5,
+    "price": -129
    },
-   "oddsAt": "1:22 PM ET"
+   "oddsAt": "6:19 PM ET"
+  },
+  {
+   "date": "2026-11-02",
+   "player": "Nikola Vucevic",
+   "prop": "Over 3.5 Rebounds",
+   "odds": "+119",
+   "matchup": "WSH Wizards at ORL Magic",
+   "venue": "Kia Center",
+   "time": "7:30 PM ET",
+   "result": null,
+   "detail": null
+  },
+  {
+   "date": "2026-11-02",
+   "player": "Collin Murray-Boyles",
+   "prop": "Under 19.5 Pts+Reb+Ast",
+   "odds": "-106",
+   "matchup": "TOR Raptors at LAC Clippers",
+   "venue": "Intuit Dome",
+   "time": "10:00 PM ET",
+   "result": null,
+   "detail": null,
+   "fliff": {
+    "line": 19.5,
+    "price": -110
+   },
+   "best": {
+    "book": "FanDuel",
+    "line": 19.5,
+    "price": -104
+   },
+   "oddsAt": "6:19 PM ET"
   },
   {
    "date": "2026-11-02",
    "player": "Paul Reed",
    "prop": "Under 24.5 Pts+Reb+Ast",
-   "odds": "-116",
+   "odds": "-115",
    "matchup": "DET Pistons at CHA Hornets",
    "venue": "Spectrum Center",
    "time": "7:30 PM ET",
@@ -58,39 +79,18 @@
     "line": 24.5,
     "price": -115
    },
-   "oddsAt": "1:22 PM ET"
+   "oddsAt": "6:19 PM ET"
   },
   {
    "date": "2026-11-02",
    "player": "Jake LaRavia",
    "prop": "Over 0.5 Steals",
-   "odds": "+115",
+   "odds": "+114",
    "matchup": "MIA Heat at LAL Lakers",
    "venue": "crypto.com Arena",
    "time": "10:00 PM ET",
    "result": null,
    "detail": null
-  },
-  {
-   "date": "2026-11-02",
-   "player": "Naz Reid",
-   "prop": "Under 25.5 Pts+Reb+Ast",
-   "odds": "-111",
-   "matchup": "DET Pistons at CHA Hornets",
-   "venue": "Spectrum Center",
-   "time": "7:30 PM ET",
-   "result": null,
-   "detail": null,
-   "fliff": {
-    "line": 25.5,
-    "price": -110
-   },
-   "best": {
-    "book": "Fliff",
-    "line": 25.5,
-    "price": -110
-   },
-   "oddsAt": "1:22 PM ET"
   },
   {
    "date": "2026-11-01",
