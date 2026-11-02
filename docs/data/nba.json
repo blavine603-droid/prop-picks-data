@@ -1,12 +1,67 @@
 {
- "updated": "Sun, Nov 1, 2026",
- "date": "2026-11-01",
+ "updated": "Mon, Nov 2, 2026",
+ "date": "2026-11-02",
  "record": {
-  "W": 30,
-  "L": 22
+  "W": 31,
+  "L": 26
  },
  "noPick": null,
  "picks": [
+  {
+   "date": "2026-11-02",
+   "player": "Rui Hachimura",
+   "prop": "Under 17.5 Points",
+   "odds": "-104",
+   "matchup": "TOR Raptors at LAC Clippers",
+   "venue": "Intuit Dome",
+   "time": "10:00 PM ET",
+   "result": null,
+   "detail": null
+  },
+  {
+   "date": "2026-11-02",
+   "player": "Scottie Barnes",
+   "prop": "Under 23.5 Points",
+   "odds": "-106",
+   "matchup": "TOR Raptors at LAC Clippers",
+   "venue": "Intuit Dome",
+   "time": "10:00 PM ET",
+   "result": null,
+   "detail": null
+  },
+  {
+   "date": "2026-11-02",
+   "player": "Paul Reed",
+   "prop": "Under 24.5 Pts+Reb+Ast",
+   "odds": "-117",
+   "matchup": "DET Pistons at CHA Hornets",
+   "venue": "Spectrum Center",
+   "time": "7:30 PM ET",
+   "result": null,
+   "detail": null
+  },
+  {
+   "date": "2026-11-02",
+   "player": "Karl-Anthony Towns",
+   "prop": "Under 3.5 Assists",
+   "odds": "+124",
+   "matchup": "BKN Nets at NY Knicks",
+   "venue": "Madison Square Garden",
+   "time": "7:30 PM ET",
+   "result": null,
+   "detail": null
+  },
+  {
+   "date": "2026-11-02",
+   "player": "Naz Reid",
+   "prop": "Under 25.5 Pts+Reb+Ast",
+   "odds": "-107",
+   "matchup": "DET Pistons at CHA Hornets",
+   "venue": "Spectrum Center",
+   "time": "7:30 PM ET",
+   "result": null,
+   "detail": null
+  },
   {
    "date": "2026-11-01",
    "player": "Rui Hachimura",
@@ -15,18 +70,8 @@
    "matchup": "LAC Clippers at GS Warriors",
    "venue": "Chase Center",
    "time": "8:30 PM ET",
-   "result": null,
-   "detail": null,
-   "fliff": {
-    "line": 20.5,
-    "price": -125
-   },
-   "best": {
-    "book": "DraftKings",
-    "line": 20.5,
-    "price": -108
-   },
-   "oddsAt": "12:05 PM ET"
+   "result": "L",
+   "detail": "31 pts+reb (30 min; GS 124 LAC 112)"
   },
   {
    "date": "2026-11-01",
@@ -36,18 +81,8 @@
    "matchup": "LAC Clippers at GS Warriors",
    "venue": "Chase Center",
    "time": "8:30 PM ET",
-   "result": null,
-   "detail": null,
-   "fliff": {
-    "line": 17.5,
-    "price": -120
-   },
-   "best": {
-    "book": "DraftKings",
-    "line": 17.5,
-    "price": -110
-   },
-   "oddsAt": "12:05 PM ET"
+   "result": "L",
+   "detail": "20 pts+reb (25 min; GS 124 LAC 112)"
   },
   {
    "date": "2026-11-01",
@@ -57,18 +92,8 @@
    "matchup": "BOS Celtics at ORL Magic",
    "venue": "Kia Center",
    "time": "3:30 PM ET",
-   "result": null,
-   "detail": null,
-   "fliff": {
-    "line": 2.5,
-    "price": 120
-   },
-   "best": {
-    "book": "Hard Rock",
-    "line": 2.5,
-    "price": 125
-   },
-   "oddsAt": "12:05 PM ET"
+   "result": "L",
+   "detail": "5 3-pointers (40 min; ORL 97 BOS 108)"
   },
   {
    "date": "2026-11-01",
@@ -78,18 +103,8 @@
    "matchup": "BKN Nets at IND Pacers",
    "venue": "Gainbridge Fieldhouse",
    "time": "5:00 PM ET",
-   "result": null,
-   "detail": null,
-   "fliff": {
-    "line": 31.5,
-    "price": -115
-   },
-   "best": {
-    "book": "FanDuel",
-    "line": 31.5,
-    "price": -106
-   },
-   "oddsAt": "12:05 PM ET"
+   "result": "W",
+   "detail": "30 pts+reb+ast (35 min; IND 90 BKN 98)"
   },
   {
    "date": "2026-11-01",
@@ -99,18 +114,8 @@
    "matchup": "BKN Nets at IND Pacers",
    "venue": "Gainbridge Fieldhouse",
    "time": "5:00 PM ET",
-   "result": null,
-   "detail": null,
-   "fliff": {
-    "line": 6.5,
-    "price": 105
-   },
-   "best": {
-    "book": "BetMGM",
-    "line": 7.5,
-    "price": -140
-   },
-   "oddsAt": "12:05 PM ET"
+   "result": "L",
+   "detail": "8 reb+ast (30 min; IND 90 BKN 98)"
   },
   {
    "date": "2026-10-31",

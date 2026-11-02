@@ -3,7 +3,7 @@
  "date": "2026-11-01",
  "record": {
   "W": 2,
-  "L": 1
+  "L": 4
  },
  "noPick": null,
  "picks": [
@@ -15,8 +15,8 @@
    "matchup": "NE at MIA",
    "venue": "Hard Rock Stadium",
    "time": "Sun Nov 1 · 4:25 PM ET",
-   "result": null,
-   "detail": null,
+   "result": "L",
+   "detail": "4 rec (MIA 19 NE 24)",
    "week": 8,
    "season": 2026
   },
@@ -28,8 +28,8 @@
    "matchup": "LV at NYJ",
    "venue": "MetLife Stadium",
    "time": "Sun Nov 1 · 1:00 PM ET",
-   "result": null,
-   "detail": null,
+   "result": "L",
+   "detail": "7 rec (NYJ 33 LV 38)",
    "week": 8,
    "season": 2026
   },
@@ -41,8 +41,8 @@
    "matchup": "KC at DEN",
    "venue": "Empower Field at Mile High",
    "time": "Sun Nov 1 · 4:25 PM ET",
-   "result": null,
-   "detail": null,
+   "result": "L",
+   "detail": "2 pass TD (DEN 28 KC 24)",
    "week": 8,
    "season": 2026
   },
