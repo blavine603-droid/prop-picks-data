@@ -16,7 +16,14 @@
    "venue": "United Center",
    "time": "",
    "result": null,
-   "detail": null
+   "detail": null,
+   "fliff": null,
+   "best": {
+    "book": "Hard Rock",
+    "line": 1.5,
+    "price": -135
+   },
+   "oddsAt": "12:22 PM ET"
   },
   {
    "date": "2026-10-31",

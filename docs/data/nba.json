@@ -10,8 +10,8 @@
   {
    "date": "2026-11-02",
    "player": "Rui Hachimura",
-   "prop": "Under 17.5 Points",
-   "odds": "-104",
+   "prop": "Under 24.5 Pts+Reb+Ast",
+   "odds": "-127",
    "matchup": "TOR Raptors at LAC Clippers",
    "venue": "Intuit Dome",
    "time": "10:00 PM ET",
@@ -22,18 +22,28 @@
    "date": "2026-11-02",
    "player": "Scottie Barnes",
    "prop": "Under 23.5 Points",
-   "odds": "-106",
+   "odds": "-110",
    "matchup": "TOR Raptors at LAC Clippers",
    "venue": "Intuit Dome",
    "time": "10:00 PM ET",
    "result": null,
-   "detail": null
+   "detail": null,
+   "fliff": {
+    "line": 23.5,
+    "price": -125
+   },
+   "best": {
+    "book": "DraftKings",
+    "line": 23.5,
+    "price": -110
+   },
+   "oddsAt": "12:22 PM ET"
   },
   {
    "date": "2026-11-02",
    "player": "Paul Reed",
    "prop": "Under 24.5 Pts+Reb+Ast",
-   "odds": "-117",
+   "odds": "-116",
    "matchup": "DET Pistons at CHA Hornets",
    "venue": "Spectrum Center",
    "time": "7:30 PM ET",
@@ -42,12 +52,12 @@
   },
   {
    "date": "2026-11-02",
-   "player": "Karl-Anthony Towns",
-   "prop": "Under 3.5 Assists",
-   "odds": "+124",
-   "matchup": "BKN Nets at NY Knicks",
-   "venue": "Madison Square Garden",
-   "time": "7:30 PM ET",
+   "player": "Jake LaRavia",
+   "prop": "Over 0.5 Steals",
+   "odds": "+115",
+   "matchup": "MIA Heat at LAL Lakers",
+   "venue": "crypto.com Arena",
+   "time": "10:00 PM ET",
    "result": null,
    "detail": null
   },
@@ -55,12 +65,22 @@
    "date": "2026-11-02",
    "player": "Naz Reid",
    "prop": "Under 25.5 Pts+Reb+Ast",
-   "odds": "-107",
+   "odds": "-111",
    "matchup": "DET Pistons at CHA Hornets",
    "venue": "Spectrum Center",
    "time": "7:30 PM ET",
    "result": null,
-   "detail": null
+   "detail": null,
+   "fliff": {
+    "line": 25.5,
+    "price": -115
+   },
+   "best": {
+    "book": "FanDuel",
+    "line": 25.5,
+    "price": -104
+   },
+   "oddsAt": "12:22 PM ET"
   },
   {
    "date": "2026-11-01",
