@@ -1,11 +1,11 @@
 {
- "updated": "Mon, Nov 2, 2026",
- "date": "2026-11-02",
+ "updated": "Tue, Nov 3, 2026",
+ "date": "2026-11-03",
  "record": {
-  "W": 31,
-  "L": 26
+  "W": 34,
+  "L": 28
  },
- "noPick": null,
+ "noPick": "No NBA games scheduled (Election Day)",
  "picks": [
   {
    "date": "2026-11-02",
@@ -15,18 +15,8 @@
    "matchup": "TOR Raptors at LAC Clippers",
    "venue": "Intuit Dome",
    "time": "10:00 PM ET",
-   "result": null,
-   "detail": null,
-   "fliff": {
-    "line": 6.5,
-    "price": -145
-   },
-   "best": {
-    "book": "DraftKings",
-    "line": 6.5,
-    "price": -129
-   },
-   "oddsAt": "6:19 PM ET"
+   "result": "L",
+   "detail": "7 reb+ast (38 min; LAC 118 TOR 125)"
   },
   {
    "date": "2026-11-02",
@@ -36,8 +26,8 @@
    "matchup": "WSH Wizards at ORL Magic",
    "venue": "Kia Center",
    "time": "7:30 PM ET",
-   "result": null,
-   "detail": null
+   "result": "W",
+   "detail": "6 rebounds (14 min; ORL 94 WSH 103)"
   },
   {
    "date": "2026-11-02",
@@ -47,18 +37,8 @@
    "matchup": "TOR Raptors at LAC Clippers",
    "venue": "Intuit Dome",
    "time": "10:00 PM ET",
-   "result": null,
-   "detail": null,
-   "fliff": {
-    "line": 19.5,
-    "price": -110
-   },
-   "best": {
-    "book": "FanDuel",
-    "line": 19.5,
-    "price": -104
-   },
-   "oddsAt": "6:19 PM ET"
+   "result": "L",
+   "detail": "25 pts+reb+ast (28 min; LAC 118 TOR 125)"
   },
   {
    "date": "2026-11-02",
@@ -68,18 +48,8 @@
    "matchup": "DET Pistons at CHA Hornets",
    "venue": "Spectrum Center",
    "time": "7:30 PM ET",
-   "result": null,
-   "detail": null,
-   "fliff": {
-    "line": 24.5,
-    "price": -125
-   },
-   "best": {
-    "book": "DraftKings",
-    "line": 24.5,
-    "price": -115
-   },
-   "oddsAt": "6:19 PM ET"
+   "result": "W",
+   "detail": "20 pts+reb+ast (28 min; CHA 91 DET 124)"
   },
   {
    "date": "2026-11-02",
@@ -89,8 +59,8 @@
    "matchup": "MIA Heat at LAL Lakers",
    "venue": "crypto.com Arena",
    "time": "10:00 PM ET",
-   "result": null,
-   "detail": null
+   "result": "W",
+   "detail": "1 steals (26 min; LAL 138 MIA 117)"
   },
   {
    "date": "2026-11-01",

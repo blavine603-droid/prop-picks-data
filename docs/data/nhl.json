@@ -1,12 +1,54 @@
 {
- "updated": "Mon, Nov 2, 2026",
- "date": "2026-11-02",
+ "updated": "Tue, Nov 3, 2026",
+ "date": "2026-11-03",
  "record": {
-  "W": 30,
-  "L": 13
+  "W": 31,
+  "L": 14
  },
  "noPick": null,
  "picks": [
+  {
+   "date": "2026-11-03",
+   "player": "Mark Stone",
+   "prop": "Under 2.5 Shots on Goal",
+   "odds": "-150",
+   "matchup": "VGK Golden Knights at PIT Penguins",
+   "venue": "PPG Paints Arena",
+   "time": "7:00 PM ET",
+   "result": null,
+   "detail": null,
+   "fliff": {
+    "line": 1.5,
+    "price": 115
+   },
+   "best": {
+    "book": "Hard Rock",
+    "line": 2.5,
+    "price": -190
+   },
+   "oddsAt": "12:00 PM ET"
+  },
+  {
+   "date": "2026-11-03",
+   "player": "Filip Forsberg",
+   "prop": "Over 2.5 Shots on Goal",
+   "odds": "+105",
+   "matchup": "CAR Hurricanes at NSH Predators",
+   "venue": "Bridgestone Arena",
+   "time": "8:00 PM ET",
+   "result": null,
+   "detail": null,
+   "fliff": {
+    "line": 2.5,
+    "price": -110
+   },
+   "best": {
+    "book": "Hard Rock",
+    "line": 2.5,
+    "price": 105
+   },
+   "oddsAt": "12:00 PM ET"
+  },
   {
    "date": "2026-11-02",
    "player": "Patrick Kane",
@@ -15,15 +57,8 @@
    "matchup": "COL Avalanche at CHI Blackhawks",
    "venue": "United Center",
    "time": "",
-   "result": null,
-   "detail": null,
-   "fliff": null,
-   "best": {
-    "book": "DraftKings",
-    "line": 1.5,
-    "price": -135
-   },
-   "oddsAt": "6:19 PM ET"
+   "result": "L",
+   "detail": "0 SOG (10:20 TOI; COL 5-2 CHI)"
   },
   {
    "date": "2026-11-02",
@@ -33,15 +68,8 @@
    "matchup": "CGY Flames at SJS Sharks",
    "venue": "SAP Center at San Jose",
    "time": "",
-   "result": null,
-   "detail": null,
-   "fliff": null,
-   "best": {
-    "book": "DraftKings",
-    "line": 0.5,
-    "price": -370
-   },
-   "oddsAt": "6:19 PM ET"
+   "result": "W",
+   "detail": "0 pts (18:41 TOI; CGY 2-1 SJS)"
   },
   {
    "date": "2026-10-31",
