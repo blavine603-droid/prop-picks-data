@@ -5,8 +5,19 @@
   "W": 31,
   "L": 16
  },
- "noPick": "4 games: OTT@BUF, CHI@FLA (7:30 PM ET), SJS@LAK, CGY@SEA (10:00 PM ET)",
+ "noPick": null,
  "picks": [
+  {
+   "date": "2026-11-04",
+   "player": "Michael Kesselring",
+   "prop": "Under 0.5 Points",
+   "odds": "-425",
+   "matchup": "SJS Sharks at LAK Kings",
+   "venue": "Crypto.com Arena",
+   "time": "",
+   "result": null,
+   "detail": null
+  },
   {
    "date": "2026-11-03",
    "player": "Mark Stone",

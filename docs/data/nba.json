@@ -16,20 +16,24 @@
    "venue": "Barclays Center",
    "time": "7:30 PM ET",
    "result": null,
-   "detail": null,
-   "fliff": null,
-   "best": {
-    "book": "Hard Rock",
-    "line": 0.5,
-    "price": -120
-   },
-   "oddsAt": "12:04 PM ET"
+   "detail": null
+  },
+  {
+   "date": "2026-11-04",
+   "player": "Quentin Grimes",
+   "prop": "Over 13.5 Pts+Reb+Ast",
+   "odds": "-101",
+   "matchup": "LAL Lakers at SAC Kings",
+   "venue": "Golden 1 Center",
+   "time": "10:00 PM ET",
+   "result": null,
+   "detail": null
   },
   {
    "date": "2026-11-04",
    "player": "Isaiah Collier",
    "prop": "Over 14.5 Pts+Reb+Ast",
-   "odds": "+115",
+   "odds": "+105",
    "matchup": "UTAH Jazz at NO Pelicans",
    "venue": "Smoothie King Center",
    "time": "8:00 PM ET",
@@ -38,63 +42,25 @@
   },
   {
    "date": "2026-11-04",
-   "player": "Quentin Grimes",
-   "prop": "Over 13.5 Pts+Reb+Ast",
-   "odds": "+100",
-   "matchup": "LAL Lakers at SAC Kings",
-   "venue": "Golden 1 Center",
-   "time": "10:00 PM ET",
+   "player": "Ajay Mitchell",
+   "prop": "Under 22.5 Pts+Reb",
+   "odds": "-122",
+   "matchup": "CLE Cavaliers at OKC Thunder",
+   "venue": "Paycom Center",
+   "time": "8:00 PM ET",
    "result": null,
-   "detail": null,
-   "fliff": {
-    "line": 13.5,
-    "price": -110
-   },
-   "best": {
-    "book": "FanDuel",
-    "line": 13.5,
-    "price": 100
-   },
-   "oddsAt": "12:04 PM ET"
+   "detail": null
   },
   {
    "date": "2026-11-04",
-   "player": "Grayson Allen",
-   "prop": "Over 2.5 Assists",
-   "odds": "+118",
+   "player": "Kon Knueppel",
+   "prop": "Over 3.5 Rebounds",
+   "odds": "-105",
    "matchup": "CHA Hornets at BKN Nets",
    "venue": "Barclays Center",
    "time": "7:30 PM ET",
    "result": null,
-   "detail": null,
-   "fliff": null,
-   "best": {
-    "book": "FanDuel",
-    "line": 2.5,
-    "price": 118
-   },
-   "oddsAt": "12:04 PM ET"
-  },
-  {
-   "date": "2026-11-04",
-   "player": "Daniss Jenkins",
-   "prop": "Over 4.5 Assists",
-   "odds": "+138",
-   "matchup": "PHI 76ers at DET Pistons",
-   "venue": "Little Caesars Arena",
-   "time": "7:00 PM ET",
-   "result": null,
-   "detail": null,
-   "fliff": {
-    "line": 3.5,
-    "price": -165
-   },
-   "best": {
-    "book": "FanDuel",
-    "line": 4.5,
-    "price": 136
-   },
-   "oddsAt": "12:04 PM ET"
+   "detail": null
   },
   {
    "date": "2026-11-02",
