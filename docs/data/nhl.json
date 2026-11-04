@@ -16,7 +16,14 @@
    "venue": "Crypto.com Arena",
    "time": "",
    "result": null,
-   "detail": null
+   "detail": null,
+   "fliff": null,
+   "best": {
+    "book": "DraftKings",
+    "line": 0.5,
+    "price": -380
+   },
+   "oddsAt": "2:44 PM ET"
   },
   {
    "date": "2026-11-03",
