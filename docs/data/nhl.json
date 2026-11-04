@@ -1,11 +1,11 @@
 {
- "updated": "Tue, Nov 3, 2026",
- "date": "2026-11-03",
+ "updated": "Wed, Nov 4, 2026",
+ "date": "2026-11-04",
  "record": {
   "W": 31,
-  "L": 14
+  "L": 16
  },
- "noPick": null,
+ "noPick": "4 games: OTT@BUF, CHI@FLA (7:30 PM ET), SJS@LAK, CGY@SEA (10:00 PM ET)",
  "picks": [
   {
    "date": "2026-11-03",
@@ -15,18 +15,8 @@
    "matchup": "VGK Golden Knights at PIT Penguins",
    "venue": "PPG Paints Arena",
    "time": "7:00 PM ET",
-   "result": null,
-   "detail": null,
-   "fliff": {
-    "line": 1.5,
-    "price": 115
-   },
-   "best": {
-    "book": "Hard Rock",
-    "line": 2.5,
-    "price": -190
-   },
-   "oddsAt": "12:00 PM ET"
+   "result": "L",
+   "detail": "3 SOG (20:40 TOI; VGK 3-2 PIT)"
   },
   {
    "date": "2026-11-03",
@@ -36,18 +26,8 @@
    "matchup": "CAR Hurricanes at NSH Predators",
    "venue": "Bridgestone Arena",
    "time": "8:00 PM ET",
-   "result": null,
-   "detail": null,
-   "fliff": {
-    "line": 2.5,
-    "price": -110
-   },
-   "best": {
-    "book": "Hard Rock",
-    "line": 2.5,
-    "price": 105
-   },
-   "oddsAt": "12:00 PM ET"
+   "result": "L",
+   "detail": "0 SOG (16:47 TOI; CAR 1-4 NSH)"
   },
   {
    "date": "2026-11-02",

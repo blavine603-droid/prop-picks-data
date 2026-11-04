@@ -1,12 +1,101 @@
 {
- "updated": "Tue, Nov 3, 2026",
- "date": "2026-11-03",
+ "updated": "Wed, Nov 4, 2026",
+ "date": "2026-11-04",
  "record": {
   "W": 34,
   "L": 28
  },
- "noPick": "No NBA games scheduled (Election Day)",
+ "noPick": null,
  "picks": [
+  {
+   "date": "2026-11-04",
+   "player": "Julius Randle",
+   "prop": "Under 0.5 Blocks",
+   "odds": "-120",
+   "matchup": "CHA Hornets at BKN Nets",
+   "venue": "Barclays Center",
+   "time": "7:30 PM ET",
+   "result": null,
+   "detail": null,
+   "fliff": null,
+   "best": {
+    "book": "Hard Rock",
+    "line": 0.5,
+    "price": -120
+   },
+   "oddsAt": "12:04 PM ET"
+  },
+  {
+   "date": "2026-11-04",
+   "player": "Isaiah Collier",
+   "prop": "Over 14.5 Pts+Reb+Ast",
+   "odds": "+115",
+   "matchup": "UTAH Jazz at NO Pelicans",
+   "venue": "Smoothie King Center",
+   "time": "8:00 PM ET",
+   "result": null,
+   "detail": null
+  },
+  {
+   "date": "2026-11-04",
+   "player": "Quentin Grimes",
+   "prop": "Over 13.5 Pts+Reb+Ast",
+   "odds": "+100",
+   "matchup": "LAL Lakers at SAC Kings",
+   "venue": "Golden 1 Center",
+   "time": "10:00 PM ET",
+   "result": null,
+   "detail": null,
+   "fliff": {
+    "line": 13.5,
+    "price": -110
+   },
+   "best": {
+    "book": "FanDuel",
+    "line": 13.5,
+    "price": 100
+   },
+   "oddsAt": "12:04 PM ET"
+  },
+  {
+   "date": "2026-11-04",
+   "player": "Grayson Allen",
+   "prop": "Over 2.5 Assists",
+   "odds": "+118",
+   "matchup": "CHA Hornets at BKN Nets",
+   "venue": "Barclays Center",
+   "time": "7:30 PM ET",
+   "result": null,
+   "detail": null,
+   "fliff": null,
+   "best": {
+    "book": "FanDuel",
+    "line": 2.5,
+    "price": 118
+   },
+   "oddsAt": "12:04 PM ET"
+  },
+  {
+   "date": "2026-11-04",
+   "player": "Daniss Jenkins",
+   "prop": "Over 4.5 Assists",
+   "odds": "+138",
+   "matchup": "PHI 76ers at DET Pistons",
+   "venue": "Little Caesars Arena",
+   "time": "7:00 PM ET",
+   "result": null,
+   "detail": null,
+   "fliff": {
+    "line": 3.5,
+    "price": -165
+   },
+   "best": {
+    "book": "FanDuel",
+    "line": 4.5,
+    "price": 136
+   },
+   "oddsAt": "12:04 PM ET"
+  },
   {
    "date": "2026-11-02",
    "player": "Kobe Sanders",
