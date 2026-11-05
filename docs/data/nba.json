@@ -1,12 +1,75 @@
 {
- "updated": "Wed, Nov 4, 2026",
- "date": "2026-11-04",
+ "updated": "Thu, Nov 5, 2026",
+ "date": "2026-11-05",
  "record": {
-  "W": 34,
-  "L": 28
+  "W": 35,
+  "L": 32
  },
  "noPick": null,
  "picks": [
+  {
+   "date": "2026-11-05",
+   "player": "Will Richard",
+   "prop": "Under 5.5 Points",
+   "odds": "+103",
+   "matchup": "MIA Heat at GS Warriors",
+   "venue": "Chase Center",
+   "time": "10:00 PM ET",
+   "result": null,
+   "detail": null,
+   "fliff": {
+    "line": 5.5,
+    "price": -105
+   },
+   "best": {
+    "book": "Hard Rock",
+    "line": 5.5,
+    "price": 100
+   },
+   "oddsAt": "12:07 PM ET"
+  },
+  {
+   "date": "2026-11-05",
+   "player": "Klay Thompson",
+   "prop": "Under 17.5 Pts+Reb+Ast",
+   "odds": "-119",
+   "matchup": "MIA Heat at GS Warriors",
+   "venue": "Chase Center",
+   "time": "10:00 PM ET",
+   "result": null,
+   "detail": null,
+   "fliff": {
+    "line": 17.5,
+    "price": -125
+   },
+   "best": {
+    "book": "DraftKings",
+    "line": 17.5,
+    "price": -120
+   },
+   "oddsAt": "12:07 PM ET"
+  },
+  {
+   "date": "2026-11-05",
+   "player": "Anthony Black",
+   "prop": "Under 24.5 Pts+Reb+Ast",
+   "odds": "-111",
+   "matchup": "ORL Magic at PHX Suns",
+   "venue": "Mortgage Matchup Center",
+   "time": "9:00 PM ET",
+   "result": null,
+   "detail": null,
+   "fliff": {
+    "line": 24.5,
+    "price": -120
+   },
+   "best": {
+    "book": "ESPN BET",
+    "line": 24.5,
+    "price": -110
+   },
+   "oddsAt": "12:07 PM ET"
+  },
   {
    "date": "2026-11-04",
    "player": "Julius Randle",
@@ -15,15 +78,8 @@
    "matchup": "CHA Hornets at BKN Nets",
    "venue": "Barclays Center",
    "time": "7:30 PM ET",
-   "result": null,
-   "detail": null,
-   "fliff": null,
-   "best": {
-    "book": "Hard Rock",
-    "line": 0.5,
-    "price": -120
-   },
-   "oddsAt": "2:44 PM ET"
+   "result": "W",
+   "detail": "0 blocks (31 min; BKN 114 CHA 104)"
   },
   {
    "date": "2026-11-04",
@@ -33,18 +89,8 @@
    "matchup": "LAL Lakers at SAC Kings",
    "venue": "Golden 1 Center",
    "time": "10:00 PM ET",
-   "result": null,
-   "detail": null,
-   "fliff": {
-    "line": 13.5,
-    "price": -110
-   },
-   "best": {
-    "book": "FanDuel",
-    "line": 13.5,
-    "price": 100
-   },
-   "oddsAt": "2:44 PM ET"
+   "result": "L",
+   "detail": "8 pts+reb+ast (25 min; SAC 103 LAL 116)"
   },
   {
    "date": "2026-11-04",
@@ -54,18 +100,8 @@
    "matchup": "UTAH Jazz at NO Pelicans",
    "venue": "Smoothie King Center",
    "time": "8:00 PM ET",
-   "result": null,
-   "detail": null,
-   "fliff": {
-    "line": 13.5,
-    "price": -125
-   },
-   "best": {
-    "book": "Fliff",
-    "line": 13.5,
-    "price": -125
-   },
-   "oddsAt": "2:44 PM ET"
+   "result": "L",
+   "detail": "1 pts+reb+ast (3 min; NO 120 UTAH 113)"
   },
   {
    "date": "2026-11-04",
@@ -75,18 +111,8 @@
    "matchup": "CLE Cavaliers at OKC Thunder",
    "venue": "Paycom Center",
    "time": "8:00 PM ET",
-   "result": null,
-   "detail": null,
-   "fliff": {
-    "line": 22.5,
-    "price": -125
-   },
-   "best": {
-    "book": "ESPN BET",
-    "line": 22.5,
-    "price": -120
-   },
-   "oddsAt": "2:44 PM ET"
+   "result": "L",
+   "detail": "30 pts+reb (32 min; OKC 124 CLE 116)"
   },
   {
    "date": "2026-11-04",
@@ -96,18 +122,8 @@
    "matchup": "CHA Hornets at BKN Nets",
    "venue": "Barclays Center",
    "time": "7:30 PM ET",
-   "result": null,
-   "detail": null,
-   "fliff": {
-    "line": 3.5,
-    "price": -115
-   },
-   "best": {
-    "book": "BetMGM",
-    "line": 3.5,
-    "price": 100
-   },
-   "oddsAt": "2:44 PM ET"
+   "result": "L",
+   "detail": "0 rebounds (6 min; BKN 114 CHA 104)"
   },
   {
    "date": "2026-11-02",
