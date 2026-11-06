@@ -1,11 +1,11 @@
 {
- "updated": "Thu, Nov 5, 2026",
- "date": "2026-11-05",
+ "updated": "Fri, Nov 6, 2026",
+ "date": "2026-11-06",
  "record": {
-  "W": 32,
-  "L": 16
+  "W": 37,
+  "L": 17
  },
- "noPick": null,
+ "noPick": "3-game slate (CBJ@BUF, SJS@MIN, ANA@CGY)",
  "picks": [
   {
    "date": "2026-11-05",
@@ -15,15 +15,8 @@
    "matchup": "CHI Blackhawks at TBL Lightning",
    "venue": "Benchmark International Arena",
    "time": "7:00 PM ET",
-   "result": null,
-   "detail": null,
-   "fliff": null,
-   "best": {
-    "book": "DraftKings",
-    "line": 1.5,
-    "price": -110
-   },
-   "oddsAt": "12:07 PM ET"
+   "result": "L",
+   "detail": "0 pts (20:26 TOI; CHI 1-4 TBL)"
   },
   {
    "date": "2026-11-05",
@@ -33,15 +26,8 @@
    "matchup": "NSH Predators at COL Avalanche",
    "venue": "Ball Arena",
    "time": "9:30 PM ET",
-   "result": null,
-   "detail": null,
-   "fliff": null,
-   "best": {
-    "book": "DraftKings",
-    "line": 1.5,
-    "price": -105
-   },
-   "oddsAt": "12:07 PM ET"
+   "result": "W",
+   "detail": "2 SOG (12:44 TOI; NSH 3-2 COL)"
   },
   {
    "date": "2026-11-05",
@@ -51,15 +37,8 @@
    "matchup": "CHI Blackhawks at TBL Lightning",
    "venue": "Benchmark International Arena",
    "time": "7:00 PM ET",
-   "result": null,
-   "detail": null,
-   "fliff": null,
-   "best": {
-    "book": "DraftKings",
-    "line": 2.5,
-    "price": 105
-   },
-   "oddsAt": "12:07 PM ET"
+   "result": "W",
+   "detail": "3 SOG (18:05 TOI; CHI 1-4 TBL)"
   },
   {
    "date": "2026-11-05",
@@ -69,15 +48,8 @@
    "matchup": "VGK Golden Knights at DET Red Wings",
    "venue": "Little Caesars Arena",
    "time": "7:00 PM ET",
-   "result": null,
-   "detail": null,
-   "fliff": null,
-   "best": {
-    "book": "ESPN BET",
-    "line": 2.5,
-    "price": -190
-   },
-   "oddsAt": "12:07 PM ET"
+   "result": "W",
+   "detail": "0 SOG (19:07 TOI; VGK 2-1 DET)"
   },
   {
    "date": "2026-11-05",
@@ -87,15 +59,8 @@
    "matchup": "UTA Mammoth at MTL Canadiens",
    "venue": "Centre Bell",
    "time": "7:00 PM ET",
-   "result": null,
-   "detail": null,
-   "fliff": null,
-   "best": {
-    "book": "BetMGM",
-    "line": 0.5,
-    "price": -111
-   },
-   "oddsAt": "12:07 PM ET"
+   "result": "W",
+   "detail": "2 ast (20:04 TOI; UTA 4-5 MTL)"
   },
   {
    "date": "2026-11-05",
@@ -105,15 +70,8 @@
    "matchup": "BOS Bruins at PIT Penguins",
    "venue": "PPG Paints Arena",
    "time": "7:00 PM ET",
-   "result": null,
-   "detail": null,
-   "fliff": null,
-   "best": {
-    "book": "Hard Rock",
-    "line": 0.5,
-    "price": -115
-   },
-   "oddsAt": "12:07 PM ET"
+   "result": "W",
+   "detail": "2 ast (20:23 TOI; BOS 6-2 PIT)"
   },
   {
    "date": "2026-11-04",

@@ -1,12 +1,111 @@
 {
- "updated": "Thu, Nov 5, 2026",
- "date": "2026-11-05",
+ "updated": "Fri, Nov 6, 2026",
+ "date": "2026-11-06",
  "record": {
-  "W": 35,
-  "L": 32
+  "W": 37,
+  "L": 33
  },
  "noPick": null,
  "picks": [
+  {
+   "date": "2026-11-06",
+   "player": "Collin Murray-Boyles",
+   "prop": "Under 14.5 Pts+Ast",
+   "odds": "-118",
+   "matchup": "TOR Raptors at MIL Bucks",
+   "venue": "Fiserv Forum",
+   "time": "8:00 PM ET",
+   "result": null,
+   "detail": null,
+   "fliff": null,
+   "best": {
+    "book": "DraftKings",
+    "line": 14.5,
+    "price": -118
+   },
+   "oddsAt": "12:04 PM ET"
+  },
+  {
+   "date": "2026-11-06",
+   "player": "Brandon Miller",
+   "prop": "Under 29.5 Pts+Reb+Ast",
+   "odds": "-110",
+   "matchup": "BOS Celtics at CHA Hornets",
+   "venue": "Spectrum Center",
+   "time": "7:00 PM ET",
+   "result": null,
+   "detail": null,
+   "fliff": {
+    "line": 29.5,
+    "price": -115
+   },
+   "best": {
+    "book": "ESPN BET",
+    "line": 29.5,
+    "price": -110
+   },
+   "oddsAt": "12:04 PM ET"
+  },
+  {
+   "date": "2026-11-06",
+   "player": "Jayson Tatum",
+   "prop": "Under 41.5 Pts+Reb+Ast",
+   "odds": "-113",
+   "matchup": "BOS Celtics at CHA Hornets",
+   "venue": "Spectrum Center",
+   "time": "7:00 PM ET",
+   "result": null,
+   "detail": null,
+   "fliff": {
+    "line": 41.5,
+    "price": -125
+   },
+   "best": {
+    "book": "DraftKings",
+    "line": 41.5,
+    "price": -113
+   },
+   "oddsAt": "12:04 PM ET"
+  },
+  {
+   "date": "2026-11-06",
+   "player": "Quentin Grimes",
+   "prop": "Over 6.5 Points",
+   "odds": "-130",
+   "matchup": "POR Trail Blazers at LAL Lakers",
+   "venue": "crypto.com Arena",
+   "time": "10:00 PM ET",
+   "result": null,
+   "detail": null,
+   "fliff": {
+    "line": 6.5,
+    "price": -135
+   },
+   "best": {
+    "book": "Hard Rock",
+    "line": 6.5,
+    "price": -125
+   },
+   "oddsAt": "12:04 PM ET"
+  },
+  {
+   "date": "2026-11-06",
+   "player": "Ryan Rollins",
+   "prop": "Over 1.5 3-Pointers",
+   "odds": "+139",
+   "matchup": "TOR Raptors at MIL Bucks",
+   "venue": "Fiserv Forum",
+   "time": "8:00 PM ET",
+   "result": null,
+   "detail": null,
+   "fliff": null,
+   "best": {
+    "book": "BetRivers",
+    "line": 1.5,
+    "price": 128
+   },
+   "oddsAt": "12:04 PM ET"
+  },
   {
    "date": "2026-11-05",
    "player": "Will Richard",
@@ -15,18 +114,8 @@
    "matchup": "MIA Heat at GS Warriors",
    "venue": "Chase Center",
    "time": "10:00 PM ET",
-   "result": null,
-   "detail": null,
-   "fliff": {
-    "line": 5.5,
-    "price": -105
-   },
-   "best": {
-    "book": "Hard Rock",
-    "line": 5.5,
-    "price": 100
-   },
-   "oddsAt": "12:07 PM ET"
+   "result": "L",
+   "detail": "10 points (16 min; GS 120 MIA 100)"
   },
   {
    "date": "2026-11-05",
@@ -36,18 +125,8 @@
    "matchup": "MIA Heat at GS Warriors",
    "venue": "Chase Center",
    "time": "10:00 PM ET",
-   "result": null,
-   "detail": null,
-   "fliff": {
-    "line": 17.5,
-    "price": -125
-   },
-   "best": {
-    "book": "DraftKings",
-    "line": 17.5,
-    "price": -120
-   },
-   "oddsAt": "12:07 PM ET"
+   "result": "W",
+   "detail": "14 pts+reb+ast (23 min; GS 120 MIA 100)"
   },
   {
    "date": "2026-11-05",
@@ -57,18 +136,8 @@
    "matchup": "ORL Magic at PHX Suns",
    "venue": "Mortgage Matchup Center",
    "time": "9:00 PM ET",
-   "result": null,
-   "detail": null,
-   "fliff": {
-    "line": 24.5,
-    "price": -120
-   },
-   "best": {
-    "book": "ESPN BET",
-    "line": 24.5,
-    "price": -110
-   },
-   "oddsAt": "12:07 PM ET"
+   "result": "W",
+   "detail": "23 pts+reb+ast (31 min; PHX 117 ORL 104)"
   },
   {
    "date": "2026-11-04",
