@@ -1,12 +1,89 @@
 {
- "updated": "Fri, Nov 6, 2026",
- "date": "2026-11-06",
+ "updated": "Sat, Nov 7, 2026",
+ "date": "2026-11-07",
  "record": {
   "W": 37,
   "L": 17
  },
- "noPick": "3-game slate (CBJ@BUF, SJS@MIN, ANA@CGY)",
+ "noPick": null,
  "picks": [
+  {
+   "date": "2026-11-07",
+   "player": "Elias Pettersson",
+   "prop": "Under 0.5 Assists",
+   "odds": "-135",
+   "matchup": "VAN Canucks at EDM Oilers",
+   "venue": "Rogers Place",
+   "time": "10:00 PM ET",
+   "result": null,
+   "detail": null
+  },
+  {
+   "date": "2026-11-07",
+   "player": "Esa Lindell",
+   "prop": "Under 1.5 Shots on Goal",
+   "odds": "-115",
+   "matchup": "SJS Sharks at DAL Stars",
+   "venue": "American Airlines Center",
+   "time": "8:00 PM ET",
+   "result": null,
+   "detail": null
+  },
+  {
+   "date": "2026-11-07",
+   "player": "Taylor Hall",
+   "prop": "Under 2.5 Shots on Goal",
+   "odds": "-175",
+   "matchup": "CHI Blackhawks at CAR Hurricanes",
+   "venue": "Lenovo Center",
+   "time": "8:00 PM ET",
+   "result": null,
+   "detail": null
+  },
+  {
+   "date": "2026-11-07",
+   "player": "Connor McDavid",
+   "prop": "Over 1.5 Assists",
+   "odds": "+125",
+   "matchup": "VAN Canucks at EDM Oilers",
+   "venue": "Rogers Place",
+   "time": "10:00 PM ET",
+   "result": null,
+   "detail": null
+  },
+  {
+   "date": "2026-11-07",
+   "player": "Brandon Hagel",
+   "prop": "Over 0.5 Points",
+   "odds": "-125",
+   "matchup": "TBL Lightning at MIN Wild",
+   "venue": "Grand Casino Arena",
+   "time": "8:00 PM ET",
+   "result": null,
+   "detail": null
+  },
+  {
+   "date": "2026-11-07",
+   "player": "Logan Mailloux",
+   "prop": "Under 0.5 Assists",
+   "odds": "-345",
+   "matchup": "STL Blues at NSH Predators",
+   "venue": "Bridgestone Arena",
+   "time": "1:00 PM ET",
+   "result": null,
+   "detail": null
+  },
+  {
+   "date": "2026-11-07",
+   "player": "Nick Suzuki",
+   "prop": "Over 0.5 Assists",
+   "odds": "-125",
+   "matchup": "MTL Canadiens at TOR Maple Leafs",
+   "venue": "Scotiabank Arena",
+   "time": "7:00 PM ET",
+   "result": null,
+   "detail": null
+  },
   {
    "date": "2026-11-05",
    "player": "Nikita Kucherov",

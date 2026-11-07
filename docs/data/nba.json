@@ -1,12 +1,67 @@
 {
- "updated": "Fri, Nov 6, 2026",
- "date": "2026-11-06",
+ "updated": "Sat, Nov 7, 2026",
+ "date": "2026-11-07",
  "record": {
-  "W": 37,
-  "L": 33
+  "W": 38,
+  "L": 37
  },
  "noPick": null,
  "picks": [
+  {
+   "date": "2026-11-07",
+   "player": "Dylan Harper",
+   "prop": "Under 27.5 Pts+Reb+Ast",
+   "odds": "-105",
+   "matchup": "SA Spurs at POR Trail Blazers",
+   "venue": "Moda Center",
+   "time": "10:00 PM ET",
+   "result": null,
+   "detail": null
+  },
+  {
+   "date": "2026-11-07",
+   "player": "Isaiah Hartenstein",
+   "prop": "Over 8.5 Points",
+   "odds": "+102",
+   "matchup": "WSH Wizards at OKC Thunder",
+   "venue": "Paycom Center",
+   "time": "8:00 PM ET",
+   "result": null,
+   "detail": null
+  },
+  {
+   "date": "2026-11-07",
+   "player": "Anthony Black",
+   "prop": "Under 4.5 Assists",
+   "odds": "+112",
+   "matchup": "ORL Magic at GS Warriors",
+   "venue": "Chase Center",
+   "time": "8:30 PM ET",
+   "result": null,
+   "detail": null
+  },
+  {
+   "date": "2026-11-07",
+   "player": "Scoot Henderson",
+   "prop": "Under 20.5 Pts+Reb+Ast",
+   "odds": "-122",
+   "matchup": "SA Spurs at POR Trail Blazers",
+   "venue": "Moda Center",
+   "time": "10:00 PM ET",
+   "result": null,
+   "detail": null
+  },
+  {
+   "date": "2026-11-07",
+   "player": "Miles McBride",
+   "prop": "Over 1.5 3-Pointers",
+   "odds": "-104",
+   "matchup": "NY Knicks at CLE Cavaliers",
+   "venue": "Rocket Arena",
+   "time": "8:00 PM ET",
+   "result": null,
+   "detail": null
+  },
   {
    "date": "2026-11-06",
    "player": "Collin Murray-Boyles",
@@ -15,15 +70,8 @@
    "matchup": "TOR Raptors at MIL Bucks",
    "venue": "Fiserv Forum",
    "time": "8:00 PM ET",
-   "result": null,
-   "detail": null,
-   "fliff": null,
-   "best": {
-    "book": "DraftKings",
-    "line": 14.5,
-    "price": -118
-   },
-   "oddsAt": "12:04 PM ET"
+   "result": "L",
+   "detail": "21 pts+ast (34 min; MIL 107 TOR 121)"
   },
   {
    "date": "2026-11-06",
@@ -33,18 +81,8 @@
    "matchup": "BOS Celtics at CHA Hornets",
    "venue": "Spectrum Center",
    "time": "7:00 PM ET",
-   "result": null,
-   "detail": null,
-   "fliff": {
-    "line": 29.5,
-    "price": -115
-   },
-   "best": {
-    "book": "ESPN BET",
-    "line": 29.5,
-    "price": -110
-   },
-   "oddsAt": "12:04 PM ET"
+   "result": "W",
+   "detail": "11 pts+reb+ast (14 min; CHA 80 BOS 119)"
   },
   {
    "date": "2026-11-06",
@@ -54,18 +92,8 @@
    "matchup": "BOS Celtics at CHA Hornets",
    "venue": "Spectrum Center",
    "time": "7:00 PM ET",
-   "result": null,
-   "detail": null,
-   "fliff": {
-    "line": 41.5,
-    "price": -125
-   },
-   "best": {
-    "book": "DraftKings",
-    "line": 41.5,
-    "price": -113
-   },
-   "oddsAt": "12:04 PM ET"
+   "result": "L",
+   "detail": "51 pts+reb+ast (29 min; CHA 80 BOS 119)"
   },
   {
    "date": "2026-11-06",
@@ -75,18 +103,8 @@
    "matchup": "POR Trail Blazers at LAL Lakers",
    "venue": "crypto.com Arena",
    "time": "10:00 PM ET",
-   "result": null,
-   "detail": null,
-   "fliff": {
-    "line": 6.5,
-    "price": -135
-   },
-   "best": {
-    "book": "Hard Rock",
-    "line": 6.5,
-    "price": -125
-   },
-   "oddsAt": "12:04 PM ET"
+   "result": "L",
+   "detail": "2 points (20 min; LAL 124 POR 118)"
   },
   {
    "date": "2026-11-06",
@@ -96,15 +114,8 @@
    "matchup": "TOR Raptors at MIL Bucks",
    "venue": "Fiserv Forum",
    "time": "8:00 PM ET",
-   "result": null,
-   "detail": null,
-   "fliff": null,
-   "best": {
-    "book": "BetRivers",
-    "line": 1.5,
-    "price": 128
-   },
-   "oddsAt": "12:04 PM ET"
+   "result": "L",
+   "detail": "1 3-pointers (14 min; MIL 107 TOR 121)"
   },
   {
    "date": "2026-11-05",
