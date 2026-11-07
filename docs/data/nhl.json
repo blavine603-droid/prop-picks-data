@@ -16,7 +16,14 @@
    "venue": "Rogers Place",
    "time": "10:00 PM ET",
    "result": null,
-   "detail": null
+   "detail": null,
+   "fliff": null,
+   "best": {
+    "book": "DraftKings",
+    "line": 0.5,
+    "price": -140
+   },
+   "oddsAt": "12:02 PM ET"
   },
   {
    "date": "2026-11-07",
@@ -27,7 +34,14 @@
    "venue": "American Airlines Center",
    "time": "8:00 PM ET",
    "result": null,
-   "detail": null
+   "detail": null,
+   "fliff": null,
+   "best": {
+    "book": "Hard Rock",
+    "line": 1.5,
+    "price": -120
+   },
+   "oddsAt": "12:02 PM ET"
   },
   {
    "date": "2026-11-07",
@@ -38,7 +52,14 @@
    "venue": "Lenovo Center",
    "time": "8:00 PM ET",
    "result": null,
-   "detail": null
+   "detail": null,
+   "fliff": null,
+   "best": {
+    "book": "DraftKings",
+    "line": 2.5,
+    "price": -175
+   },
+   "oddsAt": "12:02 PM ET"
   },
   {
    "date": "2026-11-07",
@@ -49,7 +70,14 @@
    "venue": "Rogers Place",
    "time": "10:00 PM ET",
    "result": null,
-   "detail": null
+   "detail": null,
+   "fliff": null,
+   "best": {
+    "book": "BetMGM",
+    "line": 1.5,
+    "price": 135
+   },
+   "oddsAt": "12:02 PM ET"
   },
   {
    "date": "2026-11-07",
@@ -60,7 +88,14 @@
    "venue": "Grand Casino Arena",
    "time": "8:00 PM ET",
    "result": null,
-   "detail": null
+   "detail": null,
+   "fliff": null,
+   "best": {
+    "book": "DraftKings",
+    "line": 0.5,
+    "price": -135
+   },
+   "oddsAt": "12:02 PM ET"
   },
   {
    "date": "2026-11-07",
@@ -82,7 +117,14 @@
    "venue": "Scotiabank Arena",
    "time": "7:00 PM ET",
    "result": null,
-   "detail": null
+   "detail": null,
+   "fliff": null,
+   "best": {
+    "book": "BetMGM",
+    "line": 0.5,
+    "price": -120
+   },
+   "oddsAt": "12:02 PM ET"
   },
   {
    "date": "2026-11-05",

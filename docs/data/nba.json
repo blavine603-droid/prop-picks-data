@@ -16,7 +16,17 @@
    "venue": "Moda Center",
    "time": "10:00 PM ET",
    "result": null,
-   "detail": null
+   "detail": null,
+   "fliff": {
+    "line": 27.5,
+    "price": -115
+   },
+   "best": {
+    "book": "DraftKings",
+    "line": 27.5,
+    "price": -105
+   },
+   "oddsAt": "12:02 PM ET"
   },
   {
    "date": "2026-11-07",
@@ -27,7 +37,17 @@
    "venue": "Paycom Center",
    "time": "8:00 PM ET",
    "result": null,
-   "detail": null
+   "detail": null,
+   "fliff": {
+    "line": 8.5,
+    "price": -105
+   },
+   "best": {
+    "book": "FanDuel",
+    "line": 8.5,
+    "price": 100
+   },
+   "oddsAt": "12:02 PM ET"
   },
   {
    "date": "2026-11-07",
@@ -38,7 +58,17 @@
    "venue": "Chase Center",
    "time": "8:30 PM ET",
    "result": null,
-   "detail": null
+   "detail": null,
+   "fliff": {
+    "line": 4.5,
+    "price": 105
+   },
+   "best": {
+    "book": "ESPN BET",
+    "line": 4.5,
+    "price": 115
+   },
+   "oddsAt": "12:02 PM ET"
   },
   {
    "date": "2026-11-07",
@@ -49,7 +79,17 @@
    "venue": "Moda Center",
    "time": "10:00 PM ET",
    "result": null,
-   "detail": null
+   "detail": null,
+   "fliff": {
+    "line": 20.5,
+    "price": -125
+   },
+   "best": {
+    "book": "Hard Rock",
+    "line": 20.5,
+    "price": -120
+   },
+   "oddsAt": "12:02 PM ET"
   },
   {
    "date": "2026-11-07",
@@ -60,7 +100,17 @@
    "venue": "Rocket Arena",
    "time": "8:00 PM ET",
    "result": null,
-   "detail": null
+   "detail": null,
+   "fliff": {
+    "line": 1.5,
+    "price": -115
+   },
+   "best": {
+    "book": "Bally Bet",
+    "line": 1.5,
+    "price": 105
+   },
+   "oddsAt": "12:02 PM ET"
   },
   {
    "date": "2026-11-06",
