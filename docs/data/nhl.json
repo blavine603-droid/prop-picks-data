@@ -1,12 +1,69 @@
 {
- "updated": "Sat, Nov 7, 2026",
- "date": "2026-11-07",
+ "updated": "Sun, Nov 8, 2026",
+ "date": "2026-11-08",
  "record": {
-  "W": 37,
-  "L": 17
+  "W": 39,
+  "L": 21
  },
  "noPick": null,
  "picks": [
+  {
+   "date": "2026-11-08",
+   "player": "Kyle Connor",
+   "prop": "Under 1.5 Points",
+   "odds": "+170",
+   "matchup": "TBL Lightning at WPG Jets",
+   "venue": "Canada Life Centre",
+   "time": "6:00 PM ET",
+   "result": null,
+   "detail": null,
+   "fliff": null,
+   "best": {
+    "book": "ESPN BET",
+    "line": 1.5,
+    "price": -280
+   },
+   "oddsAt": "12:03 PM ET"
+  },
+  {
+   "date": "2026-11-08",
+   "player": "Evgeni Malkin",
+   "prop": "Over 0.5 Points",
+   "odds": "-120",
+   "matchup": "PIT Penguins at ANA Ducks",
+   "venue": "Honda Center",
+   "time": "8:00 PM ET",
+   "result": null,
+   "detail": null,
+   "fliff": null,
+   "best": {
+    "book": "Hard Rock",
+    "line": 0.5,
+    "price": -120
+   },
+   "oddsAt": "12:03 PM ET"
+  },
+  {
+   "date": "2026-11-08",
+   "player": "Pavel Zacha",
+   "prop": "Under 2.5 Shots on Goal",
+   "odds": "-175",
+   "matchup": "FLA Panthers at BOS Bruins",
+   "venue": "TD Garden",
+   "time": "1:00 PM ET",
+   "result": null,
+   "detail": null,
+   "fliff": {
+    "line": 1.5,
+    "price": 110
+   },
+   "best": {
+    "book": "ESPN BET",
+    "line": 2.5,
+    "price": -280
+   },
+   "oddsAt": "12:03 PM ET"
+  },
   {
    "date": "2026-11-07",
    "player": "Elias Pettersson",
@@ -15,15 +72,8 @@
    "matchup": "VAN Canucks at EDM Oilers",
    "venue": "Rogers Place",
    "time": "10:00 PM ET",
-   "result": null,
-   "detail": null,
-   "fliff": null,
-   "best": {
-    "book": "DraftKings",
-    "line": 0.5,
-    "price": -140
-   },
-   "oddsAt": "12:02 PM ET"
+   "result": "W",
+   "detail": "0 ast (15:22 TOI; VAN 2-4 EDM)"
   },
   {
    "date": "2026-11-07",
@@ -33,15 +83,8 @@
    "matchup": "SJS Sharks at DAL Stars",
    "venue": "American Airlines Center",
    "time": "8:00 PM ET",
-   "result": null,
-   "detail": null,
-   "fliff": null,
-   "best": {
-    "book": "Hard Rock",
-    "line": 1.5,
-    "price": -120
-   },
-   "oddsAt": "12:02 PM ET"
+   "result": "L",
+   "detail": "2 SOG (26:14 TOI; SJS 3-4 DAL)"
   },
   {
    "date": "2026-11-07",
@@ -51,15 +94,8 @@
    "matchup": "CHI Blackhawks at CAR Hurricanes",
    "venue": "Lenovo Center",
    "time": "8:00 PM ET",
-   "result": null,
-   "detail": null,
-   "fliff": null,
-   "best": {
-    "book": "DraftKings",
-    "line": 2.5,
-    "price": -175
-   },
-   "oddsAt": "12:02 PM ET"
+   "result": "L",
+   "detail": "3 SOG (16:13 TOI; CHI 2-9 CAR)"
   },
   {
    "date": "2026-11-07",
@@ -69,15 +105,8 @@
    "matchup": "VAN Canucks at EDM Oilers",
    "venue": "Rogers Place",
    "time": "10:00 PM ET",
-   "result": null,
-   "detail": null,
-   "fliff": null,
-   "best": {
-    "book": "BetMGM",
-    "line": 1.5,
-    "price": 135
-   },
-   "oddsAt": "12:02 PM ET"
+   "result": "W",
+   "detail": "3 ast (25:15 TOI; VAN 2-4 EDM)"
   },
   {
    "date": "2026-11-07",
@@ -87,15 +116,8 @@
    "matchup": "TBL Lightning at MIN Wild",
    "venue": "Grand Casino Arena",
    "time": "8:00 PM ET",
-   "result": null,
-   "detail": null,
-   "fliff": null,
-   "best": {
-    "book": "DraftKings",
-    "line": 0.5,
-    "price": -135
-   },
-   "oddsAt": "12:02 PM ET"
+   "result": "L",
+   "detail": "0 pts (16:46 TOI; TBL 4-3 MIN)"
   },
   {
    "date": "2026-11-07",
@@ -105,8 +127,8 @@
    "matchup": "STL Blues at NSH Predators",
    "venue": "Bridgestone Arena",
    "time": "1:00 PM ET",
-   "result": null,
-   "detail": null
+   "result": "V",
+   "detail": "did not play"
   },
   {
    "date": "2026-11-07",
@@ -116,15 +138,8 @@
    "matchup": "MTL Canadiens at TOR Maple Leafs",
    "venue": "Scotiabank Arena",
    "time": "7:00 PM ET",
-   "result": null,
-   "detail": null,
-   "fliff": null,
-   "best": {
-    "book": "BetMGM",
-    "line": 0.5,
-    "price": -120
-   },
-   "oddsAt": "12:02 PM ET"
+   "result": "L",
+   "detail": "0 ast (18:24 TOI; MTL 4-2 TOR)"
   },
   {
    "date": "2026-11-05",
