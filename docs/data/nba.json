@@ -11,7 +11,7 @@
    "date": "2026-11-09",
    "player": "Alperen Sengun",
    "prop": "Under 36.5 Pts+Reb+Ast",
-   "odds": "-118",
+   "odds": "-114",
    "matchup": "DEN Nuggets at HOU Rockets",
    "venue": "Toyota Center (Houston)",
    "time": "8:30 PM ET",
@@ -30,30 +30,9 @@
   },
   {
    "date": "2026-11-09",
-   "player": "Dylan Harper",
-   "prop": "Under 9.5 Reb+Ast",
-   "odds": "+106",
-   "matchup": "SA Spurs at PHX Suns",
-   "venue": "Mortgage Matchup Center",
-   "time": "9:00 PM ET",
-   "result": null,
-   "detail": null,
-   "fliff": {
-    "line": 9.5,
-    "price": 100
-   },
-   "best": {
-    "book": "DraftKings",
-    "line": 9.5,
-    "price": 106
-   },
-   "oddsAt": "12:01 PM ET"
-  },
-  {
-   "date": "2026-11-09",
    "player": "Evan Mobley",
    "prop": "Under 29.5 Pts+Reb+Ast",
-   "odds": "-119",
+   "odds": "-114",
    "matchup": "CLE Cavaliers at CHA Hornets",
    "venue": "Spectrum Center",
    "time": "7:00 PM ET",
@@ -72,45 +51,46 @@
   },
   {
    "date": "2026-11-09",
-   "player": "Cooper Flagg",
-   "prop": "Under 32.5 Pts+Ast",
-   "odds": "-106",
-   "matchup": "IND Pacers at DAL Mavericks",
-   "venue": "American Airlines Center",
-   "time": "8:00 PM ET",
+   "player": "Ryan Kalkbrenner",
+   "prop": "Under 6.5 Rebounds",
+   "odds": "-105",
+   "matchup": "CLE Cavaliers at CHA Hornets",
+   "venue": "Spectrum Center",
+   "time": "7:00 PM ET",
+   "result": null,
+   "detail": null
+  },
+  {
+   "date": "2026-11-09",
+   "player": "Dylan Harper",
+   "prop": "Under 9.5 Reb+Ast",
+   "odds": "-102",
+   "matchup": "SA Spurs at PHX Suns",
+   "venue": "Mortgage Matchup Center",
+   "time": "9:00 PM ET",
    "result": null,
    "detail": null,
    "fliff": {
-    "line": 32.5,
-    "price": -110
+    "line": 9.5,
+    "price": 100
    },
    "best": {
-    "book": "ESPN BET",
-    "line": 32.5,
-    "price": -105
+    "book": "DraftKings",
+    "line": 9.5,
+    "price": 106
    },
    "oddsAt": "12:01 PM ET"
   },
   {
    "date": "2026-11-09",
-   "player": "Sion James",
-   "prop": "Under 14.5 Pts+Reb+Ast",
-   "odds": "-103",
-   "matchup": "CLE Cavaliers at CHA Hornets",
-   "venue": "Spectrum Center",
-   "time": "7:00 PM ET",
+   "player": "Stephen Curry",
+   "prop": "Under 37.5 Pts+Reb+Ast",
+   "odds": "-111",
+   "matchup": "NO Pelicans at GS Warriors",
+   "venue": "Chase Center",
+   "time": "10:00 PM ET",
    "result": null,
-   "detail": null,
-   "fliff": {
-    "line": 14.5,
-    "price": -110
-   },
-   "best": {
-    "book": "FanDuel",
-    "line": 14.5,
-    "price": -102
-   },
-   "oddsAt": "12:01 PM ET"
+   "detail": null
   },
   {
    "date": "2026-11-08",
