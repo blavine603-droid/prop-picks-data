@@ -1,12 +1,33 @@
 {
- "updated": "Sun, Nov 8, 2026",
- "date": "2026-11-08",
+ "updated": "Mon, Nov 9, 2026",
+ "date": "2026-11-09",
  "record": {
-  "W": 39,
+  "W": 42,
   "L": 21
  },
  "noPick": null,
  "picks": [
+  {
+   "date": "2026-11-09",
+   "player": "Matvei Michkov",
+   "prop": "Under 2.5 Shots on Goal",
+   "odds": "+128",
+   "matchup": "PHI Flyers at VAN Canucks",
+   "venue": "Rogers Arena",
+   "time": "9:30 PM ET",
+   "result": null,
+   "detail": null,
+   "fliff": {
+    "line": 1.5,
+    "price": 115
+   },
+   "best": {
+    "book": "Hard Rock",
+    "line": 2.5,
+    "price": -190
+   },
+   "oddsAt": "12:01 PM ET"
+  },
   {
    "date": "2026-11-08",
    "player": "Kyle Connor",
@@ -15,15 +36,8 @@
    "matchup": "TBL Lightning at WPG Jets",
    "venue": "Canada Life Centre",
    "time": "6:00 PM ET",
-   "result": null,
-   "detail": null,
-   "fliff": null,
-   "best": {
-    "book": "ESPN BET",
-    "line": 1.5,
-    "price": -280
-   },
-   "oddsAt": "12:03 PM ET"
+   "result": "W",
+   "detail": "0 pts (24:35 TOI; TBL 3-4 WPG)"
   },
   {
    "date": "2026-11-08",
@@ -33,15 +47,8 @@
    "matchup": "PIT Penguins at ANA Ducks",
    "venue": "Honda Center",
    "time": "8:00 PM ET",
-   "result": null,
-   "detail": null,
-   "fliff": null,
-   "best": {
-    "book": "Hard Rock",
-    "line": 0.5,
-    "price": -120
-   },
-   "oddsAt": "12:03 PM ET"
+   "result": "W",
+   "detail": "2 pts (21:53 TOI; PIT 2-5 ANA)"
   },
   {
    "date": "2026-11-08",
@@ -51,18 +58,8 @@
    "matchup": "FLA Panthers at BOS Bruins",
    "venue": "TD Garden",
    "time": "1:00 PM ET",
-   "result": null,
-   "detail": null,
-   "fliff": {
-    "line": 1.5,
-    "price": 110
-   },
-   "best": {
-    "book": "ESPN BET",
-    "line": 2.5,
-    "price": -280
-   },
-   "oddsAt": "12:03 PM ET"
+   "result": "W",
+   "detail": "1 SOG (21:51 TOI; FLA 1-4 BOS)"
   },
   {
    "date": "2026-11-07",
