@@ -1,12 +1,117 @@
 {
- "updated": "Mon, Nov 9, 2026",
- "date": "2026-11-09",
+ "updated": "Tue, Nov 10, 2026",
+ "date": "2026-11-10",
  "record": {
-  "W": 42,
-  "L": 43
+  "W": 45,
+  "L": 45
  },
  "noPick": null,
  "picks": [
+  {
+   "date": "2026-11-10",
+   "player": "Rui Hachimura",
+   "prop": "Under 15.5 Points",
+   "odds": "-106",
+   "matchup": "LAC Clippers at PHX Suns",
+   "venue": "Mortgage Matchup Center",
+   "time": "9:00 PM ET",
+   "result": null,
+   "detail": null,
+   "fliff": {
+    "line": 15.5,
+    "price": -110
+   },
+   "best": {
+    "book": "FanDuel",
+    "line": 15.5,
+    "price": 100
+   },
+   "oddsAt": "12:04 PM ET"
+  },
+  {
+   "date": "2026-11-10",
+   "player": "Karl-Anthony Towns",
+   "prop": "Under 37.5 Pts+Reb+Ast",
+   "odds": "-110",
+   "matchup": "MIL Bucks at NY Knicks",
+   "venue": "Madison Square Garden",
+   "time": "7:30 PM ET",
+   "result": null,
+   "detail": null,
+   "fliff": {
+    "line": 37.5,
+    "price": -120
+   },
+   "best": {
+    "book": "ESPN BET",
+    "line": 37.5,
+    "price": -105
+   },
+   "oddsAt": "12:04 PM ET"
+  },
+  {
+   "date": "2026-11-10",
+   "player": "Jayson Tatum",
+   "prop": "Under 33.5 Pts+Ast",
+   "odds": "-111",
+   "matchup": "BOS Celtics at PHI 76ers",
+   "venue": "Xfinity Mobile Arena",
+   "time": "8:00 PM ET",
+   "result": null,
+   "detail": null,
+   "fliff": {
+    "line": 33.5,
+    "price": -120
+   },
+   "best": {
+    "book": "DraftKings",
+    "line": 33.5,
+    "price": -111
+   },
+   "oddsAt": "12:04 PM ET"
+  },
+  {
+   "date": "2026-11-10",
+   "player": "Donovan Clingan",
+   "prop": "Under 12.5 Reb+Ast",
+   "odds": "-101",
+   "matchup": "OKC Thunder at POR Trail Blazers",
+   "venue": "Moda Center",
+   "time": "11:00 PM ET",
+   "result": null,
+   "detail": null,
+   "fliff": {
+    "line": 12.5,
+    "price": -110
+   },
+   "best": {
+    "book": "DraftKings",
+    "line": 12.5,
+    "price": -101
+   },
+   "oddsAt": "12:04 PM ET"
+  },
+  {
+   "date": "2026-11-10",
+   "player": "Andrew Wiggins",
+   "prop": "Over 14.5 Pts+Reb+Ast",
+   "odds": "-120",
+   "matchup": "MIA Heat at UTAH Jazz",
+   "venue": "Delta Center",
+   "time": "9:00 PM ET",
+   "result": null,
+   "detail": null,
+   "fliff": {
+    "line": 14.5,
+    "price": -135
+   },
+   "best": {
+    "book": "FanDuel",
+    "line": 14.5,
+    "price": -122
+   },
+   "oddsAt": "12:04 PM ET"
+  },
   {
    "date": "2026-11-09",
    "player": "Alperen Sengun",
@@ -15,18 +120,8 @@
    "matchup": "DEN Nuggets at HOU Rockets",
    "venue": "Toyota Center (Houston)",
    "time": "8:30 PM ET",
-   "result": null,
-   "detail": null,
-   "fliff": {
-    "line": 36.5,
-    "price": -115
-   },
-   "best": {
-    "book": "ESPN BET",
-    "line": 36.5,
-    "price": -110
-   },
-   "oddsAt": "12:01 PM ET"
+   "result": "L",
+   "detail": "40 pts+reb+ast (35 min; HOU 110 DEN 100)"
   },
   {
    "date": "2026-11-09",
@@ -36,18 +131,8 @@
    "matchup": "CLE Cavaliers at CHA Hornets",
    "venue": "Spectrum Center",
    "time": "7:00 PM ET",
-   "result": null,
-   "detail": null,
-   "fliff": {
-    "line": 29.5,
-    "price": -120
-   },
-   "best": {
-    "book": "FanDuel",
-    "line": 29.5,
-    "price": -112
-   },
-   "oddsAt": "12:01 PM ET"
+   "result": "W",
+   "detail": "14 pts+reb+ast (24 min; CHA 124 CLE 112)"
   },
   {
    "date": "2026-11-09",
@@ -57,8 +142,8 @@
    "matchup": "CLE Cavaliers at CHA Hornets",
    "venue": "Spectrum Center",
    "time": "7:00 PM ET",
-   "result": null,
-   "detail": null
+   "result": "L",
+   "detail": "15 rebounds (35 min; CHA 124 CLE 112)"
   },
   {
    "date": "2026-11-09",
@@ -68,18 +153,8 @@
    "matchup": "SA Spurs at PHX Suns",
    "venue": "Mortgage Matchup Center",
    "time": "9:00 PM ET",
-   "result": null,
-   "detail": null,
-   "fliff": {
-    "line": 9.5,
-    "price": 100
-   },
-   "best": {
-    "book": "DraftKings",
-    "line": 9.5,
-    "price": 106
-   },
-   "oddsAt": "12:01 PM ET"
+   "result": "W",
+   "detail": "9 reb+ast (26 min; PHX 96 SA 122)"
   },
   {
    "date": "2026-11-09",
@@ -89,8 +164,8 @@
    "matchup": "NO Pelicans at GS Warriors",
    "venue": "Chase Center",
    "time": "10:00 PM ET",
-   "result": null,
-   "detail": null
+   "result": "W",
+   "detail": "32 pts+reb+ast (21 min; GS 138 NO 87)"
   },
   {
    "date": "2026-11-08",
