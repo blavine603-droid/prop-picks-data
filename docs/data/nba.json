@@ -1,12 +1,114 @@
 {
- "updated": "Tue, Nov 10, 2026",
- "date": "2026-11-10",
+ "updated": "Wed, Nov 11, 2026",
+ "date": "2026-11-11",
  "record": {
-  "W": 45,
-  "L": 45
+  "W": 47,
+  "L": 48
  },
  "noPick": null,
  "picks": [
+  {
+   "date": "2026-11-11",
+   "player": "Jeremiah Fears",
+   "prop": "Under 26.5 Pts+Reb+Ast",
+   "odds": "-106",
+   "matchup": "BKN Nets at NO Pelicans",
+   "venue": "Smoothie King Center",
+   "time": "8:00 PM ET",
+   "result": null,
+   "detail": null,
+   "fliff": {
+    "line": 26.5,
+    "price": -115
+   },
+   "best": {
+    "book": "ESPN BET",
+    "line": 26.5,
+    "price": -105
+   },
+   "oddsAt": "12:05 PM ET"
+  },
+  {
+   "date": "2026-11-11",
+   "player": "Sidy Cissoko",
+   "prop": "Under 14.5 Pts+Reb+Ast",
+   "odds": "-115",
+   "matchup": "OKC Thunder at POR Trail Blazers",
+   "venue": "Moda Center",
+   "time": "10:00 PM ET",
+   "result": null,
+   "detail": null,
+   "fliff": null,
+   "best": {
+    "book": "ESPN BET",
+    "line": 14.5,
+    "price": -115
+   },
+   "oddsAt": "12:05 PM ET"
+  },
+  {
+   "date": "2026-11-11",
+   "player": "Immanuel Quickley",
+   "prop": "Under 22.5 Pts+Reb",
+   "odds": "-114",
+   "matchup": "BOS Celtics at TOR Raptors",
+   "venue": "Scotiabank Arena",
+   "time": "7:00 PM ET",
+   "result": null,
+   "detail": null,
+   "fliff": {
+    "line": 22.5,
+    "price": -130
+   },
+   "best": {
+    "book": "DraftKings",
+    "line": 22.5,
+    "price": -113
+   },
+   "oddsAt": "12:05 PM ET"
+  },
+  {
+   "date": "2026-11-11",
+   "player": "Jaylen Wells",
+   "prop": "Over 10.5 Points",
+   "odds": "-107",
+   "matchup": "DEN Nuggets at MEM Grizzlies",
+   "venue": "FedExForum",
+   "time": "8:00 PM ET",
+   "result": null,
+   "detail": null,
+   "fliff": {
+    "line": 10.5,
+    "price": -115
+   },
+   "best": {
+    "book": "BetMGM",
+    "line": 10.5,
+    "price": -105
+   },
+   "oddsAt": "12:05 PM ET"
+  },
+  {
+   "date": "2026-11-11",
+   "player": "Miles McBride",
+   "prop": "Over 1.5 3-Pointers",
+   "odds": "-101",
+   "matchup": "CLE Cavaliers at NY Knicks",
+   "venue": "Madison Square Garden",
+   "time": "7:00 PM ET",
+   "result": null,
+   "detail": null,
+   "fliff": {
+    "line": 1.5,
+    "price": -105
+   },
+   "best": {
+    "book": "Bally Bet",
+    "line": 1.5,
+    "price": 108
+   },
+   "oddsAt": "12:05 PM ET"
+  },
   {
    "date": "2026-11-10",
    "player": "Rui Hachimura",
@@ -15,18 +117,8 @@
    "matchup": "LAC Clippers at PHX Suns",
    "venue": "Mortgage Matchup Center",
    "time": "9:00 PM ET",
-   "result": null,
-   "detail": null,
-   "fliff": {
-    "line": 15.5,
-    "price": -110
-   },
-   "best": {
-    "book": "FanDuel",
-    "line": 15.5,
-    "price": 100
-   },
-   "oddsAt": "12:04 PM ET"
+   "result": "W",
+   "detail": "13 points (23 min; PHX 133 LAC 110)"
   },
   {
    "date": "2026-11-10",
@@ -36,18 +128,8 @@
    "matchup": "MIL Bucks at NY Knicks",
    "venue": "Madison Square Garden",
    "time": "7:30 PM ET",
-   "result": null,
-   "detail": null,
-   "fliff": {
-    "line": 37.5,
-    "price": -120
-   },
-   "best": {
-    "book": "ESPN BET",
-    "line": 37.5,
-    "price": -105
-   },
-   "oddsAt": "12:04 PM ET"
+   "result": "L",
+   "detail": "40 pts+reb+ast (27 min; NY 117 MIL 85)"
   },
   {
    "date": "2026-11-10",
@@ -57,18 +139,8 @@
    "matchup": "BOS Celtics at PHI 76ers",
    "venue": "Xfinity Mobile Arena",
    "time": "8:00 PM ET",
-   "result": null,
-   "detail": null,
-   "fliff": {
-    "line": 33.5,
-    "price": -120
-   },
-   "best": {
-    "book": "DraftKings",
-    "line": 33.5,
-    "price": -111
-   },
-   "oddsAt": "12:04 PM ET"
+   "result": "W",
+   "detail": "25 pts+ast (32 min; PHI 101 BOS 123)"
   },
   {
    "date": "2026-11-10",
@@ -78,18 +150,8 @@
    "matchup": "OKC Thunder at POR Trail Blazers",
    "venue": "Moda Center",
    "time": "11:00 PM ET",
-   "result": null,
-   "detail": null,
-   "fliff": {
-    "line": 12.5,
-    "price": -110
-   },
-   "best": {
-    "book": "DraftKings",
-    "line": 12.5,
-    "price": -101
-   },
-   "oddsAt": "12:04 PM ET"
+   "result": "L",
+   "detail": "16 reb+ast (26 min; POR 123 OKC 103)"
   },
   {
    "date": "2026-11-10",
@@ -99,18 +161,8 @@
    "matchup": "MIA Heat at UTAH Jazz",
    "venue": "Delta Center",
    "time": "9:00 PM ET",
-   "result": null,
-   "detail": null,
-   "fliff": {
-    "line": 14.5,
-    "price": -135
-   },
-   "best": {
-    "book": "FanDuel",
-    "line": 14.5,
-    "price": -122
-   },
-   "oddsAt": "12:04 PM ET"
+   "result": "L",
+   "detail": "13 pts+reb+ast (19 min; UTAH 109 MIA 115)"
   },
   {
    "date": "2026-11-09",
