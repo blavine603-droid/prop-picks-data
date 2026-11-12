@@ -23,7 +23,18 @@
     "line": 2.5,
     "price": -140
    },
-   "oddsAt": "12:05 PM ET"
+   "oddsAt": "4:06 PM ET"
+  },
+  {
+   "date": "2026-11-12",
+   "player": "Ondrej Palat",
+   "prop": "Under 0.5 Assists",
+   "odds": "-350",
+   "matchup": "NYI Islanders at LAK Kings",
+   "venue": "Crypto.com Arena",
+   "time": "10:00 PM ET",
+   "result": null,
+   "detail": null
   },
   {
    "date": "2026-11-11",

@@ -10,29 +10,29 @@
   {
    "date": "2026-11-12",
    "player": "Naz Reid",
-   "prop": "Under 29.5 Pts+Reb",
-   "odds": "-115",
+   "prop": "Under 28.5 Pts+Reb",
+   "odds": "-107",
    "matchup": "CHA Hornets at PHX Suns",
    "venue": "Mortgage Matchup Center",
    "time": "9:00 PM ET",
    "result": null,
    "detail": null,
    "fliff": {
-    "line": 29.5,
-    "price": -115
+    "line": 28.5,
+    "price": -120
    },
    "best": {
-    "book": "Hard Rock",
-    "line": 29.5,
-    "price": -110
+    "book": "DraftKings",
+    "line": 28.5,
+    "price": -107
    },
-   "oddsAt": "12:05 PM ET"
+   "oddsAt": "4:06 PM ET"
   },
   {
    "date": "2026-11-12",
    "player": "Cooper Flagg",
-   "prop": "Under 36.5 Pts+Reb+Ast",
-   "odds": "-106",
+   "prop": "Under 37.5 Pts+Reb+Ast",
+   "odds": "-113",
    "matchup": "DAL Mavericks at MIN Timberwolves",
    "venue": "Target Center",
    "time": "8:00 PM ET",
@@ -43,17 +43,17 @@
     "price": -130
    },
    "best": {
-    "book": "ESPN BET",
-    "line": 36.5,
-    "price": -105
+    "book": "DraftKings",
+    "line": 37.5,
+    "price": -113
    },
-   "oddsAt": "12:05 PM ET"
+   "oddsAt": "4:06 PM ET"
   },
   {
    "date": "2026-11-12",
    "player": "Ausar Thompson",
    "prop": "Under 14.5 Pts+Ast",
-   "odds": "-105",
+   "odds": "-106",
    "matchup": "DET Pistons at WSH Wizards",
    "venue": "Capital One Arena",
    "time": "7:00 PM ET",
@@ -61,41 +61,20 @@
    "detail": null,
    "fliff": {
     "line": 14.5,
-    "price": -110
+    "price": -105
    },
    "best": {
-    "book": "FanDuel",
+    "book": "ESPN BET",
     "line": 14.5,
-    "price": -102
+    "price": 100
    },
-   "oddsAt": "12:05 PM ET"
-  },
-  {
-   "date": "2026-11-12",
-   "player": "LeBron James",
-   "prop": "Under 30.5 Pts+Reb+Ast",
-   "odds": "-121",
-   "matchup": "TOR Raptors at PHI 76ers",
-   "venue": "Xfinity Mobile Arena",
-   "time": "7:00 PM ET",
-   "result": null,
-   "detail": null,
-   "fliff": {
-    "line": 29.5,
-    "price": -110
-   },
-   "best": {
-    "book": "DraftKings",
-    "line": 30.5,
-    "price": -122
-   },
-   "oddsAt": "12:05 PM ET"
+   "oddsAt": "4:06 PM ET"
   },
   {
    "date": "2026-11-12",
    "player": "Devin Booker",
    "prop": "Under 24.5 Points",
-   "odds": "-107",
+   "odds": "-105",
    "matchup": "CHA Hornets at PHX Suns",
    "venue": "Mortgage Matchup Center",
    "time": "9:00 PM ET",
@@ -108,9 +87,30 @@
    "best": {
     "book": "DraftKings",
     "line": 24.5,
-    "price": -107
+    "price": -105
    },
-   "oddsAt": "12:05 PM ET"
+   "oddsAt": "4:06 PM ET"
+  },
+  {
+   "date": "2026-11-12",
+   "player": "Tyrese Maxey",
+   "prop": "Under 9.5 Reb+Ast",
+   "odds": "+101",
+   "matchup": "TOR Raptors at PHI 76ers",
+   "venue": "Xfinity Mobile Arena",
+   "time": "7:00 PM ET",
+   "result": null,
+   "detail": null,
+   "fliff": {
+    "line": 9.5,
+    "price": -110
+   },
+   "best": {
+    "book": "DraftKings",
+    "line": 9.5,
+    "price": 101
+   },
+   "oddsAt": "4:06 PM ET"
   },
   {
    "date": "2026-11-11",
