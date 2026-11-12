@@ -1,12 +1,30 @@
 {
- "updated": "Wed, Nov 11, 2026",
- "date": "2026-11-11",
+ "updated": "Thu, Nov 12, 2026",
+ "date": "2026-11-12",
  "record": {
-  "W": 45,
+  "W": 46,
   "L": 21
  },
  "noPick": null,
  "picks": [
+  {
+   "date": "2026-11-12",
+   "player": "Nick Schmaltz",
+   "prop": "Under 2.5 Shots on Goal",
+   "odds": "-140",
+   "matchup": "STL Blues at UTA Mammoth",
+   "venue": "Delta Center",
+   "time": "9:00 PM ET",
+   "result": null,
+   "detail": null,
+   "fliff": null,
+   "best": {
+    "book": "BetMGM",
+    "line": 2.5,
+    "price": -140
+   },
+   "oddsAt": "12:05 PM ET"
+  },
   {
    "date": "2026-11-11",
    "player": "Evgeni Malkin",
@@ -15,15 +33,8 @@
    "matchup": "PIT Penguins at SJS Sharks",
    "venue": "SAP Center at San Jose",
    "time": "10:00 PM ET",
-   "result": null,
-   "detail": null,
-   "fliff": null,
-   "best": {
-    "book": "DraftKings",
-    "line": 0.5,
-    "price": -155
-   },
-   "oddsAt": "12:05 PM ET"
+   "result": "W",
+   "detail": "1 pts (20:04 TOI; PIT 3-2 SJS)"
   },
   {
    "date": "2026-11-10",
