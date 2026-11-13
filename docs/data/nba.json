@@ -1,12 +1,111 @@
 {
- "updated": "Thu, Nov 12, 2026",
- "date": "2026-11-12",
+ "updated": "Fri, Nov 13, 2026",
+ "date": "2026-11-13",
  "record": {
-  "W": 51,
-  "L": 49
+  "W": 53,
+  "L": 52
  },
  "noPick": null,
  "picks": [
+  {
+   "date": "2026-11-13",
+   "player": "Sidy Cissoko",
+   "prop": "Under 14.5 Pts+Reb+Ast",
+   "odds": "-112",
+   "matchup": "POR Trail Blazers at SAC Kings",
+   "venue": "Golden 1 Center",
+   "time": "10:00 PM ET",
+   "result": null,
+   "detail": null,
+   "fliff": {
+    "line": 14.5,
+    "price": -125
+   },
+   "best": {
+    "book": "DraftKings",
+    "line": 14.5,
+    "price": -112
+   },
+   "oddsAt": "12:04 PM ET"
+  },
+  {
+   "date": "2026-11-13",
+   "player": "Ivica Zubac",
+   "prop": "Under 25.5 Pts+Reb+Ast",
+   "odds": "-119",
+   "matchup": "NY Knicks at IND Pacers",
+   "venue": "Gainbridge Fieldhouse",
+   "time": "7:00 PM ET",
+   "result": null,
+   "detail": null,
+   "fliff": {
+    "line": 25.5,
+    "price": -120
+   },
+   "best": {
+    "book": "BetRivers",
+    "line": 25.5,
+    "price": -110
+   },
+   "oddsAt": "12:04 PM ET"
+  },
+  {
+   "date": "2026-11-13",
+   "player": "Jeremiah Fears",
+   "prop": "Under 28.5 Pts+Reb+Ast",
+   "odds": "-122",
+   "matchup": "MEM Grizzlies at NO Pelicans",
+   "venue": "Smoothie King Center",
+   "time": "8:00 PM ET",
+   "result": null,
+   "detail": null,
+   "fliff": null,
+   "best": {
+    "book": "Hard Rock",
+    "line": 28.5,
+    "price": -120
+   },
+   "oddsAt": "12:04 PM ET"
+  },
+  {
+   "date": "2026-11-13",
+   "player": "Franz Wagner",
+   "prop": "Under 39.5 Pts+Reb+Ast",
+   "odds": "-115",
+   "matchup": "MIL Bucks at ORL Magic",
+   "venue": "Kia Center",
+   "time": "7:00 PM ET",
+   "result": null,
+   "detail": null,
+   "fliff": null,
+   "best": {
+    "book": "BetRivers",
+    "line": 39.5,
+    "price": -110
+   },
+   "oddsAt": "12:04 PM ET"
+  },
+  {
+   "date": "2026-11-13",
+   "player": "Dylan Harper",
+   "prop": "Under 27.5 Pts+Reb+Ast",
+   "odds": "-116",
+   "matchup": "GS Warriors at SA Spurs",
+   "venue": "Frost Bank Center",
+   "time": "9:30 PM ET",
+   "result": null,
+   "detail": null,
+   "fliff": {
+    "line": 27.5,
+    "price": -130
+   },
+   "best": {
+    "book": "DraftKings",
+    "line": 27.5,
+    "price": -116
+   },
+   "oddsAt": "12:04 PM ET"
+  },
   {
    "date": "2026-11-12",
    "player": "Naz Reid",
@@ -15,18 +114,8 @@
    "matchup": "CHA Hornets at PHX Suns",
    "venue": "Mortgage Matchup Center",
    "time": "9:00 PM ET",
-   "result": null,
-   "detail": null,
-   "fliff": {
-    "line": 28.5,
-    "price": -120
-   },
-   "best": {
-    "book": "DraftKings",
-    "line": 28.5,
-    "price": -107
-   },
-   "oddsAt": "4:06 PM ET"
+   "result": "W",
+   "detail": "24 pts+reb (34 min; PHX 101 CHA 96)"
   },
   {
    "date": "2026-11-12",
@@ -36,18 +125,8 @@
    "matchup": "DAL Mavericks at MIN Timberwolves",
    "venue": "Target Center",
    "time": "8:00 PM ET",
-   "result": null,
-   "detail": null,
-   "fliff": {
-    "line": 37.5,
-    "price": -130
-   },
-   "best": {
-    "book": "DraftKings",
-    "line": 37.5,
-    "price": -113
-   },
-   "oddsAt": "4:06 PM ET"
+   "result": "W",
+   "detail": "22 pts+reb+ast (27 min; MIN 133 DAL 94)"
   },
   {
    "date": "2026-11-12",
@@ -57,18 +136,8 @@
    "matchup": "DET Pistons at WSH Wizards",
    "venue": "Capital One Arena",
    "time": "7:00 PM ET",
-   "result": null,
-   "detail": null,
-   "fliff": {
-    "line": 14.5,
-    "price": -105
-   },
-   "best": {
-    "book": "ESPN BET",
-    "line": 14.5,
-    "price": 100
-   },
-   "oddsAt": "4:06 PM ET"
+   "result": "L",
+   "detail": "28 pts+ast (43 min; WSH 140 DET 144)"
   },
   {
    "date": "2026-11-12",
@@ -78,18 +147,8 @@
    "matchup": "CHA Hornets at PHX Suns",
    "venue": "Mortgage Matchup Center",
    "time": "9:00 PM ET",
-   "result": null,
-   "detail": null,
-   "fliff": {
-    "line": 24.5,
-    "price": -115
-   },
-   "best": {
-    "book": "DraftKings",
-    "line": 24.5,
-    "price": -105
-   },
-   "oddsAt": "4:06 PM ET"
+   "result": "L",
+   "detail": "30 points (35 min; PHX 101 CHA 96)"
   },
   {
    "date": "2026-11-12",
@@ -99,18 +158,8 @@
    "matchup": "TOR Raptors at PHI 76ers",
    "venue": "Xfinity Mobile Arena",
    "time": "7:00 PM ET",
-   "result": null,
-   "detail": null,
-   "fliff": {
-    "line": 9.5,
-    "price": -110
-   },
-   "best": {
-    "book": "DraftKings",
-    "line": 9.5,
-    "price": 101
-   },
-   "oddsAt": "4:06 PM ET"
+   "result": "L",
+   "detail": "10 reb+ast (35 min; PHI 123 TOR 112)"
   },
   {
    "date": "2026-11-11",

@@ -1,11 +1,11 @@
 {
- "updated": "Thu, Nov 12, 2026",
- "date": "2026-11-12",
+ "updated": "Fri, Nov 13, 2026",
+ "date": "2026-11-13",
  "record": {
-  "W": 46,
+  "W": 47,
   "L": 21
  },
- "noPick": null,
+ "noPick": "2-game slate · NYR at VAN 9:00 PM ET · NSH at VGK 10:00 PM ET",
  "picks": [
   {
    "date": "2026-11-12",
@@ -15,15 +15,8 @@
    "matchup": "STL Blues at UTA Mammoth",
    "venue": "Delta Center",
    "time": "9:00 PM ET",
-   "result": null,
-   "detail": null,
-   "fliff": null,
-   "best": {
-    "book": "BetMGM",
-    "line": 2.5,
-    "price": -140
-   },
-   "oddsAt": "4:06 PM ET"
+   "result": "V",
+   "detail": "did not play"
   },
   {
    "date": "2026-11-12",
@@ -33,8 +26,8 @@
    "matchup": "NYI Islanders at LAK Kings",
    "venue": "Crypto.com Arena",
    "time": "10:00 PM ET",
-   "result": null,
-   "detail": null
+   "result": "W",
+   "detail": "0 ast (12:19 TOI; NYI 5-2 LAK)"
   },
   {
    "date": "2026-11-11",
