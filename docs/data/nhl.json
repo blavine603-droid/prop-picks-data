@@ -1,12 +1,70 @@
 {
- "updated": "Fri, Nov 13, 2026",
- "date": "2026-11-13",
+ "updated": "Sat, Nov 14, 2026",
+ "date": "2026-11-14",
  "record": {
   "W": 47,
   "L": 21
  },
- "noPick": "2-game slate · NYR at VAN 9:00 PM ET · NSH at VGK 10:00 PM ET",
+ "noPick": null,
  "picks": [
+  {
+   "date": "2026-11-14",
+   "player": "Thomas Harley",
+   "prop": "Under 2.5 Shots on Goal",
+   "odds": "-140",
+   "matchup": "BUF Sabres at DAL Stars",
+   "venue": "American Airlines Center",
+   "time": "8:00 PM ET",
+   "result": null,
+   "detail": null,
+   "fliff": null,
+   "best": {
+    "book": "Hard Rock",
+    "line": 2.5,
+    "price": -115
+   },
+   "oddsAt": "12:05 PM ET"
+  },
+  {
+   "date": "2026-11-14",
+   "player": "Marco Kasper",
+   "prop": "Under 0.5 Assists",
+   "odds": "-385",
+   "matchup": "DET Red Wings at TBL Lightning",
+   "venue": "Benchmark International Arena",
+   "time": "7:00 PM ET",
+   "result": null,
+   "detail": null
+  },
+  {
+   "date": "2026-11-14",
+   "player": "Leon Draisaitl",
+   "prop": "Over 1.5 Points",
+   "odds": "+105",
+   "matchup": "EDM Oilers at TOR Maple Leafs",
+   "venue": "Scotiabank Arena",
+   "time": "7:00 PM ET",
+   "result": null,
+   "detail": null,
+   "fliff": null,
+   "best": {
+    "book": "BetMGM",
+    "line": 1.5,
+    "price": 110
+   },
+   "oddsAt": "12:05 PM ET"
+  },
+  {
+   "date": "2026-11-14",
+   "player": "Logan Mailloux",
+   "prop": "Under 0.5 Assists",
+   "odds": "-385",
+   "matchup": "FLA Panthers at STL Blues",
+   "venue": "Enterprise Center",
+   "time": "7:00 PM ET",
+   "result": null,
+   "detail": null
+  },
   {
    "date": "2026-11-12",
    "player": "Nick Schmaltz",

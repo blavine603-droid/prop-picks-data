@@ -1,12 +1,107 @@
 {
- "updated": "Fri, Nov 13, 2026",
- "date": "2026-11-13",
+ "updated": "Sat, Nov 14, 2026",
+ "date": "2026-11-14",
  "record": {
-  "W": 53,
-  "L": 52
+  "W": 55,
+  "L": 55
  },
  "noPick": null,
  "picks": [
+  {
+   "date": "2026-11-14",
+   "player": "Jeremiah Fears",
+   "prop": "Under 10.5 Reb+Ast",
+   "odds": "+102",
+   "matchup": "DEN Nuggets at NO Pelicans",
+   "venue": "Smoothie King Center",
+   "time": "7:00 PM ET",
+   "result": null,
+   "detail": null,
+   "fliff": {
+    "line": 10.5,
+    "price": -110
+   },
+   "best": {
+    "book": "FanDuel",
+    "line": 10.5,
+    "price": 100
+   },
+   "oddsAt": "12:05 PM ET"
+  },
+  {
+   "date": "2026-11-14",
+   "player": "Nic Claxton",
+   "prop": "Over 15.5 Pts+Reb+Ast",
+   "odds": "-103",
+   "matchup": "CHI Bulls at MIN Timberwolves",
+   "venue": "Target Center",
+   "time": "8:00 PM ET",
+   "result": null,
+   "detail": null,
+   "fliff": {
+    "line": 14.5,
+    "price": -140
+   },
+   "best": {
+    "book": "FanDuel",
+    "line": 15.5,
+    "price": -102
+   },
+   "oddsAt": "12:05 PM ET"
+  },
+  {
+   "date": "2026-11-14",
+   "player": "Zaccharie Risacher",
+   "prop": "Over 10.5 Pts+Reb+Ast",
+   "odds": "+105",
+   "matchup": "DAL Mavericks at CLE Cavaliers",
+   "venue": "Rocket Arena",
+   "time": "7:30 PM ET",
+   "result": null,
+   "detail": null
+  },
+  {
+   "date": "2026-11-14",
+   "player": "Donovan Mitchell",
+   "prop": "Over 5.5 Assists",
+   "odds": "+100",
+   "matchup": "DAL Mavericks at CLE Cavaliers",
+   "venue": "Rocket Arena",
+   "time": "7:30 PM ET",
+   "result": null,
+   "detail": null,
+   "fliff": {
+    "line": 5.5,
+    "price": -105
+   },
+   "best": {
+    "book": "FanDuel",
+    "line": 5.5,
+    "price": 104
+   },
+   "oddsAt": "12:05 PM ET"
+  },
+  {
+   "date": "2026-11-14",
+   "player": "DeMar DeRozan",
+   "prop": "Over 10.5 Points",
+   "odds": "-106",
+   "matchup": "DEN Nuggets at NO Pelicans",
+   "venue": "Smoothie King Center",
+   "time": "7:00 PM ET",
+   "result": null,
+   "detail": null,
+   "fliff": {
+    "line": 10.5,
+    "price": -110
+   },
+   "best": {
+    "book": "FanDuel",
+    "line": 10.5,
+    "price": -102
+   },
+   "oddsAt": "12:05 PM ET"
+  },
   {
    "date": "2026-11-13",
    "player": "Sidy Cissoko",
@@ -15,18 +110,8 @@
    "matchup": "POR Trail Blazers at SAC Kings",
    "venue": "Golden 1 Center",
    "time": "10:00 PM ET",
-   "result": null,
-   "detail": null,
-   "fliff": {
-    "line": 14.5,
-    "price": -125
-   },
-   "best": {
-    "book": "DraftKings",
-    "line": 14.5,
-    "price": -112
-   },
-   "oddsAt": "12:04 PM ET"
+   "result": "W",
+   "detail": "8 pts+reb+ast (26 min; SAC 107 POR 120)"
   },
   {
    "date": "2026-11-13",
@@ -36,18 +121,8 @@
    "matchup": "NY Knicks at IND Pacers",
    "venue": "Gainbridge Fieldhouse",
    "time": "7:00 PM ET",
-   "result": null,
-   "detail": null,
-   "fliff": {
-    "line": 25.5,
-    "price": -120
-   },
-   "best": {
-    "book": "BetRivers",
-    "line": 25.5,
-    "price": -110
-   },
-   "oddsAt": "12:04 PM ET"
+   "result": "L",
+   "detail": "26 pts+reb+ast (26 min; IND 106 NY 104)"
   },
   {
    "date": "2026-11-13",
@@ -57,15 +132,8 @@
    "matchup": "MEM Grizzlies at NO Pelicans",
    "venue": "Smoothie King Center",
    "time": "8:00 PM ET",
-   "result": null,
-   "detail": null,
-   "fliff": null,
-   "best": {
-    "book": "Hard Rock",
-    "line": 28.5,
-    "price": -120
-   },
-   "oddsAt": "12:04 PM ET"
+   "result": "L",
+   "detail": "30 pts+reb+ast (34 min; NO 111 MEM 142)"
   },
   {
    "date": "2026-11-13",
@@ -75,15 +143,8 @@
    "matchup": "MIL Bucks at ORL Magic",
    "venue": "Kia Center",
    "time": "7:00 PM ET",
-   "result": null,
-   "detail": null,
-   "fliff": null,
-   "best": {
-    "book": "BetRivers",
-    "line": 39.5,
-    "price": -110
-   },
-   "oddsAt": "12:04 PM ET"
+   "result": "L",
+   "detail": "56 pts+reb+ast (36 min; ORL 107 MIL 99)"
   },
   {
    "date": "2026-11-13",
@@ -93,18 +154,8 @@
    "matchup": "GS Warriors at SA Spurs",
    "venue": "Frost Bank Center",
    "time": "9:30 PM ET",
-   "result": null,
-   "detail": null,
-   "fliff": {
-    "line": 27.5,
-    "price": -130
-   },
-   "best": {
-    "book": "DraftKings",
-    "line": 27.5,
-    "price": -116
-   },
-   "oddsAt": "12:04 PM ET"
+   "result": "W",
+   "detail": "16 pts+reb+ast (25 min; SA 123 GS 85)"
   },
   {
    "date": "2026-11-12",
