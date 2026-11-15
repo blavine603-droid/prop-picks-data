@@ -1,12 +1,30 @@
 {
- "updated": "Sat, Nov 14, 2026",
- "date": "2026-11-14",
+ "updated": "Sun, Nov 15, 2026",
+ "date": "2026-11-15",
  "record": {
-  "W": 47,
-  "L": 21
+  "W": 49,
+  "L": 23
  },
  "noPick": null,
  "picks": [
+  {
+   "date": "2026-11-15",
+   "player": "Thomas Harley",
+   "prop": "Under 2.5 Shots on Goal",
+   "odds": "-135",
+   "matchup": "FLA Panthers at DAL Stars",
+   "venue": "American Airlines Center",
+   "time": "8:00 PM ET",
+   "result": null,
+   "detail": null,
+   "fliff": null,
+   "best": {
+    "book": "FanDuel",
+    "line": 2.5,
+    "price": -174
+   },
+   "oddsAt": "12:04 PM ET"
+  },
   {
    "date": "2026-11-14",
    "player": "Thomas Harley",
@@ -15,15 +33,8 @@
    "matchup": "BUF Sabres at DAL Stars",
    "venue": "American Airlines Center",
    "time": "8:00 PM ET",
-   "result": null,
-   "detail": null,
-   "fliff": null,
-   "best": {
-    "book": "Hard Rock",
-    "line": 2.5,
-    "price": -115
-   },
-   "oddsAt": "12:05 PM ET"
+   "result": "W",
+   "detail": "0 SOG (28:01 TOI; BUF 0-2 DAL)"
   },
   {
    "date": "2026-11-14",
@@ -33,8 +44,8 @@
    "matchup": "DET Red Wings at TBL Lightning",
    "venue": "Benchmark International Arena",
    "time": "7:00 PM ET",
-   "result": null,
-   "detail": null
+   "result": "W",
+   "detail": "0 ast (19:32 TOI; DET 2-0 TBL)"
   },
   {
    "date": "2026-11-14",
@@ -44,15 +55,8 @@
    "matchup": "EDM Oilers at TOR Maple Leafs",
    "venue": "Scotiabank Arena",
    "time": "7:00 PM ET",
-   "result": null,
-   "detail": null,
-   "fliff": null,
-   "best": {
-    "book": "BetMGM",
-    "line": 1.5,
-    "price": 110
-   },
-   "oddsAt": "12:05 PM ET"
+   "result": "L",
+   "detail": "1 pts (21:26 TOI; EDM 1-0 TOR)"
   },
   {
    "date": "2026-11-14",
@@ -62,8 +66,8 @@
    "matchup": "FLA Panthers at STL Blues",
    "venue": "Enterprise Center",
    "time": "7:00 PM ET",
-   "result": null,
-   "detail": null
+   "result": "L",
+   "detail": "1 ast (19:51 TOI; FLA 4-1 STL)"
   },
   {
    "date": "2026-11-12",
