@@ -1,12 +1,33 @@
 {
- "updated": "Sun, Nov 15, 2026",
- "date": "2026-11-15",
+ "updated": "Mon, Nov 16, 2026",
+ "date": "2026-11-16",
  "record": {
   "W": 49,
-  "L": 23
+  "L": 24
  },
  "noPick": null,
  "picks": [
+  {
+   "date": "2026-11-16",
+   "player": "Vincent Trocheck",
+   "prop": "Under 2.5 Shots on Goal",
+   "odds": "-160",
+   "matchup": "VAN Canucks at UTA Mammoth",
+   "venue": "Delta Center",
+   "time": "9:30 PM ET",
+   "result": null,
+   "detail": null,
+   "fliff": {
+    "line": 2.5,
+    "price": -165
+   },
+   "best": {
+    "book": "Hard Rock",
+    "line": 2.5,
+    "price": -135
+   },
+   "oddsAt": "12:04 PM ET"
+  },
   {
    "date": "2026-11-15",
    "player": "Thomas Harley",
@@ -15,15 +36,8 @@
    "matchup": "FLA Panthers at DAL Stars",
    "venue": "American Airlines Center",
    "time": "8:00 PM ET",
-   "result": null,
-   "detail": null,
-   "fliff": null,
-   "best": {
-    "book": "FanDuel",
-    "line": 2.5,
-    "price": -174
-   },
-   "oddsAt": "12:04 PM ET"
+   "result": "L",
+   "detail": "3 SOG (30:54 TOI; FLA 1-2 DAL)"
   },
   {
    "date": "2026-11-14",
