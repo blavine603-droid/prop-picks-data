@@ -10,107 +10,57 @@
   {
    "date": "2026-11-17",
    "player": "Terrence Shannon",
-   "prop": "Under 22.5 Pts+Reb+Ast",
-   "odds": "-126",
+   "prop": "Under 21.5 Pts+Reb+Ast",
+   "odds": "-106",
    "matchup": "POR Trail Blazers at MIN Timberwolves",
    "venue": "Target Center",
    "time": "8:00 PM ET",
    "result": null,
-   "detail": null,
-   "fliff": {
-    "line": 21.5,
-    "price": -115
-   },
-   "best": {
-    "book": "DraftKings",
-    "line": 22.5,
-    "price": -127
-   },
-   "oddsAt": "12:05 PM ET"
-  },
-  {
-   "date": "2026-11-17",
-   "player": "Scottie Barnes",
-   "prop": "Under 34.5 Pts+Reb+Ast",
-   "odds": "-119",
-   "matchup": "NY Knicks at TOR Raptors",
-   "venue": "Scotiabank Arena",
-   "time": "7:30 PM ET",
-   "result": null,
-   "detail": null,
-   "fliff": {
-    "line": 34.5,
-    "price": -125
-   },
-   "best": {
-    "book": "BetRivers",
-    "line": 34.5,
-    "price": -112
-   },
-   "oddsAt": "12:05 PM ET"
+   "detail": null
   },
   {
    "date": "2026-11-17",
    "player": "Dylan Harper",
-   "prop": "Under 26.5 Pts+Reb+Ast",
-   "odds": "-111",
+   "prop": "Under 25.5 Pts+Reb+Ast",
+   "odds": "-106",
    "matchup": "DET Pistons at SA Spurs",
    "venue": "Frost Bank Center",
    "time": "8:00 PM ET",
    "result": null,
-   "detail": null,
-   "fliff": {
-    "line": 26.5,
-    "price": -125
-   },
-   "best": {
-    "book": "DraftKings",
-    "line": 26.5,
-    "price": -108
-   },
-   "oddsAt": "12:05 PM ET"
+   "detail": null
+  },
+  {
+   "date": "2026-11-17",
+   "player": "Scottie Barnes",
+   "prop": "Under 33.5 Pts+Reb+Ast",
+   "odds": "-121",
+   "matchup": "NY Knicks at TOR Raptors",
+   "venue": "Scotiabank Arena",
+   "time": "7:30 PM ET",
+   "result": null,
+   "detail": null
   },
   {
    "date": "2026-11-17",
    "player": "Sandro Mamukelashvili",
-   "prop": "Under 22.5 Pts+Reb+Ast",
-   "odds": "-110",
+   "prop": "Under 21.5 Pts+Reb+Ast",
+   "odds": "-109",
    "matchup": "CHA Hornets at LAL Lakers",
    "venue": "crypto.com Arena",
    "time": "11:00 PM ET",
    "result": null,
-   "detail": null,
-   "fliff": {
-    "line": 22.5,
-    "price": -115
-   },
-   "best": {
-    "book": "ESPN BET",
-    "line": 22.5,
-    "price": -110
-   },
-   "oddsAt": "12:05 PM ET"
+   "detail": null
   },
   {
    "date": "2026-11-17",
-   "player": "Deni Avdija",
-   "prop": "Under 24.5 Points",
-   "odds": "-111",
-   "matchup": "POR Trail Blazers at MIN Timberwolves",
-   "venue": "Target Center",
-   "time": "8:00 PM ET",
+   "player": "Naz Reid",
+   "prop": "Under 27.5 Pts+Reb+Ast",
+   "odds": "-115",
+   "matchup": "CHA Hornets at LAL Lakers",
+   "venue": "crypto.com Arena",
+   "time": "11:00 PM ET",
    "result": null,
-   "detail": null,
-   "fliff": {
-    "line": 24.5,
-    "price": -125
-   },
-   "best": {
-    "book": "Hard Rock",
-    "line": 24.5,
-    "price": -115
-   },
-   "oddsAt": "12:05 PM ET"
+   "detail": null
   },
   {
    "date": "2026-11-16",
