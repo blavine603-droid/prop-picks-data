@@ -1,12 +1,65 @@
 {
- "updated": "Mon, Nov 16, 2026",
- "date": "2026-11-16",
+ "updated": "Tue, Nov 17, 2026",
+ "date": "2026-11-17",
  "record": {
   "W": 49,
-  "L": 24
+  "L": 25
  },
  "noPick": null,
  "picks": [
+  {
+   "date": "2026-11-17",
+   "player": "Ross Colton",
+   "prop": "Over 1.5 Shots on Goal",
+   "odds": "+115",
+   "matchup": "NSH Predators at MIN Wild",
+   "venue": "Grand Casino Arena",
+   "time": "8:00 PM ET",
+   "result": null,
+   "detail": null,
+   "fliff": {
+    "line": 1.5,
+    "price": 105
+   },
+   "best": {
+    "book": "DraftKings",
+    "line": 1.5,
+    "price": 115
+   },
+   "oddsAt": "12:05 PM ET"
+  },
+  {
+   "date": "2026-11-17",
+   "player": "Anton Lundell",
+   "prop": "Under 2.5 Shots on Goal",
+   "odds": "-130",
+   "matchup": "EDM Oilers at FLA Panthers",
+   "venue": "Amerant Bank Arena",
+   "time": "7:00 PM ET",
+   "result": null,
+   "detail": null,
+   "fliff": {
+    "line": 2.5,
+    "price": -160
+   },
+   "best": {
+    "book": "DraftKings",
+    "line": 2.5,
+    "price": -140
+   },
+   "oddsAt": "12:05 PM ET"
+  },
+  {
+   "date": "2026-11-17",
+   "player": "Ian Moore",
+   "prop": "Under 0.5 Assists",
+   "odds": "-360",
+   "matchup": "ANA Ducks at STL Blues",
+   "venue": "Enterprise Center",
+   "time": "8:00 PM ET",
+   "result": null,
+   "detail": null
+  },
   {
    "date": "2026-11-16",
    "player": "Vincent Trocheck",
@@ -15,18 +68,8 @@
    "matchup": "VAN Canucks at UTA Mammoth",
    "venue": "Delta Center",
    "time": "9:30 PM ET",
-   "result": null,
-   "detail": null,
-   "fliff": {
-    "line": 2.5,
-    "price": -165
-   },
-   "best": {
-    "book": "Hard Rock",
-    "line": 2.5,
-    "price": -135
-   },
-   "oddsAt": "12:04 PM ET"
+   "result": "L",
+   "detail": "4 SOG (22:24 TOI; VAN 3-2 UTA)"
   },
   {
    "date": "2026-11-15",

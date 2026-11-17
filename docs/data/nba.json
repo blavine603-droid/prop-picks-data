@@ -1,12 +1,117 @@
 {
- "updated": "Mon, Nov 16, 2026",
- "date": "2026-11-16",
+ "updated": "Tue, Nov 17, 2026",
+ "date": "2026-11-17",
  "record": {
-  "W": 59,
-  "L": 60
+  "W": 60,
+  "L": 63
  },
  "noPick": null,
  "picks": [
+  {
+   "date": "2026-11-17",
+   "player": "Terrence Shannon",
+   "prop": "Under 22.5 Pts+Reb+Ast",
+   "odds": "-126",
+   "matchup": "POR Trail Blazers at MIN Timberwolves",
+   "venue": "Target Center",
+   "time": "8:00 PM ET",
+   "result": null,
+   "detail": null,
+   "fliff": {
+    "line": 21.5,
+    "price": -115
+   },
+   "best": {
+    "book": "DraftKings",
+    "line": 22.5,
+    "price": -127
+   },
+   "oddsAt": "12:05 PM ET"
+  },
+  {
+   "date": "2026-11-17",
+   "player": "Scottie Barnes",
+   "prop": "Under 34.5 Pts+Reb+Ast",
+   "odds": "-119",
+   "matchup": "NY Knicks at TOR Raptors",
+   "venue": "Scotiabank Arena",
+   "time": "7:30 PM ET",
+   "result": null,
+   "detail": null,
+   "fliff": {
+    "line": 34.5,
+    "price": -125
+   },
+   "best": {
+    "book": "BetRivers",
+    "line": 34.5,
+    "price": -112
+   },
+   "oddsAt": "12:05 PM ET"
+  },
+  {
+   "date": "2026-11-17",
+   "player": "Dylan Harper",
+   "prop": "Under 26.5 Pts+Reb+Ast",
+   "odds": "-111",
+   "matchup": "DET Pistons at SA Spurs",
+   "venue": "Frost Bank Center",
+   "time": "8:00 PM ET",
+   "result": null,
+   "detail": null,
+   "fliff": {
+    "line": 26.5,
+    "price": -125
+   },
+   "best": {
+    "book": "DraftKings",
+    "line": 26.5,
+    "price": -108
+   },
+   "oddsAt": "12:05 PM ET"
+  },
+  {
+   "date": "2026-11-17",
+   "player": "Sandro Mamukelashvili",
+   "prop": "Under 22.5 Pts+Reb+Ast",
+   "odds": "-110",
+   "matchup": "CHA Hornets at LAL Lakers",
+   "venue": "crypto.com Arena",
+   "time": "11:00 PM ET",
+   "result": null,
+   "detail": null,
+   "fliff": {
+    "line": 22.5,
+    "price": -115
+   },
+   "best": {
+    "book": "ESPN BET",
+    "line": 22.5,
+    "price": -110
+   },
+   "oddsAt": "12:05 PM ET"
+  },
+  {
+   "date": "2026-11-17",
+   "player": "Deni Avdija",
+   "prop": "Under 24.5 Points",
+   "odds": "-111",
+   "matchup": "POR Trail Blazers at MIN Timberwolves",
+   "venue": "Target Center",
+   "time": "8:00 PM ET",
+   "result": null,
+   "detail": null,
+   "fliff": {
+    "line": 24.5,
+    "price": -125
+   },
+   "best": {
+    "book": "Hard Rock",
+    "line": 24.5,
+    "price": -115
+   },
+   "oddsAt": "12:05 PM ET"
+  },
   {
    "date": "2026-11-16",
    "player": "Cam Spencer",
@@ -15,18 +120,8 @@
    "matchup": "MEM Grizzlies at WSH Wizards",
    "venue": "Capital One Arena",
    "time": "7:00 PM ET",
-   "result": null,
-   "detail": null,
-   "fliff": {
-    "line": 23.5,
-    "price": -120
-   },
-   "best": {
-    "book": "DraftKings",
-    "line": 23.5,
-    "price": -105
-   },
-   "oddsAt": "12:04 PM ET"
+   "result": "L",
+   "detail": "27 pts+reb+ast (32 min; WSH 120 MEM 136)"
   },
   {
    "date": "2026-11-16",
@@ -36,18 +131,8 @@
    "matchup": "GS Warriors at NO Pelicans",
    "venue": "Smoothie King Center",
    "time": "8:00 PM ET",
-   "result": null,
-   "detail": null,
-   "fliff": {
-    "line": 5.5,
-    "price": 110
-   },
-   "best": {
-    "book": "BetMGM",
-    "line": 5.5,
-    "price": 115
-   },
-   "oddsAt": "12:04 PM ET"
+   "result": "L",
+   "detail": "10 assists (29 min; NO 115 GS 94)"
   },
   {
    "date": "2026-11-16",
@@ -57,18 +142,8 @@
    "matchup": "ORL Magic at BOS Celtics",
    "venue": "TD Garden",
    "time": "7:00 PM ET",
-   "result": null,
-   "detail": null,
-   "fliff": {
-    "line": 15.5,
-    "price": -125
-   },
-   "best": {
-    "book": "BetRivers",
-    "line": 15.5,
-    "price": -104
-   },
-   "oddsAt": "12:04 PM ET"
+   "result": "W",
+   "detail": "22 pts+reb+ast (25 min; BOS 105 ORL 115)"
   },
   {
    "date": "2026-11-16",
@@ -78,18 +153,8 @@
    "matchup": "GS Warriors at NO Pelicans",
    "venue": "Smoothie King Center",
    "time": "8:00 PM ET",
-   "result": null,
-   "detail": null,
-   "fliff": {
-    "line": 7.5,
-    "price": -135
-   },
-   "best": {
-    "book": "ESPN BET",
-    "line": 7.5,
-    "price": -120
-   },
-   "oddsAt": "12:04 PM ET"
+   "result": "L",
+   "detail": "11 points (23 min; NO 115 GS 94)"
   },
   {
    "date": "2026-11-16",
@@ -99,18 +164,8 @@
    "matchup": "HOU Rockets at MIA Heat",
    "venue": "Kaseya Center",
    "time": "7:30 PM ET",
-   "result": null,
-   "detail": null,
-   "fliff": {
-    "line": 10.5,
-    "price": -130
-   },
-   "best": {
-    "book": "BetMGM",
-    "line": 10.5,
-    "price": -105
-   },
-   "oddsAt": "12:04 PM ET"
+   "result": "V",
+   "detail": "did not play"
   },
   {
    "date": "2026-11-15",
