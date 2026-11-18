@@ -1,12 +1,117 @@
 {
- "updated": "Tue, Nov 17, 2026",
- "date": "2026-11-17",
+ "updated": "Wed, Nov 18, 2026",
+ "date": "2026-11-18",
  "record": {
-  "W": 60,
-  "L": 63
+  "W": 62,
+  "L": 65
  },
  "noPick": null,
  "picks": [
+  {
+   "date": "2026-11-18",
+   "player": "Yves Missi",
+   "prop": "Under 17.5 Pts+Reb+Ast",
+   "odds": "-106",
+   "matchup": "DET Pistons at NO Pelicans",
+   "venue": "Smoothie King Center",
+   "time": "8:00 PM ET",
+   "result": null,
+   "detail": null,
+   "fliff": {
+    "line": 17.5,
+    "price": -115
+   },
+   "best": {
+    "book": "DraftKings",
+    "line": 17.5,
+    "price": -111
+   },
+   "oddsAt": "12:03 PM ET"
+  },
+  {
+   "date": "2026-11-18",
+   "player": "Cam Spencer",
+   "prop": "Under 24.5 Pts+Reb+Ast",
+   "odds": "-108",
+   "matchup": "MEM Grizzlies at CLE Cavaliers",
+   "venue": "Rocket Arena",
+   "time": "7:00 PM ET",
+   "result": null,
+   "detail": null,
+   "fliff": {
+    "line": 24.5,
+    "price": -115
+   },
+   "best": {
+    "book": "ESPN BET",
+    "line": 24.5,
+    "price": -105
+   },
+   "oddsAt": "12:03 PM ET"
+  },
+  {
+   "date": "2026-11-18",
+   "player": "Luka Doncic",
+   "prop": "Over 1.5 Steals",
+   "odds": "+140",
+   "matchup": "UTAH Jazz at LAL Lakers",
+   "venue": "crypto.com Arena",
+   "time": "10:00 PM ET",
+   "result": null,
+   "detail": null,
+   "fliff": {
+    "line": 1.5,
+    "price": 130
+   },
+   "best": {
+    "book": "FanDuel",
+    "line": 1.5,
+    "price": 140
+   },
+   "oddsAt": "12:03 PM ET"
+  },
+  {
+   "date": "2026-11-18",
+   "player": "Ryan Rollins",
+   "prop": "Over 11.5 Points",
+   "odds": "-104",
+   "matchup": "MIL Bucks at MIA Heat",
+   "venue": "Kaseya Center",
+   "time": "7:00 PM ET",
+   "result": null,
+   "detail": null,
+   "fliff": {
+    "line": 11.5,
+    "price": -110
+   },
+   "best": {
+    "book": "FanDuel",
+    "line": 11.5,
+    "price": -102
+   },
+   "oddsAt": "12:03 PM ET"
+  },
+  {
+   "date": "2026-11-18",
+   "player": "Aaron Wiggins",
+   "prop": "Under 21.5 Pts+Reb+Ast",
+   "odds": "-118",
+   "matchup": "ATL Hawks at OKC Thunder",
+   "venue": "Paycom Center",
+   "time": "8:00 PM ET",
+   "result": null,
+   "detail": null,
+   "fliff": {
+    "line": 20.5,
+    "price": -110
+   },
+   "best": {
+    "book": "DraftKings",
+    "line": 21.5,
+    "price": -118
+   },
+   "oddsAt": "12:03 PM ET"
+  },
   {
    "date": "2026-11-17",
    "player": "Terrence Shannon",
@@ -15,8 +120,8 @@
    "matchup": "POR Trail Blazers at MIN Timberwolves",
    "venue": "Target Center",
    "time": "8:00 PM ET",
-   "result": null,
-   "detail": null
+   "result": "V",
+   "detail": "did not play"
   },
   {
    "date": "2026-11-17",
@@ -26,8 +131,8 @@
    "matchup": "DET Pistons at SA Spurs",
    "venue": "Frost Bank Center",
    "time": "8:00 PM ET",
-   "result": null,
-   "detail": null
+   "result": "L",
+   "detail": "26 pts+reb+ast (35 min; SA 93 DET 105)"
   },
   {
    "date": "2026-11-17",
@@ -37,8 +142,8 @@
    "matchup": "NY Knicks at TOR Raptors",
    "venue": "Scotiabank Arena",
    "time": "7:30 PM ET",
-   "result": null,
-   "detail": null
+   "result": "W",
+   "detail": "26 pts+reb+ast (34 min; TOR 102 NY 111)"
   },
   {
    "date": "2026-11-17",
@@ -48,8 +153,8 @@
    "matchup": "CHA Hornets at LAL Lakers",
    "venue": "crypto.com Arena",
    "time": "11:00 PM ET",
-   "result": null,
-   "detail": null
+   "result": "W",
+   "detail": "8 pts+reb+ast (23 min; LAL 118 CHA 114)"
   },
   {
    "date": "2026-11-17",
@@ -59,8 +164,8 @@
    "matchup": "CHA Hornets at LAL Lakers",
    "venue": "crypto.com Arena",
    "time": "11:00 PM ET",
-   "result": null,
-   "detail": null
+   "result": "L",
+   "detail": "38 pts+reb+ast (42 min; LAL 118 CHA 114)"
   },
   {
    "date": "2026-11-16",

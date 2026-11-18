@@ -1,11 +1,11 @@
 {
- "updated": "Tue, Nov 17, 2026",
- "date": "2026-11-17",
+ "updated": "Wed, Nov 18, 2026",
+ "date": "2026-11-18",
  "record": {
-  "W": 49,
+  "W": 52,
   "L": 25
  },
- "noPick": null,
+ "noPick": "3-game slate: MTL @ NJD, BOS @ DET, COL @ UTA",
  "picks": [
   {
    "date": "2026-11-17",
@@ -15,18 +15,8 @@
    "matchup": "NSH Predators at MIN Wild",
    "venue": "Grand Casino Arena",
    "time": "8:00 PM ET",
-   "result": null,
-   "detail": null,
-   "fliff": {
-    "line": 1.5,
-    "price": 105
-   },
-   "best": {
-    "book": "DraftKings",
-    "line": 1.5,
-    "price": 115
-   },
-   "oddsAt": "12:05 PM ET"
+   "result": "W",
+   "detail": "3 SOG (11:40 TOI; NSH 3-7 MIN)"
   },
   {
    "date": "2026-11-17",
@@ -36,18 +26,8 @@
    "matchup": "EDM Oilers at FLA Panthers",
    "venue": "Amerant Bank Arena",
    "time": "7:00 PM ET",
-   "result": null,
-   "detail": null,
-   "fliff": {
-    "line": 2.5,
-    "price": -160
-   },
-   "best": {
-    "book": "DraftKings",
-    "line": 2.5,
-    "price": -140
-   },
-   "oddsAt": "12:05 PM ET"
+   "result": "W",
+   "detail": "2 SOG (17:44 TOI; EDM 5-2 FLA)"
   },
   {
    "date": "2026-11-17",
@@ -57,8 +37,8 @@
    "matchup": "ANA Ducks at STL Blues",
    "venue": "Enterprise Center",
    "time": "8:00 PM ET",
-   "result": null,
-   "detail": null
+   "result": "W",
+   "detail": "0 ast (16:39 TOI; ANA 6-8 STL)"
   },
   {
    "date": "2026-11-16",
