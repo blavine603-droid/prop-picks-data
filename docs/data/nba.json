@@ -1,12 +1,67 @@
 {
- "updated": "Wed, Nov 18, 2026",
- "date": "2026-11-18",
+ "updated": "Thu, Nov 19, 2026",
+ "date": "2026-11-19",
  "record": {
-  "W": 62,
-  "L": 65
+  "W": 65,
+  "L": 66
  },
  "noPick": null,
  "picks": [
+  {
+   "date": "2026-11-19",
+   "player": "Stephon Castle",
+   "prop": "Under 30.5 Pts+Reb+Ast",
+   "odds": "-111",
+   "matchup": "LAC Clippers at SA Spurs",
+   "venue": "Frost Bank Center",
+   "time": "8:00 PM ET",
+   "result": null,
+   "detail": null
+  },
+  {
+   "date": "2026-11-19",
+   "player": "Sidy Cissoko",
+   "prop": "Under 7.5 Points",
+   "odds": "-105",
+   "matchup": "POR Trail Blazers at MIL Bucks",
+   "venue": "Fiserv Forum",
+   "time": "8:00 PM ET",
+   "result": null,
+   "detail": null
+  },
+  {
+   "date": "2026-11-19",
+   "player": "Kris Dunn",
+   "prop": "Over 6.5 Reb+Ast",
+   "odds": "-110",
+   "matchup": "LAC Clippers at SA Spurs",
+   "venue": "Frost Bank Center",
+   "time": "8:00 PM ET",
+   "result": null,
+   "detail": null
+  },
+  {
+   "date": "2026-11-19",
+   "player": "Jaime Jaquez",
+   "prop": "Over 4.5 Rebounds",
+   "odds": "+112",
+   "matchup": "POR Trail Blazers at MIL Bucks",
+   "venue": "Fiserv Forum",
+   "time": "8:00 PM ET",
+   "result": null,
+   "detail": null
+  },
+  {
+   "date": "2026-11-19",
+   "player": "Gui Santos",
+   "prop": "Over 7.5 Points",
+   "odds": "-122",
+   "matchup": "GS Warriors at MEM Grizzlies",
+   "venue": "FedExForum",
+   "time": "8:00 PM ET",
+   "result": null,
+   "detail": null
+  },
   {
    "date": "2026-11-18",
    "player": "Yves Missi",
@@ -15,18 +70,8 @@
    "matchup": "DET Pistons at NO Pelicans",
    "venue": "Smoothie King Center",
    "time": "8:00 PM ET",
-   "result": null,
-   "detail": null,
-   "fliff": {
-    "line": 17.5,
-    "price": -115
-   },
-   "best": {
-    "book": "DraftKings",
-    "line": 17.5,
-    "price": -111
-   },
-   "oddsAt": "12:03 PM ET"
+   "result": "W",
+   "detail": "11 pts+reb+ast (17 min; NO 109 DET 122)"
   },
   {
    "date": "2026-11-18",
@@ -36,18 +81,8 @@
    "matchup": "MEM Grizzlies at CLE Cavaliers",
    "venue": "Rocket Arena",
    "time": "7:00 PM ET",
-   "result": null,
-   "detail": null,
-   "fliff": {
-    "line": 24.5,
-    "price": -115
-   },
-   "best": {
-    "book": "ESPN BET",
-    "line": 24.5,
-    "price": -105
-   },
-   "oddsAt": "12:03 PM ET"
+   "result": "L",
+   "detail": "34 pts+reb+ast (29 min; CLE 121 MEM 124)"
   },
   {
    "date": "2026-11-18",
@@ -57,18 +92,8 @@
    "matchup": "UTAH Jazz at LAL Lakers",
    "venue": "crypto.com Arena",
    "time": "10:00 PM ET",
-   "result": null,
-   "detail": null,
-   "fliff": {
-    "line": 1.5,
-    "price": 130
-   },
-   "best": {
-    "book": "FanDuel",
-    "line": 1.5,
-    "price": 140
-   },
-   "oddsAt": "12:03 PM ET"
+   "result": "W",
+   "detail": "2 steals (37 min; LAL 97 UTAH 109)"
   },
   {
    "date": "2026-11-18",
@@ -78,18 +103,8 @@
    "matchup": "MIL Bucks at MIA Heat",
    "venue": "Kaseya Center",
    "time": "7:00 PM ET",
-   "result": null,
-   "detail": null,
-   "fliff": {
-    "line": 11.5,
-    "price": -110
-   },
-   "best": {
-    "book": "FanDuel",
-    "line": 11.5,
-    "price": -102
-   },
-   "oddsAt": "12:03 PM ET"
+   "result": "V",
+   "detail": "did not play"
   },
   {
    "date": "2026-11-18",
@@ -99,18 +114,8 @@
    "matchup": "ATL Hawks at OKC Thunder",
    "venue": "Paycom Center",
    "time": "8:00 PM ET",
-   "result": null,
-   "detail": null,
-   "fliff": {
-    "line": 20.5,
-    "price": -110
-   },
-   "best": {
-    "book": "DraftKings",
-    "line": 21.5,
-    "price": -118
-   },
-   "oddsAt": "12:03 PM ET"
+   "result": "W",
+   "detail": "18 pts+reb+ast (26 min; OKC 112 ATL 117)"
   },
   {
    "date": "2026-11-17",
