@@ -16,7 +16,14 @@
    "venue": "Canada Life Centre",
    "time": "7:00 PM ET",
    "result": null,
-   "detail": null
+   "detail": null,
+   "fliff": null,
+   "best": {
+    "book": "DraftKings",
+    "line": 0.5,
+    "price": -110
+   },
+   "oddsAt": "11:56 AM ET"
   },
   {
    "date": "2026-11-19",

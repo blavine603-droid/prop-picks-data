@@ -16,7 +16,17 @@
    "venue": "Frost Bank Center",
    "time": "8:00 PM ET",
    "result": null,
-   "detail": null
+   "detail": null,
+   "fliff": {
+    "line": 30.5,
+    "price": -130
+   },
+   "best": {
+    "book": "DraftKings",
+    "line": 30.5,
+    "price": -111
+   },
+   "oddsAt": "11:57 AM ET"
   },
   {
    "date": "2026-11-19",
@@ -27,7 +37,17 @@
    "venue": "Fiserv Forum",
    "time": "8:00 PM ET",
    "result": null,
-   "detail": null
+   "detail": null,
+   "fliff": {
+    "line": 7.5,
+    "price": -115
+   },
+   "best": {
+    "book": "BetMGM",
+    "line": 7.5,
+    "price": 100
+   },
+   "oddsAt": "11:57 AM ET"
   },
   {
    "date": "2026-11-19",
@@ -38,7 +58,17 @@
    "venue": "Frost Bank Center",
    "time": "8:00 PM ET",
    "result": null,
-   "detail": null
+   "detail": null,
+   "fliff": {
+    "line": 6.5,
+    "price": -115
+   },
+   "best": {
+    "book": "FanDuel",
+    "line": 6.5,
+    "price": -104
+   },
+   "oddsAt": "11:57 AM ET"
   },
   {
    "date": "2026-11-19",
@@ -49,7 +79,17 @@
    "venue": "Fiserv Forum",
    "time": "8:00 PM ET",
    "result": null,
-   "detail": null
+   "detail": null,
+   "fliff": {
+    "line": 4.5,
+    "price": 100
+   },
+   "best": {
+    "book": "DraftKings",
+    "line": 4.5,
+    "price": 111
+   },
+   "oddsAt": "11:57 AM ET"
   },
   {
    "date": "2026-11-19",
@@ -60,7 +100,17 @@
    "venue": "FedExForum",
    "time": "8:00 PM ET",
    "result": null,
-   "detail": null
+   "detail": null,
+   "fliff": {
+    "line": 7.5,
+    "price": -135
+   },
+   "best": {
+    "book": "FanDuel",
+    "line": 7.5,
+    "price": -125
+   },
+   "oddsAt": "11:57 AM ET"
   },
   {
    "date": "2026-11-18",
