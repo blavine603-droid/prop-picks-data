@@ -1,12 +1,95 @@
 {
- "updated": "Fri, Nov 20, 2026",
- "date": "2026-11-20",
+ "updated": "Sat, Nov 21, 2026",
+ "date": "2026-11-21",
  "record": {
   "W": 53,
   "L": 26
  },
- "noPick": "No NHL games scheduled Fri, Nov 20",
+ "noPick": null,
  "picks": [
+  {
+   "date": "2026-11-21",
+   "player": "Marco Kasper",
+   "prop": "Under 0.5 Assists",
+   "odds": "-400",
+   "matchup": "NYI Islanders at DET Red Wings",
+   "venue": "Little Caesars Arena",
+   "time": "7:00 PM ET",
+   "result": null,
+   "detail": null,
+   "fliff": null,
+   "best": {
+    "book": "Hard Rock",
+    "line": 0.5,
+    "price": -425
+   },
+   "oddsAt": "12:05 PM ET"
+  },
+  {
+   "date": "2026-11-21",
+   "player": "Colton Dach",
+   "prop": "Under 0.5 Assists",
+   "odds": "-385",
+   "matchup": "EDM Oilers at CAR Hurricanes",
+   "venue": "Lenovo Center",
+   "time": "1:00 PM ET",
+   "result": null,
+   "detail": null
+  },
+  {
+   "date": "2026-11-21",
+   "player": "Jordan Staal",
+   "prop": "Under 0.5 Assists",
+   "odds": "-350",
+   "matchup": "EDM Oilers at CAR Hurricanes",
+   "venue": "Lenovo Center",
+   "time": "1:00 PM ET",
+   "result": null,
+   "detail": null,
+   "fliff": null,
+   "best": {
+    "book": "BetMGM",
+    "line": 0.5,
+    "price": -300
+   },
+   "oddsAt": "12:05 PM ET"
+  },
+  {
+   "date": "2026-11-21",
+   "player": "Ross Colton",
+   "prop": "Over 1.5 Shots on Goal",
+   "odds": "-115",
+   "matchup": "PIT Penguins at NSH Predators",
+   "venue": "Bridgestone Arena",
+   "time": "6:00 PM ET",
+   "result": null,
+   "detail": null,
+   "fliff": null,
+   "best": {
+    "book": "BetMGM",
+    "line": 1.5,
+    "price": 105
+   },
+   "oddsAt": "12:05 PM ET"
+  },
+  {
+   "date": "2026-11-21",
+   "player": "Brock Faber",
+   "prop": "Over 0.5 Points",
+   "odds": "+105",
+   "matchup": "MIN Wild at VAN Canucks",
+   "venue": "Rogers Arena",
+   "time": "10:00 PM ET",
+   "result": null,
+   "detail": null,
+   "fliff": null,
+   "best": {
+    "book": "ESPN BET",
+    "line": 0.5,
+    "price": 105
+   },
+   "oddsAt": "12:05 PM ET"
+  },
   {
    "date": "2026-11-19",
    "player": "Mathew Barzal",
