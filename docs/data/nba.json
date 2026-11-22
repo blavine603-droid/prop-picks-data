@@ -1,12 +1,117 @@
 {
- "updated": "Sat, Nov 21, 2026",
- "date": "2026-11-21",
+ "updated": "Sun, Nov 22, 2026",
+ "date": "2026-11-22",
  "record": {
-  "W": 68,
-  "L": 72
+  "W": 70,
+  "L": 75
  },
  "noPick": null,
  "picks": [
+  {
+   "date": "2026-11-22",
+   "player": "Keyonte George",
+   "prop": "Under 11.5 Reb+Ast",
+   "odds": "-114",
+   "matchup": "DAL Mavericks at UTAH Jazz",
+   "venue": "Delta Center",
+   "time": "7:00 PM ET",
+   "result": null,
+   "detail": null,
+   "fliff": {
+    "line": 11.5,
+    "price": -130
+   },
+   "best": {
+    "book": "DraftKings",
+    "line": 11.5,
+    "price": -114
+   },
+   "oddsAt": "12:03 PM ET"
+  },
+  {
+   "date": "2026-11-22",
+   "player": "Ausar Thompson",
+   "prop": "Under 23.5 Pts+Reb+Ast",
+   "odds": "-110",
+   "matchup": "DET Pistons at ATL Hawks",
+   "venue": "State Farm Arena",
+   "time": "3:30 PM ET",
+   "result": null,
+   "detail": null,
+   "fliff": {
+    "line": 23.5,
+    "price": -120
+   },
+   "best": {
+    "book": "FanDuel",
+    "line": 23.5,
+    "price": -102
+   },
+   "oddsAt": "12:03 PM ET"
+  },
+  {
+   "date": "2026-11-22",
+   "player": "Jayson Tatum",
+   "prop": "Under 35.5 Pts+Ast",
+   "odds": "-118",
+   "matchup": "BOS Celtics at GS Warriors",
+   "venue": "Chase Center",
+   "time": "8:30 PM ET",
+   "result": null,
+   "detail": null,
+   "fliff": {
+    "line": 35.5,
+    "price": -125
+   },
+   "best": {
+    "book": "BetMGM",
+    "line": 35.5,
+    "price": -110
+   },
+   "oddsAt": "12:03 PM ET"
+  },
+  {
+   "date": "2026-11-22",
+   "player": "Kelly Oubre",
+   "prop": "Under 12.5 Points",
+   "odds": "-110",
+   "matchup": "IND Pacers at NY Knicks",
+   "venue": "Madison Square Garden",
+   "time": "8:00 PM ET",
+   "result": null,
+   "detail": null,
+   "fliff": {
+    "line": 12.5,
+    "price": -115
+   },
+   "best": {
+    "book": "BetRivers",
+    "line": 12.5,
+    "price": -105
+   },
+   "oddsAt": "12:03 PM ET"
+  },
+  {
+   "date": "2026-11-22",
+   "player": "Jalen Suggs",
+   "prop": "Over 4.5 Assists",
+   "odds": "+125",
+   "matchup": "ORL Magic at WSH Wizards",
+   "venue": "Capital One Arena",
+   "time": "7:00 PM ET",
+   "result": null,
+   "detail": null,
+   "fliff": {
+    "line": 3.5,
+    "price": -170
+   },
+   "best": {
+    "book": "ESPN BET",
+    "line": 4.5,
+    "price": 125
+   },
+   "oddsAt": "12:03 PM ET"
+  },
   {
    "date": "2026-11-21",
    "player": "Paul George",
@@ -15,18 +120,8 @@
    "matchup": "BOS Celtics at SAC Kings",
    "venue": "Golden 1 Center",
    "time": "10:00 PM ET",
-   "result": null,
-   "detail": null,
-   "fliff": {
-    "line": 33.5,
-    "price": -115
-   },
-   "best": {
-    "book": "FanDuel",
-    "line": 33.5,
-    "price": -108
-   },
-   "oddsAt": "12:05 PM ET"
+   "result": "W",
+   "detail": "32 pts+reb+ast (37 min; SAC 97 BOS 96)"
   },
   {
    "date": "2026-11-21",
@@ -36,18 +131,8 @@
    "matchup": "NO Pelicans at SA Spurs",
    "venue": "Frost Bank Center",
    "time": "8:00 PM ET",
-   "result": null,
-   "detail": null,
-   "fliff": {
-    "line": 32.5,
-    "price": -115
-   },
-   "best": {
-    "book": "ESPN BET",
-    "line": 32.5,
-    "price": -110
-   },
-   "oddsAt": "12:05 PM ET"
+   "result": "L",
+   "detail": "51 pts+ast (32 min; SA 114 NO 91)"
   },
   {
    "date": "2026-11-21",
@@ -57,18 +142,8 @@
    "matchup": "NO Pelicans at SA Spurs",
    "venue": "Frost Bank Center",
    "time": "8:00 PM ET",
-   "result": null,
-   "detail": null,
-   "fliff": {
-    "line": 26.5,
-    "price": -115
-   },
-   "best": {
-    "book": "FanDuel",
-    "line": 26.5,
-    "price": -108
-   },
-   "oddsAt": "12:05 PM ET"
+   "result": "L",
+   "detail": "38 pts+reb+ast (34 min; SA 114 NO 91)"
   },
   {
    "date": "2026-11-21",
@@ -78,18 +153,8 @@
    "matchup": "MEM Grizzlies at MIN Timberwolves",
    "venue": "Target Center",
    "time": "8:00 PM ET",
-   "result": null,
-   "detail": null,
-   "fliff": {
-    "line": 10.5,
-    "price": -120
-   },
-   "best": {
-    "book": "BetMGM",
-    "line": 10.5,
-    "price": -105
-   },
-   "oddsAt": "12:05 PM ET"
+   "result": "L",
+   "detail": "8 points (25 min; MIN 104 MEM 95)"
   },
   {
    "date": "2026-11-21",
@@ -99,18 +164,8 @@
    "matchup": "POR Trail Blazers at NY Knicks",
    "venue": "Madison Square Garden",
    "time": "7:30 PM ET",
-   "result": null,
-   "detail": null,
-   "fliff": {
-    "line": 29.5,
-    "price": -125
-   },
-   "best": {
-    "book": "DraftKings",
-    "line": 29.5,
-    "price": -115
-   },
-   "oddsAt": "12:05 PM ET"
+   "result": "W",
+   "detail": "29 pts+reb (36 min; NY 97 POR 96)"
   },
   {
    "date": "2026-11-20",

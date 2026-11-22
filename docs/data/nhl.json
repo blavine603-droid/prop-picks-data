@@ -1,12 +1,48 @@
 {
- "updated": "Sat, Nov 21, 2026",
- "date": "2026-11-21",
+ "updated": "Sun, Nov 22, 2026",
+ "date": "2026-11-22",
  "record": {
-  "W": 53,
-  "L": 26
+  "W": 55,
+  "L": 29
  },
  "noPick": null,
  "picks": [
+  {
+   "date": "2026-11-22",
+   "player": "Dalibor Dvorsky",
+   "prop": "Under 0.5 Assists",
+   "odds": "-350",
+   "matchup": "EDM Oilers at STL Blues",
+   "venue": "Enterprise Center",
+   "time": "7:00 PM ET",
+   "result": null,
+   "detail": null,
+   "fliff": null,
+   "best": {
+    "book": "Hard Rock",
+    "line": 0.5,
+    "price": -350
+   },
+   "oddsAt": "12:03 PM ET"
+  },
+  {
+   "date": "2026-11-22",
+   "player": "Jordan Staal",
+   "prop": "Under 0.5 Assists",
+   "odds": "-320",
+   "matchup": "CAR Hurricanes at NYR Rangers",
+   "venue": "Madison Square Garden",
+   "time": "12:30 PM ET",
+   "result": null,
+   "detail": null,
+   "fliff": null,
+   "best": {
+    "book": "DraftKings",
+    "line": 0.5,
+    "price": -320
+   },
+   "oddsAt": "12:03 PM ET"
+  },
   {
    "date": "2026-11-21",
    "player": "Marco Kasper",
@@ -15,15 +51,8 @@
    "matchup": "NYI Islanders at DET Red Wings",
    "venue": "Little Caesars Arena",
    "time": "7:00 PM ET",
-   "result": null,
-   "detail": null,
-   "fliff": null,
-   "best": {
-    "book": "Hard Rock",
-    "line": 0.5,
-    "price": -425
-   },
-   "oddsAt": "12:05 PM ET"
+   "result": "L",
+   "detail": "1 ast (13:59 TOI; NYI 3-2 DET)"
   },
   {
    "date": "2026-11-21",
@@ -33,8 +62,8 @@
    "matchup": "EDM Oilers at CAR Hurricanes",
    "venue": "Lenovo Center",
    "time": "1:00 PM ET",
-   "result": null,
-   "detail": null
+   "result": "W",
+   "detail": "0 ast (10:53 TOI; EDM 4-7 CAR)"
   },
   {
    "date": "2026-11-21",
@@ -44,15 +73,8 @@
    "matchup": "EDM Oilers at CAR Hurricanes",
    "venue": "Lenovo Center",
    "time": "1:00 PM ET",
-   "result": null,
-   "detail": null,
-   "fliff": null,
-   "best": {
-    "book": "BetMGM",
-    "line": 0.5,
-    "price": -300
-   },
-   "oddsAt": "12:05 PM ET"
+   "result": "L",
+   "detail": "1 ast (16:26 TOI; EDM 4-7 CAR)"
   },
   {
    "date": "2026-11-21",
@@ -62,15 +84,8 @@
    "matchup": "PIT Penguins at NSH Predators",
    "venue": "Bridgestone Arena",
    "time": "6:00 PM ET",
-   "result": null,
-   "detail": null,
-   "fliff": null,
-   "best": {
-    "book": "BetMGM",
-    "line": 1.5,
-    "price": 105
-   },
-   "oddsAt": "12:05 PM ET"
+   "result": "W",
+   "detail": "4 SOG (13:00 TOI; PIT 3-4 NSH)"
   },
   {
    "date": "2026-11-21",
@@ -80,15 +95,8 @@
    "matchup": "MIN Wild at VAN Canucks",
    "venue": "Rogers Arena",
    "time": "10:00 PM ET",
-   "result": null,
-   "detail": null,
-   "fliff": null,
-   "best": {
-    "book": "ESPN BET",
-    "line": 0.5,
-    "price": 105
-   },
-   "oddsAt": "12:05 PM ET"
+   "result": "L",
+   "detail": "0 pts (29:14 TOI; MIN 3-4 VAN)"
   },
   {
    "date": "2026-11-19",
