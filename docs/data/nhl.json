@@ -1,11 +1,11 @@
 {
- "updated": "Sun, Nov 22, 2026",
- "date": "2026-11-22",
+ "updated": "Mon, Nov 23, 2026",
+ "date": "2026-11-23",
  "record": {
-  "W": 55,
-  "L": 29
+  "W": 56,
+  "L": 30
  },
- "noPick": null,
+ "noPick": "7-game slate · Nov 23",
  "picks": [
   {
    "date": "2026-11-22",
@@ -15,15 +15,8 @@
    "matchup": "EDM Oilers at STL Blues",
    "venue": "Enterprise Center",
    "time": "7:00 PM ET",
-   "result": null,
-   "detail": null,
-   "fliff": null,
-   "best": {
-    "book": "Hard Rock",
-    "line": 0.5,
-    "price": -350
-   },
-   "oddsAt": "12:03 PM ET"
+   "result": "W",
+   "detail": "0 ast (11:18 TOI; EDM 4-5 STL)"
   },
   {
    "date": "2026-11-22",
@@ -33,15 +26,8 @@
    "matchup": "CAR Hurricanes at NYR Rangers",
    "venue": "Madison Square Garden",
    "time": "12:30 PM ET",
-   "result": null,
-   "detail": null,
-   "fliff": null,
-   "best": {
-    "book": "DraftKings",
-    "line": 0.5,
-    "price": -320
-   },
-   "oddsAt": "12:03 PM ET"
+   "result": "L",
+   "detail": "1 ast (14:38 TOI; CAR 5-2 NYR)"
   },
   {
    "date": "2026-11-21",

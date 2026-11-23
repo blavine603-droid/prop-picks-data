@@ -1,12 +1,104 @@
 {
- "updated": "Sun, Nov 22, 2026",
- "date": "2026-11-22",
+ "updated": "Mon, Nov 23, 2026",
+ "date": "2026-11-23",
  "record": {
-  "W": 70,
-  "L": 75
+  "W": 71,
+  "L": 78
  },
  "noPick": null,
  "picks": [
+  {
+   "date": "2026-11-23",
+   "player": "Stephon Castle",
+   "prop": "Under 33.5 Pts+Reb+Ast",
+   "odds": "-112",
+   "matchup": "SA Spurs at SAC Kings",
+   "venue": "Golden 1 Center",
+   "time": "10:00 PM ET",
+   "result": null,
+   "detail": null,
+   "fliff": {
+    "line": 33.5,
+    "price": -120
+   },
+   "best": {
+    "book": "FanDuel",
+    "line": 33.5,
+    "price": -112
+   },
+   "oddsAt": "12:04 PM ET"
+  },
+  {
+   "date": "2026-11-23",
+   "player": "VJ Edgecombe",
+   "prop": "Over 17.5 Pts+Reb",
+   "odds": "-110",
+   "matchup": "POR Trail Blazers at PHI 76ers",
+   "venue": "Xfinity Mobile Arena",
+   "time": "7:00 PM ET",
+   "result": null,
+   "detail": null,
+   "fliff": null,
+   "best": {
+    "book": "BetRivers",
+    "line": 18.5,
+    "price": -114
+   },
+   "oddsAt": "12:04 PM ET"
+  },
+  {
+   "date": "2026-11-23",
+   "player": "Jeremiah Fears",
+   "prop": "Under 5.5 Assists",
+   "odds": "-102",
+   "matchup": "PHX Suns at NO Pelicans",
+   "venue": "Smoothie King Center",
+   "time": "8:00 PM ET",
+   "result": null,
+   "detail": null,
+   "fliff": {
+    "line": 5.5,
+    "price": -115
+   },
+   "best": {
+    "book": "DraftKings",
+    "line": 5.5,
+    "price": -102
+   },
+   "oddsAt": "12:04 PM ET"
+  },
+  {
+   "date": "2026-11-23",
+   "player": "Collin Murray-Boyles",
+   "prop": "Under 20.5 Pts+Reb+Ast",
+   "odds": "-108",
+   "matchup": "MIL Bucks at TOR Raptors",
+   "venue": "Scotiabank Arena",
+   "time": "7:30 PM ET",
+   "result": null,
+   "detail": null,
+   "fliff": {
+    "line": 20.5,
+    "price": -115
+   },
+   "best": {
+    "book": "DraftKings",
+    "line": 20.5,
+    "price": -108
+   },
+   "oddsAt": "12:04 PM ET"
+  },
+  {
+   "date": "2026-11-23",
+   "player": "Brandon Ingram",
+   "prop": "Over 18.5 Pts+Reb+Ast",
+   "odds": "-108",
+   "matchup": "LAC Clippers at HOU Rockets",
+   "venue": "Toyota Center (Houston)",
+   "time": "8:30 PM ET",
+   "result": null,
+   "detail": null
+  },
   {
    "date": "2026-11-22",
    "player": "Keyonte George",
@@ -15,18 +107,8 @@
    "matchup": "DAL Mavericks at UTAH Jazz",
    "venue": "Delta Center",
    "time": "7:00 PM ET",
-   "result": null,
-   "detail": null,
-   "fliff": {
-    "line": 11.5,
-    "price": -130
-   },
-   "best": {
-    "book": "DraftKings",
-    "line": 11.5,
-    "price": -114
-   },
-   "oddsAt": "12:03 PM ET"
+   "result": "L",
+   "detail": "12 reb+ast (26 min; UTAH 114 DAL 116)"
   },
   {
    "date": "2026-11-22",
@@ -36,18 +118,8 @@
    "matchup": "DET Pistons at ATL Hawks",
    "venue": "State Farm Arena",
    "time": "3:30 PM ET",
-   "result": null,
-   "detail": null,
-   "fliff": {
-    "line": 23.5,
-    "price": -120
-   },
-   "best": {
-    "book": "FanDuel",
-    "line": 23.5,
-    "price": -102
-   },
-   "oddsAt": "12:03 PM ET"
+   "result": "L",
+   "detail": "34 pts+reb+ast (38 min; ATL 107 DET 97)"
   },
   {
    "date": "2026-11-22",
@@ -57,18 +129,8 @@
    "matchup": "BOS Celtics at GS Warriors",
    "venue": "Chase Center",
    "time": "8:30 PM ET",
-   "result": null,
-   "detail": null,
-   "fliff": {
-    "line": 35.5,
-    "price": -125
-   },
-   "best": {
-    "book": "BetMGM",
-    "line": 35.5,
-    "price": -110
-   },
-   "oddsAt": "12:03 PM ET"
+   "result": "W",
+   "detail": "33 pts+ast (38 min; GS 88 BOS 87)"
   },
   {
    "date": "2026-11-22",
@@ -78,18 +140,8 @@
    "matchup": "IND Pacers at NY Knicks",
    "venue": "Madison Square Garden",
    "time": "8:00 PM ET",
-   "result": null,
-   "detail": null,
-   "fliff": {
-    "line": 12.5,
-    "price": -115
-   },
-   "best": {
-    "book": "BetRivers",
-    "line": 12.5,
-    "price": -105
-   },
-   "oddsAt": "12:03 PM ET"
+   "result": "V",
+   "detail": "did not play"
   },
   {
    "date": "2026-11-22",
@@ -99,18 +151,8 @@
    "matchup": "ORL Magic at WSH Wizards",
    "venue": "Capital One Arena",
    "time": "7:00 PM ET",
-   "result": null,
-   "detail": null,
-   "fliff": {
-    "line": 3.5,
-    "price": -170
-   },
-   "best": {
-    "book": "ESPN BET",
-    "line": 4.5,
-    "price": 125
-   },
-   "oddsAt": "12:03 PM ET"
+   "result": "L",
+   "detail": "2 assists (22 min; WSH 116 ORL 96)"
   },
   {
    "date": "2026-11-21",
