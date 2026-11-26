@@ -2,8 +2,8 @@
  "updated": "Tue, Nov 24, 2026",
  "date": "2026-11-24",
  "record": {
-  "W": 74,
-  "L": 80
+  "W": 77,
+  "L": 82
  },
  "noPick": null,
  "picks": [
@@ -15,18 +15,8 @@
    "matchup": "DAL Mavericks at DEN Nuggets",
    "venue": "Ball Arena",
    "time": "10:00 PM ET",
-   "result": null,
-   "detail": null,
-   "fliff": {
-    "line": 5.5,
-    "price": -105
-   },
-   "best": {
-    "book": "Bally Bet",
-    "line": 5.5,
-    "price": 105
-   },
-   "oddsAt": "10:38 AM ET"
+   "result": "W",
+   "detail": "6 rebounds (25 min; DEN 101 DAL 120)"
   },
   {
    "date": "2026-11-24",
@@ -36,18 +26,8 @@
    "matchup": "DET Pistons at ORL Magic",
    "venue": "Kia Center",
    "time": "7:00 PM ET",
-   "result": null,
-   "detail": null,
-   "fliff": {
-    "line": 6.5,
-    "price": -110
-   },
-   "best": {
-    "book": "FanDuel",
-    "line": 6.5,
-    "price": 100
-   },
-   "oddsAt": "10:38 AM ET"
+   "result": "W",
+   "detail": "6 assists (38 min; ORL 86 DET 104)"
   },
   {
    "date": "2026-11-24",
@@ -57,18 +37,8 @@
    "matchup": "DET Pistons at ORL Magic",
    "venue": "Kia Center",
    "time": "7:00 PM ET",
-   "result": null,
-   "detail": null,
-   "fliff": {
-    "line": 24.5,
-    "price": -135
-   },
-   "best": {
-    "book": "FanDuel",
-    "line": 23.5,
-    "price": -102
-   },
-   "oddsAt": "10:38 AM ET"
+   "result": "L",
+   "detail": "29 pts+reb+ast (35 min; ORL 86 DET 104)"
   },
   {
    "date": "2026-11-24",
@@ -78,18 +48,8 @@
    "matchup": "BOS Celtics at WSH Wizards",
    "venue": "Capital One Arena",
    "time": "8:00 PM ET",
-   "result": null,
-   "detail": null,
-   "fliff": {
-    "line": 33.5,
-    "price": -130
-   },
-   "best": {
-    "book": "FanDuel",
-    "line": 32.5,
-    "price": -104
-   },
-   "oddsAt": "10:38 AM ET"
+   "result": "L",
+   "detail": "49 pts+ast (37 min; WSH 116 BOS 131)"
   },
   {
    "date": "2026-11-24",
@@ -99,15 +59,8 @@
    "matchup": "DAL Mavericks at DEN Nuggets",
    "venue": "Ball Arena",
    "time": "10:00 PM ET",
-   "result": null,
-   "detail": null,
-   "fliff": null,
-   "best": {
-    "book": "Bally Bet",
-    "line": 3.5,
-    "price": -152
-   },
-   "oddsAt": "10:38 AM ET"
+   "result": "W",
+   "detail": "6 reb+ast (17 min; DEN 101 DAL 120)"
   },
   {
    "date": "2026-11-23",
