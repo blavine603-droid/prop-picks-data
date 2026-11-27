@@ -1,12 +1,59 @@
 {
- "updated": "Tue, Nov 24, 2026",
- "date": "2026-11-24",
+ "updated": "Fri, Nov 27, 2026",
+ "date": "2026-11-27",
  "record": {
   "W": 56,
   "L": 30
  },
- "noPick": "1-game slate (VGK at EDM) · Nov 24",
+ "noPick": null,
  "picks": [
+  {
+   "date": "2026-11-27",
+   "player": "Teuvo Teravainen",
+   "prop": "Under 1.5 Shots on Goal",
+   "odds": "-160",
+   "matchup": "NYR Rangers at CHI Blackhawks",
+   "venue": "United Center",
+   "time": "5:30 PM ET",
+   "result": null,
+   "detail": null,
+   "fliff": null,
+   "best": {
+    "book": "Bally Bet",
+    "line": 1.5,
+    "price": -190
+   },
+   "oddsAt": "2:49 PM ET"
+  },
+  {
+   "date": "2026-11-27",
+   "player": "Vasily Podkolzin",
+   "prop": "Over 1.5 Shots on Goal",
+   "odds": "-132",
+   "matchup": "SEA Kraken at EDM Oilers",
+   "venue": "Rogers Place",
+   "time": "8:00 PM ET",
+   "result": null,
+   "detail": null,
+   "fliff": null,
+   "best": {
+    "book": "BetMGM",
+    "line": 1.5,
+    "price": -185
+   },
+   "oddsAt": "2:49 PM ET"
+  },
+  {
+   "date": "2026-11-27",
+   "player": "Tim Washe",
+   "prop": "Under 0.5 Assists",
+   "odds": "-375",
+   "matchup": "LAK Kings at ANA Ducks",
+   "venue": "Honda Center",
+   "time": "4:00 PM ET",
+   "result": null,
+   "detail": null
+  },
   {
    "date": "2026-11-22",
    "player": "Dalibor Dvorsky",

@@ -1,12 +1,51 @@
 {
- "updated": "Sun, Nov 1, 2026",
- "date": "2026-11-01",
+ "updated": "Fri, Nov 27, 2026",
+ "date": "2026-11-27",
  "record": {
   "W": 2,
   "L": 4
  },
  "noPick": null,
  "picks": [
+  {
+   "date": "2026-11-27",
+   "player": "Jordan Watkins",
+   "prop": "Under 5.5 Rec Yds",
+   "odds": "-118",
+   "matchup": "SEA at SF",
+   "venue": "Levi's Stadium",
+   "time": "Sun Nov 29 · 4:25 PM ET",
+   "result": null,
+   "detail": null,
+   "week": 12,
+   "season": 2026
+  },
+  {
+   "date": "2026-11-27",
+   "player": "Cam Ward",
+   "prop": "Under 1.5 Pass TDs",
+   "odds": "-257",
+   "matchup": "TEN at JAX",
+   "venue": "EverBank Stadium",
+   "time": "Sun Nov 29 · 1:00 PM ET",
+   "result": null,
+   "detail": null,
+   "week": 12,
+   "season": 2026
+  },
+  {
+   "date": "2026-11-27",
+   "player": "Tyler Shough",
+   "prop": "Under 1.5 Pass TDs",
+   "odds": "-200",
+   "matchup": "NO at CIN",
+   "venue": "Paycor Stadium",
+   "time": "Sun Nov 29 · 1:00 PM ET",
+   "result": null,
+   "detail": null,
+   "week": 12,
+   "season": 2026
+  },
   {
    "date": "2026-11-01",
    "player": "Caleb Douglas",
@@ -86,6 +125,6 @@
    "season": 2026
   }
  ],
- "week": 8,
+ "week": 12,
  "season": 2026
 }

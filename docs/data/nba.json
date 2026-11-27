@@ -1,12 +1,114 @@
 {
- "updated": "Tue, Nov 24, 2026",
- "date": "2026-11-24",
+ "updated": "Fri, Nov 27, 2026",
+ "date": "2026-11-27",
  "record": {
   "W": 77,
   "L": 82
  },
  "noPick": null,
  "picks": [
+  {
+   "date": "2026-11-27",
+   "player": "Scottie Barnes",
+   "prop": "Under 25.5 Points",
+   "odds": "-118",
+   "matchup": "BKN Nets at TOR Raptors",
+   "venue": "Scotiabank Arena",
+   "time": "7:30 PM ET",
+   "result": null,
+   "detail": null,
+   "fliff": null,
+   "best": {
+    "book": "ESPN BET",
+    "line": 25.5,
+    "price": -115
+   },
+   "oddsAt": "2:49 PM ET"
+  },
+  {
+   "date": "2026-11-27",
+   "player": "Isaiah Joe",
+   "prop": "Under 21.5 Pts+Reb+Ast",
+   "odds": "-111",
+   "matchup": "MIL Bucks at DET Pistons",
+   "venue": "Little Caesars Arena",
+   "time": "7:30 PM ET",
+   "result": null,
+   "detail": null,
+   "fliff": {
+    "line": 21.5,
+    "price": -120
+   },
+   "best": {
+    "book": "ESPN BET",
+    "line": 21.5,
+    "price": -110
+   },
+   "oddsAt": "2:49 PM ET"
+  },
+  {
+   "date": "2026-11-27",
+   "player": "Cedric Coward",
+   "prop": "Under 27.5 Pts+Reb+Ast",
+   "odds": "-118",
+   "matchup": "MEM Grizzlies at MIN Timberwolves",
+   "venue": "Target Center",
+   "time": "8:30 PM ET",
+   "result": null,
+   "detail": null,
+   "fliff": {
+    "line": 27.5,
+    "price": -125
+   },
+   "best": {
+    "book": "BetMGM",
+    "line": 27.5,
+    "price": -111
+   },
+   "oddsAt": "2:49 PM ET"
+  },
+  {
+   "date": "2026-11-27",
+   "player": "Cooper Flagg",
+   "prop": "Under 39.5 Pts+Reb+Ast",
+   "odds": "-110",
+   "matchup": "DAL Mavericks at PHX Suns",
+   "venue": "Mortgage Matchup Center",
+   "time": "9:00 PM ET",
+   "result": null,
+   "detail": null,
+   "fliff": {
+    "line": 39.5,
+    "price": -125
+   },
+   "best": {
+    "book": "FanDuel",
+    "line": 39.5,
+    "price": -118
+   },
+   "oddsAt": "2:49 PM ET"
+  },
+  {
+   "date": "2026-11-27",
+   "player": "DeMar DeRozan",
+   "prop": "Over 11.5 Pts+Ast",
+   "odds": "-103",
+   "matchup": "DEN Nuggets at UTAH Jazz",
+   "venue": "Delta Center",
+   "time": "9:30 PM ET",
+   "result": null,
+   "detail": null,
+   "fliff": {
+    "line": 11.5,
+    "price": -110
+   },
+   "best": {
+    "book": "DraftKings",
+    "line": 11.5,
+    "price": -103
+   },
+   "oddsAt": "2:49 PM ET"
+  },
   {
    "date": "2026-11-24",
    "player": "P.J. Washington",
