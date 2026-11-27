@@ -11,7 +11,7 @@
    "date": "2026-11-27",
    "player": "Scottie Barnes",
    "prop": "Under 25.5 Points",
-   "odds": "-118",
+   "odds": "-117",
    "matchup": "BKN Nets at TOR Raptors",
    "venue": "Scotiabank Arena",
    "time": "7:30 PM ET",
@@ -19,11 +19,11 @@
    "detail": null,
    "fliff": null,
    "best": {
-    "book": "ESPN BET",
+    "book": "DraftKings",
     "line": 25.5,
-    "price": -115
+    "price": -110
    },
-   "oddsAt": "2:49 PM ET"
+   "oddsAt": "5:51 PM ET"
   },
   {
    "date": "2026-11-27",
@@ -37,14 +37,14 @@
    "detail": null,
    "fliff": {
     "line": 21.5,
-    "price": -120
+    "price": -125
    },
    "best": {
     "book": "ESPN BET",
     "line": 21.5,
     "price": -110
    },
-   "oddsAt": "2:49 PM ET"
+   "oddsAt": "5:51 PM ET"
   },
   {
    "date": "2026-11-27",
@@ -58,56 +58,53 @@
    "detail": null,
    "fliff": {
     "line": 27.5,
-    "price": -125
+    "price": -130
    },
    "best": {
-    "book": "BetMGM",
+    "book": "DraftKings",
     "line": 27.5,
-    "price": -111
+    "price": -114
    },
-   "oddsAt": "2:49 PM ET"
-  },
-  {
-   "date": "2026-11-27",
-   "player": "Cooper Flagg",
-   "prop": "Under 39.5 Pts+Reb+Ast",
-   "odds": "-110",
-   "matchup": "DAL Mavericks at PHX Suns",
-   "venue": "Mortgage Matchup Center",
-   "time": "9:00 PM ET",
-   "result": null,
-   "detail": null,
-   "fliff": {
-    "line": 39.5,
-    "price": -125
-   },
-   "best": {
-    "book": "FanDuel",
-    "line": 39.5,
-    "price": -118
-   },
-   "oddsAt": "2:49 PM ET"
+   "oddsAt": "5:51 PM ET"
   },
   {
    "date": "2026-11-27",
    "player": "DeMar DeRozan",
-   "prop": "Over 11.5 Pts+Ast",
-   "odds": "-103",
+   "prop": "Over 13.5 Pts+Reb+Ast",
+   "odds": "+100",
    "matchup": "DEN Nuggets at UTAH Jazz",
    "venue": "Delta Center",
    "time": "9:30 PM ET",
    "result": null,
    "detail": null,
    "fliff": {
-    "line": 11.5,
-    "price": -110
+    "line": 12.5,
+    "price": -130
    },
    "best": {
-    "book": "DraftKings",
-    "line": 11.5,
-    "price": -103
+    "book": "ESPN BET",
+    "line": 12.5,
+    "price": -125
    },
-   "oddsAt": "2:49 PM ET"
+   "oddsAt": "5:51 PM ET"
+  },
+  {
+   "date": "2026-11-27",
+   "player": "Julius Randle",
+   "prop": "Under 31.5 Pts+Reb+Ast",
+   "odds": "-111",
+   "matchup": "BKN Nets at TOR Raptors",
+   "venue": "Scotiabank Arena",
+   "time": "7:30 PM ET",
+   "result": null,
+   "detail": null,
+   "fliff": null,
+   "best": {
+    "book": "FanDuel",
+    "line": 31.5,
+    "price": -104
+   },
+   "oddsAt": "5:51 PM ET"
   },
   {
    "date": "2026-11-24",
